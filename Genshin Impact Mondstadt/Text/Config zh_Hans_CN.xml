@@ -1,0 +1,42 @@
+<GameData>
+	<LocalizedText>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
+			Text="原神·蒙德"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
+			Text="蒙德"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_ADJECTIVE"
+			Text="蒙德"/>
+		
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
+			Text="自由之都"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
+			Text="无法对城邦宣战或发动突袭战争。[NEWLINE]牧场和种植园可触发文化炸弹，每回合 +2 [ICON_Culture] 文化值 +1 [ICON_Food] 食物，并为相邻的单元格提供 +1 魅力。"/>
+		
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_OUTRIDER_NAME"
+			Text="侦查骑士"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_OUTRIDER_DESCRIPTION"
+			Text="替代散兵的蒙德特色侦察单位，游戏开始便可解锁。可攀登悬崖，在丘陵或悬崖上开始回合时 +2 [ICON_Movement] 移动力。"/>
+		
+		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_FAVONIUS_HEADQUARTER_NAME"
+			Text="西风骑士团总部"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_FAVONIUS_HEADQUARTER_DESCRIPTION"
+			Text="替代政体建筑,建造费用更低,并像军营一样拥有外部防御。[NEWLINE]处于和平时期时原始 [ICON_Capital] 首都所在大陆上的所有城市 +1 [ICON_Amenities] 宜居度。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_NAME"
+			Text="七天神像"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_DESCRIPTION"
+			Text="替代纪念碑的原神特色建筑。额外提供 +4 [ICON_Faith] 信仰值。[NEWLINE]接近七天神像的单位恢复10点生命值。近战、远程、抗骑兵和平民单位，可以在拥有七天神像的城市之间传送。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
+			Text="冒险家协会"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_DESCRIPTION"
+			Text="解锁建造冒险家协会（原神特色改良设施）的能力。[NEWLINE][NEWLINE]+3 [ICON_Culture] 文化值，+3 [ICON_Gold] 金币，并为城市生产的军事单位 +25% 经验获取速度。每个城市仅限建造一座。冒险家协会所在的单元格无法被替换更改。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_GENSHIN_FISCHL_NAME"
+			Text="菲谢尔"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GENSHIN_FISCHL_NAME"
+			Text="幽夜净土之皇女"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GENSHIN_FISCHL_DESCRIPTION"
+			Text=""/>
+	</LocalizedText>
+</GameData>

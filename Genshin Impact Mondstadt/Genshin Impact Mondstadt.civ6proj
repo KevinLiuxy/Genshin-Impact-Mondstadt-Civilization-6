@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>MOD_GENSHIN_IMPACT_MONDSTADT</Name>
+    <Guid>440d0a84-d27e-40db-90b6-797d0e820aaa</Guid>
+    <ProjectGuid>9fbc91d4-b2f5-433f-a1e3-f62275c55c75</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>LOC_MOD_GENSHIN_IMPACT_MONDSTADT_TEASER</Teaser>
+    <Description>LOC_MOD_GENSHIN_IMPACT_MONDSTADT_DESCRIPTION</Description>
+    <Authors>Kevin Liu</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>Genshin Impact Mondstadt</AssemblyName>
+    <RootNamespace>Genshin Impact Mondstadt</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Config.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_FRONTEND"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File></UpdateText><UpdateArt id="GENSHIN_MONDSTADT_FRONTEND"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Core.sql</File><File>Data/Civilization_Leader.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_INGAME"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File></UpdateText><UpdateAudio id="GENSHIN_MONDSTADT_INGAME"><File>Platforms/MacOS/Audio/SoundbanksInfo.xml</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.bnk</File><File>Platforms/Windows/Audio/SoundbanksInfo.xml</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.bnk</File></UpdateAudio><UpdateArt id="GENSHIN_MONDSTADT_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <ArtDef Include="ArtDefs\Civilization.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <Content Include="Data\Civilization_Colour.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Civilization_Config.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Civilization_Core.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Civilization_Icon.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Civilization_Leader.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\1006605093.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\288403482.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\397600739.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\405604607.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\59698629.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\743810611.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\894114804.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\996652905.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\GENSHIN_MONDSTADT_MUSIC.bnk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\GENSHIN_MONDSTADT_MUSIC.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\SoundbanksInfo.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\1006605093.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\288403482.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\397600739.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\405604607.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\59698629.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\743810611.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\894114804.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\996652905.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\GENSHIN_MONDSTADT_MUSIC.bnk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\GENSHIN_MONDSTADT_MUSIC.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\SoundbanksInfo.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Config en_US.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Config zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <XLP Include="XLPs\Civilization_Art.xlp">
+      <SubType>Content</SubType>
+    </XLP>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtDefs\" />
+    <Folder Include="Data\" />
+    <Folder Include="Platforms\" />
+    <Folder Include="Platforms\MacOS\" />
+    <Folder Include="Platforms\MacOS\Audio\" />
+    <Folder Include="Platforms\Windows\" />
+    <Folder Include="Platforms\Windows\Audio\" />
+    <Folder Include="Text\" />
+    <Folder Include="XLPs\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

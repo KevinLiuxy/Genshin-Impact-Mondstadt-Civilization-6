@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="Civilization_Art"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_128"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_200"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_32"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_256"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_32"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_45"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_48"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_50"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_55"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_64"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_80"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_LEADER_GENSHIN_FISCHL"/>
+			<m_ObjectName text="PORTRAIT_LEADER_GENSHIN_FISCHL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

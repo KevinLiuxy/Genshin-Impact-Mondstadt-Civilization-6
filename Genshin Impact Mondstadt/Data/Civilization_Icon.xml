@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_256.dds"/>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_200.dds"/>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_128.dds"/>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_80.dds"/>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_64.dds"/>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_50.dds"/>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_48.dds"/>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="44" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_44.dds"/>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="36" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_36.dds"/>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_32.dds"/>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="30" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_30.dds"/>
+		<Row Name="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_GENSHIN_MONDSTADT_22.dds"/>
+
+		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_256.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_80.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_64.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_55.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_50.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_48.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_45.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_32.dds"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_CIVILIZATION_GENSHIN_MONDSTADT" Atlas="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" index="0"/>
+		<Row Name="ICON_LEADER_GENSHIN_FISCHL" Atlas="ATLAS_LEADER_GENSHIN_FISCHL" index="0"/>
+	</IconDefinitions>
+</GameData>

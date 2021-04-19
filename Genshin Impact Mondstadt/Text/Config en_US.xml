@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
+			Text="Genshin·Mondstadt"/>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
+			Text="Mondstadt"/>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_ADJECTIVE"
+			Text="Mondstadt"/>
+
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
+			Text="The City of Freedom"/>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
+			Text="Cannot declear war on City-states or surprise wars.[NEWLINE]Pastures and Plantations triggers Culture Bombs, and +2 [ICON_Culture] Culture, +1 [ICON_Food] Food, +1 Appeal."/>
+
+		<Row Language="en_US" Tag="LOC_UNIT_OUTRIDER_NAME"
+			Text="Out-rider Knight"/>
+		<Row Language="en_US" Tag="LOC_UNIT_OUTRIDER_DESCRIPTION"
+			Text="Mondstadt unique recon unit that replaces the Skirmisher. Available from the start of the game. Can scale cliff walls, +2 [ICON_Movement] Movement when staring a turn on Hills or Cliffs."/>
+
+		<Row Language="en_US" Tag="LOC_DISTRICT_FAVONIUS_HEADQUARTER_NAME"
+			Text="Knights of Favonius Headquater"/>
+		<Row Language="en_US" Tag="LOC_DISTRICT_FAVONIUS_HEADQUARTER_DESCRIPTION"
+			Text="Replaces the Government Plaza and cheaper to build. Provides regional Defence equal to an Encampment.[NEWLINE]Cities on the same continent with your original [ICON_Capital] Capital gain +1 [ICON_Amenities] Amenities whenever you are not at war with any civilization."/>
+
+		<Row Language="en_US" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_NAME"
+			Text="Statue of the Seven"/>
+		<Row Language="en_US" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_DESCRIPTION"
+			Text="Gneshin Impact unique building that replaces the Monument. Provides an additional +4 [ICON_Faith] Faith.[NEWLINE]Units recover 10 Health when moving to a Statue of the Seven.[NEWLINE]Melee, Ranged, Anti-calvary, and Civilian units can Teleport between cities with Statue of the Seven."/>
+
+		<Row Language="en_US" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
+			Text="Adventurers' Guild"/>
+		<Row Language="en_US" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_DESCRIPTION"
+			Text="Unlocks the Builder ability to constrcut a Adventurers' Guild, unique to Genshin Impact.[NEWLINE][NEWLINE]+3 [ICON_Culture] Culture, +3 [ICON_Gold] Gold; +25% combat experience for all land units trained in this city. One per city. Tiles with Adventurers' Guild cannot be swapped."/>
+
+		<Row Language="en_US" Tag="LOC_LEADER_GENSHIN_FISCHL_NAME"
+			Text="Fischl"/>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENSHIN_FISCHL_NAME"
+			Text="Prinzessin der Verurteilung"/>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENSHIN_FISCHL_DESCRIPTION"
+			Text="Placeholder."/>
+	</LocalizedText>
+</GameData>
