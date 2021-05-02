@@ -1,5 +1,10 @@
 INSERT INTO	Types (Type, Kind)
-VALUES ('CIVILIZATION_GENSHIN_MONDSTADT', 'KIND_CIVILIZATION');
+VALUES	('CIVILIZATION_GENSHIN_MONDSTADT',						'KIND_CIVILIZATION'	),
+		('TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL',			'KIND_TRAIT'		),
+		('TRAIT_CIVILIZATION_UNIT_OUTRIDER',					'KIND_TRAIT'		),
+		('TRAIT_CIVILIZATION_DISTRICT_FAVONIUS_HEADQUARTER',	'KIND_TRAIT'		),
+		('UNIT_OUTRIDER',										'KIND_UNIT'			),
+		('DISTRICT_FAVONIUS_HEADQUARTER',						'KIND_DISTRICT'		);
 
 INSERT INTO	Civilizations(
 	CivilizationType,
@@ -19,11 +24,23 @@ INSERT INTO	Civilizations(
 	10
 );
 
+INSERT INTO Traits (TraitType, Name)
+VALUES	('TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL',			'LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_NAME'		),
+		('TRAIT_CIVILIZATION_UNIT_OUTRIDER',					'LOC_TRAIT_CIVILIZATION_UNIT_OUTRIDER_NAME'					),
+		('TRAIT_CIVILIZATION_DISTRICT_FAVONIUS_HEADQUARTER',	'LOC_TRAIT_CIVILIZATION_DISTRICT_FAVONIUS_HEADQUARTER_NAME'	);
+
+INSERT INTO CivilizationTraits (CivilizationType, TraitType)
+VALUES	('CIVILIZATION_GENSHIN_MONDSTADT', 'TRAIT_CIVILIZATION_UNIT_OUTRIDER'					),
+		('CIVILIZATION_GENSHIN_MONDSTADT', 'TRAIT_CIVILIZATION_DISTRICT_FAVONIUS_HEADQUARTER'	);
+
 INSERT INTO	StartBiasTerrains (CivilizationType, TerrainType, Tier)
-VALUES ('CIVILIZATION_GENSHIN_MONDSTADT', 'TERRAIN_PLAINS', 2);
+VALUES ('CIVILIZATION_GENSHIN_MONDSTADT', 'TERRAIN_PLAINS', 3);
 
 INSERT INTO	StartBiasFeatures (CivilizationType, FeatureType, Tier)
-VALUES	('CIVILIZATION_GENSHIN_MONDSTADT', 'FEATURE_FOREST', 5);
+VALUES ('CIVILIZATION_GENSHIN_MONDSTADT', 'FEATURE_FOREST', 5);
+
+INSERT INTO StartBiasRivers (CivilizationType, Tier)
+VALUES ('CIVILIZATION_GENSHIN_MONDSTADT', 5);
 
 INSERT INTO	CityNames (CivilizationType, CityName)
 VALUES	('CIVILIZATION_GENSHIN_MONDSTADT', 'LOC_CITY_NAME_GENSHIN_MONDSTADT_1'),
@@ -95,4 +112,133 @@ VALUES	('CIVILIZATION_GENSHIN_MONDSTADT', 'LOC_CIVINFO_LOCATION'  , 'LOC_CIVINFO
 		('CIVILIZATION_GENSHIN_MONDSTADT', 'LOC_CIVINFO_POPULATION', 'LOC_CIVINFO_GENSHIN_MONDSTADT_POPULATION', 30),
 		('CIVILIZATION_GENSHIN_MONDSTADT', 'LOC_CIVINFO_CAPITAL'   , 'LOC_CIVINFO_GENSHIN_MONDSTADT_CAPITAL'   , 40);
 --------------------------------------------------------------
+INSERT INTO UnitAiInfos (UnitType, AiType)
+VALUES	('UNIT_OUTRIDER',	'UNITAI_EXPLORE'		),
+		('UNIT_OUTRIDER',	'UNITTYPE_LAND_COMBAT'	),
+		('UNIT_OUTRIDER',	'UNITTYPE_RANGED'		);
 
+INSERT INTO UnitReplaces (CivUniqueUnitType, ReplacesUnitType)
+VALUES	('UNIT_OUTRIDER', 'UNIT_SCOUT');
+
+INSERT INTO TypeTags (Type, Tag)
+VALUES	('UNIT_OUTRIDER',	'CLASS_RECON'			),
+		('UNIT_OUTRIDER',	'CLASS_MOBILE_RANGED'	);
+
+INSERT INTO Units(
+	UnitType,
+	Name,
+	Description,
+	Cost,
+	BaseMoves,
+	BaseSightRange,
+	ZoneOfControl,
+	Domain,
+	Combat,
+	RangedCombat,
+	Range,
+	FormationClass,
+	PromotionClass,
+	AdvisorType,
+	PurchaseYield,
+	TraitType
+) VALUES (
+	'UNIT_OUTRIDER',
+	'LOC_UNIT_OUTRIDER_NAME',
+	'LOC_UNIT_OUTRIDER_DESCRIPTION',
+	30, 3, 2, 0,
+	'DOMAIN_LAND',
+	15, 25, 1,
+	'FORMATION_CLASS_LAND_COMBAT',
+	'PROMOTION_CLASS_RECON',
+	'AdvisorType',
+	'YIELD_GOLD',
+	'TRAIT_CIVILIZATION_UNIT_OUTRIDER'
+);
+
+INSERT INTO UnitUpgrades (Unit, UpgradeUnit)
+VALUES ('UNIT_OUTRIDER', 'UNIT_RANGER');
+
+--------------------------------------------------------------
+
+INSERT INTO DistrictReplaces ('CivUniqueDistrictType', 'ReplacesDistrictType')
+VALUES ('DISTRICT_FAVONIUS_HEADQUARTER', 'DISTRICT_GOVERNMENT');
+
+INSERT INTO Districts(
+	DistrictType,
+	Name,
+	Description,
+	PrereqCivic,
+	PlunderType,
+	PlunderAmount,
+	AdvisorType,
+	Cost,
+	CostProgressionModel,
+	CostProgressionParam1,
+	Maintenance,
+	RequiresPlacement,
+	RequiresPopulation,
+	Aqueduct,
+	NoAdjacentCity,
+	InternalOnly,
+	ZOC,
+	HitPoints,
+	CaptureRemovesBuildings,
+	CaptureRemovesCityDefenses,
+	CaptureRemovesDistrict,
+	MilitaryDomain,
+	CityStrengthModifier,
+	MaxPerPlayer,
+	TraitType
+) VALUES (
+	'DISTRICT_FAVONIUS_HEADQUARTER',
+	'LOC_DISTRICT_FAVONIUS_HEADQUARTER_NAME',
+	'LOC_DISTRICT_FAVONIUS_HEADQUARTER_DESCRIPTION',
+	'CIVIC_STATE_WORKFORCE',
+	'NO_PLUNDER',
+	25,
+	'ADVISOR_GENERIC',
+	40,
+	'COST_PROGRESSION_NUM_UNDER_AVG_PLUS_TECH',
+	25, 1, 1, 1, 0, 0, 0, 1,
+	100, 1, 0, 1,
+	'DOMAIN_LAND',
+	2, 1,
+	'TRAIT_CIVILIZATION_DISTRICT_FAVONIUS_HEADQUARTER'
+);
+
+INSERT INTO District_Adjacencies (DistrictType, YieldChangeId)
+VALUES	('DISTRICT_THEATER',			'Mondstadt_Government_Culture'		),
+		('DISTRICT_HOLY_SITE',			'Mondstadt_Government_Faith'		),
+		('DISTRICT_COMMERCIAL_HUB',		'Mondstadt_Government_Gold'			),
+		('DISTRICT_INDUSTRIAL_ZONE',	'Mondstadt_Government_Production'	),
+		('DISTRICT_CAMPUS',				'Mondstadt_Government_Science'		);
+
+INSERT INTO Adjacency_YieldChanges (ID, Description, YieldType, YieldChange, TilesRequired, AdjacentDistrict)
+VALUES	('Mondstadt_Government_Culture',	'LOC_DISTRICT_GOVERNMENT_CULTURE',		'YIELD_CULTURE',	1,	1,	'DISTRICT_FAVONIUS_HEADQUARTER'),
+		('Mondstadt_Government_Faith',		'LOC_DISTRICT_GOVERNMENT_FAITH',		'YIELD_FAITH',		1,	1,	'DISTRICT_FAVONIUS_HEADQUARTER'),
+		('Mondstadt_Government_Gold',		'LOC_DISTRICT_GOVERNMENT_GOLD',			'YIELD_GOLD',		1,	1,	'DISTRICT_FAVONIUS_HEADQUARTER'),
+		('Mondstadt_Government_Production',	'LOC_DISTRICT_GOVERNMENT_PRODUCTION',	'YIELD_PRODUCTION',	1,	1,	'DISTRICT_FAVONIUS_HEADQUARTER'),
+		('Mondstadt_Government_Science',	'LOC_DISTRICT_GOVERNMENT_SCIENCE',		'YIELD_SCIENCE',	1,	1,	'DISTRICT_FAVONIUS_HEADQUARTER');
+
+INSERT INTO District_TradeRouteYields (DistrictType, YieldType, YieldChangeAsOrigin, YieldChangeAsDomesticDestination, YieldChangeAsInternationalDestination)
+VALUES	('DISTRICT_FAVONIUS_HEADQUARTER',	'YIELD_GOLD',		0, 0, 2),
+		('DISTRICT_FAVONIUS_HEADQUARTER',	'YIELD_FOOD',		0, 1, 0),
+		('DISTRICT_FAVONIUS_HEADQUARTER',	'YIELD_PRODUCTION',	0, 1, 0);
+
+INSERT INTO District_GreatPersonPoints (DistrictType, GreatPersonClassType, PointsPerTurn)
+VALUES	('DISTRICT_FAVONIUS_HEADQUARTER',	'GREAT_PERSON_CLASS_GENERAL',	1);
+
+INSERT INTO DistrictModifiers (DistrictType, ModifierId)
+VALUES	('DISTRICT_FAVONIUS_HEADQUARTER',	'GOVERNMENT_IDENTITY_PER_TURN_MODIFIER' ),
+		('DISTRICT_FAVONIUS_HEADQUARTER',	'GOVERNMENT_AT_PEACE_AMENITIES_MODIFIER');
+
+--------------------------------------------------------------
+INSERT INTO Modifiers (ModifierId, ModifierType, SubjectRequirementSetId)
+VALUES (
+	'GOVERNMENT_AT_PEACE_AMENITIES_MODIFIER',
+	'MODIFIER_PLAYER_CITIES_ADJUST_AMENITIES_FROM_GOVERNORS',
+	'PLAYER_IS_AT_PEACE_WITH_ALL_MAJORS'
+);
+
+INSERT INTO ModifierArguments (ModifierId, Name, Value)
+VALUES ('GOVERNMENT_AT_PEACE_AMENITIES_MODIFIER', 'Amount', 1);

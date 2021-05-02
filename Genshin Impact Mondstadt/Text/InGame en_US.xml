@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_1"  Text="蒙德城"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_2"  Text="清泉镇"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_3"  Text="凤起地"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_4"  Text="摘星崖"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_5"  Text="千风神殿"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_6"  Text="晨曦酒庄"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_7"  Text="奔狼领"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_8"  Text="望风角"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_9"  Text="明冠峡"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_10" Text="达达乌帕"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_11" Text="誓言岬"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_12" Text="风龙神殿"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_13" Text="马斯克礁"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_14" Text="仲夏庭园"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_15" Text="铭记之谷"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_16" Text="塞西莉亚苗圃"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_17" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_18" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_19" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_20" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_21" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_22" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_23" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_24" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_25" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_28" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_29" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_30" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_1"  Text="City of Mondstadt"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_2"  Text="Springvale"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_3"  Text="凤起地"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_4"  Text="摘星崖"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_5"  Text="Thousand Winds Temple"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_6"  Text="Dawn Winery"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_7"  Text="奔狼领"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_8"  Text="望风角"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_9"  Text="Brightcrown Canyon"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_10" Text="达达乌帕"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_11" Text="Cape Oath"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_12" Text="风龙神殿"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_13" Text="Musk Reef"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_14" Text="仲夏庭园"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_15" Text="铭记之谷"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_16" Text="塞西莉亚苗圃"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_17" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_18" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_19" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_20" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_21" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_22" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_23" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_24" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_25" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_28" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_29" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_30" Text=""/>
 	</LocalizedText>
 </GameData>

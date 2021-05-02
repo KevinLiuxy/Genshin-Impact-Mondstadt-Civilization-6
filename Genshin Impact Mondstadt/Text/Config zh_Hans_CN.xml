@@ -8,9 +8,9 @@
 			Text="蒙德"/>
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
-			Text="自由之都"/>
+			Text="风与牧歌之城"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
-			Text="无法对城邦宣战或发动突袭战争。[NEWLINE]牧场和种植园可触发文化炸弹，每回合 +2 [ICON_Culture] 文化值 +1 [ICON_Food] 食物，并为相邻的单元格提供 +1 魅力。"/>
+			Text="山脉、湖泊、海岸地貌每种为相邻森林单元格提供 +1 [ICON_Faith] 信仰，该单元格魅力为惊艳时 +2 [ICON_Faith] 信仰。[NEWLINE]牧场和种植园可触发文化炸弹，每回合 +2 [ICON_Culture] 文化值，并为相邻的单元格提供 +1 魅力。"/>
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_OUTRIDER_NAME"
 			Text="侦查骑士"/>

@@ -8,6 +8,10 @@
 		<Element>
 			<consumerName text="Units"/>
 			<relativeArtDefPaths>
+				<Element text="Civilization.artdef"/>
+				<Element text="District.artdef"/>
+				<Element text="Landmark.artdef"/>
+				<Element text="Unit.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="Unit"/>
@@ -29,6 +33,10 @@
 		<Element>
 			<consumerName text="Landmarks"/>
 			<relativeArtDefPaths>
+				<Element text="Civilization.artdef"/>
+				<Element text="Culture.artdef"/>
+				<Element text="District.artdef"/>
+				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="CityBuildings"/>
@@ -68,6 +76,10 @@
 		<Element>
 			<consumerName text="StrategicView_Sprite"/>
 			<relativeArtDefPaths>
+				<Element text="Civilization.artdef"/>
+				<Element text="Culture.artdef"/>
+				<Element text="District.artdef"/>
+				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="StrategicView_Sprite"/>
@@ -78,6 +90,10 @@
 		<Element>
 			<consumerName text="StrategicView_Route"/>
 			<relativeArtDefPaths>
+				<Element text="Civilization.artdef"/>
+				<Element text="Culture.artdef"/>
+				<Element text="District.artdef"/>
+				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="StrategicView_Route"/>
@@ -192,6 +208,10 @@
 		<Element>
 			<consumerName text="VFX"/>
 			<relativeArtDefPaths>
+				<Element text="Civilization.artdef"/>
+				<Element text="Culture.artdef"/>
+				<Element text="District.artdef"/>
+				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="VFX"/>
@@ -254,6 +274,7 @@
 		<Element>
 			<consumerName text="Cultures"/>
 			<relativeArtDefPaths>
+				<Element text="Culture.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 			</libraryDependencies>
@@ -278,6 +299,10 @@
 		<Element>
 			<consumerName text="WorldView_Translate"/>
 			<relativeArtDefPaths>
+				<Element text="Civilization.artdef"/>
+				<Element text="Culture.artdef"/>
+				<Element text="District.artdef"/>
+				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 			</libraryDependencies>
@@ -286,6 +311,10 @@
 		<Element>
 			<consumerName text="StrategicView_Translate"/>
 			<relativeArtDefPaths>
+				<Element text="Civilization.artdef"/>
+				<Element text="Culture.artdef"/>
+				<Element text="District.artdef"/>
+				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 			</libraryDependencies>
@@ -294,6 +323,10 @@
 		<Element>
 			<consumerName text="Audio"/>
 			<relativeArtDefPaths>
+				<Element text="Civilization.artdef"/>
+				<Element text="District.artdef"/>
+				<Element text="Landmark.artdef"/>
+				<Element text="Unit.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 			</libraryDependencies>
@@ -323,6 +356,7 @@
 		<Element>
 			<consumerName text="LeaderFallback"/>
 			<relativeArtDefPaths>
+				<Element text="LeaderFallback.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="LeaderFallback"/>
@@ -467,6 +501,7 @@
 		<Element>
 			<libraryName text="LeaderFallback"/>
 			<relativePackagePaths>
+				<Element text="LeaderFallback"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>
@@ -591,5 +626,9 @@
 			<name text="Civ6"/>
 			<id text="cb2f71b7-843e-4af3-9ca7-992acda9c195"/>
 		</Element>
+		<Element>
+            <name text="Expansion1"/>
+            <id text="7446c8fe-29eb-44f8-801f-098f681cc5c5"/>
+        </Element>
 	</requiredGameArtIDs>
 </AssetObjects::GameArtSpecification>
