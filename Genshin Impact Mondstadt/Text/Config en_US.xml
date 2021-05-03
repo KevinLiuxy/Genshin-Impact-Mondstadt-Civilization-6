@@ -8,15 +8,15 @@
 		<Row Language="en_US" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_ADJECTIVE"
 			Text="Mondstadt"/>
 
-		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_NAME"
 			Text="City of Winds and Idylls"/>
-		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
-			Text="Forest tiles receives +1 [ICON_Faith] Faith form each type of adjacent Mountains, Lakes, and Coast terrain. +2 [ICON_Faith] Faith if the tile has Breathtaking Appeal.[NEWLINE]Pastures and Plantations triggers Culture Bombs, +2 [ICON_Culture] Culture per turn, and +1 Appeal to surrounding tiles."/>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_DESCRIPTION"
+			Text="Tiles receive +1 [ICON_Faith] Faith form each type of adjacent Mountains, Lakes, and Coast terrain; +2 [ICON_Faith] Faith if the tile has unimproved Forest.[NEWLINE]Pastures and Plantations triggers Culture Bombs, +1 [ICON_Culture] Culture per turn, and +1 Appeal to surrounding tiles."/>
 
 		<Row Language="en_US" Tag="LOC_UNIT_OUTRIDER_NAME"
 			Text="Out-rider Knight"/>
 		<Row Language="en_US" Tag="LOC_UNIT_OUTRIDER_DESCRIPTION"
-			Text="Mondstadt unique recon unit that replaces the Skirmisher. Available from the start of the game. Can scale cliff walls, +2 [ICON_Movement] Movement when staring a turn on Hills or Cliffs."/>
+			Text="Mondstadt unique recon unit that replaces the Skirmisher. Available from the start of the game. Can scale cliff walls, +1 [ICON_Movement] Movement when staring turns on Hills."/>
 
 		<Row Language="en_US" Tag="LOC_DISTRICT_FAVONIUS_HEADQUARTER_NAME"
 			Text="Knights of Favonius Headquater"/>

@@ -7,15 +7,15 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_ADJECTIVE"
 			Text="蒙德"/>
 		
-		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_NAME"
 			Text="风与牧歌之城"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
-			Text="山脉、湖泊、海岸地貌每种为相邻森林单元格提供 +1 [ICON_Faith] 信仰，该单元格魅力为惊艳时 +2 [ICON_Faith] 信仰。[NEWLINE]牧场和种植园可触发文化炸弹，每回合 +2 [ICON_Culture] 文化值，并为相邻的单元格提供 +1 魅力。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_DESCRIPTION"
+			Text="山脉、湖泊、海岸地貌：每种为相邻迷人的单元格提供 +1 [ICON_Faith] 信仰值；为相邻魅力为迷人且未改良的森林 +2 [ICON_Faith] 信仰值。[NEWLINE]牧场和种植园可触发文化炸弹，每回合 +1 [ICON_Culture] 文化值，相邻单元格 +1 魅力。"/>
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_OUTRIDER_NAME"
 			Text="侦查骑士"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_OUTRIDER_DESCRIPTION"
-			Text="替代散兵的蒙德特色侦察单位，游戏开始便可解锁。可攀登悬崖，在丘陵或悬崖上开始回合时 +2 [ICON_Movement] 移动力。"/>
+			Text="替代散兵的蒙德特色侦察单位，游戏开始便可解锁。可攀登悬崖，在丘陵上开启回合时 +1 [ICON_Movement] 移动力。"/>
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_FAVONIUS_HEADQUARTER_NAME"
 			Text="西风骑士团总部"/>
