@@ -1,9 +1,9 @@
-INSERT INTO	Types (Type, Kind)
+INSERT INTO Types (Type, Kind)
 VALUES	('LEADER_GENSHIN_FISCHL',		'KIND_LEADER'	);/*,
 		('TRAIT_LEADER_GENSHIN_FISCHL',	'KIND_TRAIT'	),
 		('TRAIT_LEADER_GENSHIN_FISCHL',	'KIND_TRAIT'	);*/
 
-INSERT INTO	Leaders (LeaderType, Name, InheritFrom, SceneLayers)
+INSERT INTO Leaders (LeaderType, Name, InheritFrom, SceneLayers)
 VALUES ('LEADER_GENSHIN_FISCHL', 'LOC_LEADER_GENSHIN_FISCHL_NAME', 'LEADER_DEFAULT', 4);
 
 INSERT INTO CivilizationLeaders (CivilizationType, LeaderType, CapitalName)

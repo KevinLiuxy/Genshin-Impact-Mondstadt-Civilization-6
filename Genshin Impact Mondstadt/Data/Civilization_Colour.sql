@@ -1,4 +1,4 @@
-INSERT INTO	Colors (Type, Color)
+INSERT INTO Colors (Type, Color)
 VALUES	('COLOR_GENSHIN_MONDSTADT_PRIMARY',				'153,255,196,255'	),
 		('COLOR_GENSHIN_MONDSTADT_SECONDARY',			'12,64,64,255'		),
 		('COLOR_LERDER_GENSHIN_FISCHL_A_PRIMARY',		'95,76,140,255'		),
@@ -7,7 +7,7 @@ VALUES	('COLOR_GENSHIN_MONDSTADT_PRIMARY',				'153,255,196,255'	),
 		('COLOR_LERDER_GENSHIN_FISCHL_B_SECONDARY',		'60,38,108,255'		);
 
 --------------------------------------------------------------
-INSERT INTO	PlayerColors(
+INSERT INTO PlayerColors(
 	Type,
 	Usage,
 	PrimaryColor,

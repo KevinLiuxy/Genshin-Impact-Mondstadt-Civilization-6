@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" IconSize="256" IconsPerRow="4" IconsPerColumn="1" Filename="Portugal_UnitActions256.dds"/>
+		<Row Name="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" IconSize="80" IconsPerRow="4"  IconsPerColumn="1" Filename="Portugal_UnitActions80.dds"/>
+		<Row Name="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" IconSize="50" IconsPerRow="4"  IconsPerColumn="1" Filename="Portugal_UnitActions50.dds"/>
+		<Row Name="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" IconSize="38" IconsPerRow="4"  IconsPerColumn="1" Filename="Portugal_UnitActions38.dds"/>
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<Row Name="ICON_IMPROVEMENT_ADVENTURERS_GUILD" Atlas="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" Index="0"/>
+	</IconDefinitions>
+</GameData>

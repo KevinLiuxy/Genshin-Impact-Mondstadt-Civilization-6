@@ -23,6 +23,7 @@
 		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_45.dds"/>
 		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_32.dds"/>
 	</IconTextureAtlases>
+	
 	<IconDefinitions>
 		<Row Name="ICON_CIVILIZATION_GENSHIN_MONDSTADT" Atlas="ATLAS_CIVILIZATION_GENSHIN_MONDSTADT" index="0"/>
 		<Row Name="ICON_LEADER_GENSHIN_FISCHL" Atlas="ATLAS_LEADER_GENSHIN_FISCHL" index="0"/>

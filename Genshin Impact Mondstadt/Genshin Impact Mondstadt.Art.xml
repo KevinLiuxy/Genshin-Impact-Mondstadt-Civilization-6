@@ -593,6 +593,7 @@
 			<libraryName text="UITexture"/>
 			<relativePackagePaths>
 				<Element text="Civilization_Art"/>
+				<Element text="DLC_Icons"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>

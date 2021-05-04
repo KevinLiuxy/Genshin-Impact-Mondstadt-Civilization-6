@@ -11,7 +11,7 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_NAME"
 			Text="City of Winds and Idylls"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_DESCRIPTION"
-			Text="Tiles receive +1 [ICON_Faith] Faith form each type of adjacent Mountains, Lakes, and Coast terrain; +2 [ICON_Faith] Faith if the tile has unimproved Forest.[NEWLINE]Pastures and Plantations triggers Culture Bombs, +1 [ICON_Culture] Culture per turn, and +1 Appeal to surrounding tiles."/>
+			Text="Breathtaking tiles receive +1 [ICON_Faith] Faith form each type of adjacent Mountains, Lakes, and Coast terrain; +2 [ICON_Faith] Faith if the tile has unimproved Forest.[NEWLINE]Pastures and Plantations triggers Culture Bombs, and +1 [ICON_Culture] Culture per turn."/>
 
 		<Row Language="en_US" Tag="LOC_UNIT_OUTRIDER_NAME"
 			Text="Out-rider Knight"/>

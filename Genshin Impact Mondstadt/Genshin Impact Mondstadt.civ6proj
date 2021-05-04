@@ -18,8 +18,8 @@
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
     <AssemblyName>Genshin Impact Mondstadt</AssemblyName>
     <RootNamespace>Genshin Impact Mondstadt</RootNamespace>
-    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Config.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_FRONTEND"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File></UpdateText><UpdateArt id="GENSHIN_MONDSTADT_FRONTEND"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Core.sql</File><File>Data/Civilization_Leader.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_INGAME"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File><File>Text/InGame en_US.xml</File><File>Text/InGame zh_Hans_CN.xml</File></UpdateText><UpdateAudio id="GENSHIN_MONDSTADT_INGAME"><File>Platforms/MacOS/Audio/SoundbanksInfo.xml</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.bnk</File><File>Platforms/Windows/Audio/SoundbanksInfo.xml</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.bnk</File></UpdateAudio><UpdateArt id="GENSHIN_MONDSTADT_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="GENSHIN_MONDSTADT_EXP2"><File>Data/Expansion2_Data.sql</File></UpdateDatabase></InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Config.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Icon.xml</File><File>Data/Genshin_Shared_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_FRONTEND"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File></UpdateText><UpdateArt id="GENSHIN_MONDSTADT_FRONTEND"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Core.sql</File><File>Data/Civilization_Leader.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Icon.xml</File><File>Data/Genshin_Shared_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_INGAME"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File><File>Text/InGame en_US.xml</File><File>Text/InGame zh_Hans_CN.xml</File></UpdateText><UpdateAudio id="GENSHIN_MONDSTADT_INGAME"><File>Platforms/MacOS/Audio/SoundbanksInfo.xml</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.bnk</File><File>Platforms/Windows/Audio/SoundbanksInfo.xml</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.bnk</File></UpdateAudio><UpdateArt id="GENSHIN_MONDSTADT_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="GENSHIN_MONDSTADT_EXP2"><File>Data/Expansion2_Data.sql</File></UpdateDatabase></InGameActions>]]></InGameActionData>
     <AssociationData><![CDATA[<Associations>
   <Dependency type="Dlc" title="Expansion: Rise and Fall" id="1B28771A-C749-434B-9053-D1380C553DE9" />
 </Associations>]]></AssociationData>
@@ -64,6 +64,9 @@
     <Content Include="Data\Expansion2_Data.sql">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Data\Genshin_Shared_Icon.xml">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Platforms\MacOS\Audio\1006605093.wem">
       <SubType>Content</SubType>
     </Content>
@@ -95,6 +98,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Platforms\MacOS\Audio\SoundbanksInfo.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\BLPs\DLC_Icons.blp">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Platforms\Windows\Audio\1006605093.wem">
@@ -130,6 +136,9 @@
     <Content Include="Platforms\Windows\Audio\SoundbanksInfo.xml">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Platforms\Windows\BLPs\DLC_Icons.blp">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Text\Config en_US.xml">
       <SubType>Content</SubType>
     </Content>
@@ -152,8 +161,10 @@
     <Folder Include="Platforms\" />
     <Folder Include="Platforms\MacOS\" />
     <Folder Include="Platforms\MacOS\Audio\" />
+    <Folder Include="Platforms\MacOS\BLPs\" />
     <Folder Include="Platforms\Windows\" />
     <Folder Include="Platforms\Windows\Audio\" />
+    <Folder Include="Platforms\Windows\BLPs\" />
     <Folder Include="Text\" />
     <Folder Include="XLPs\" />
   </ItemGroup>
