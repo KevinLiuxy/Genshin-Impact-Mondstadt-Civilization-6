@@ -31,7 +31,7 @@
 		<Row Language="en_US" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
 			Text="Adventurers' Guild"/>
 		<Row Language="en_US" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_DESCRIPTION"
-			Text="Unlocks the Builder ability to constrcut a Adventurers' Guild, unique to Genshin Impact.[NEWLINE][NEWLINE]+3 [ICON_Culture] Culture, +3 [ICON_Gold] Gold to this tile and all adjacent unimproved tiles; +25% combat experience for all land units trained in this city. One per city. Tiles with Adventurers' Guild cannot be swapped."/>
+			Text="Unlocks the Builder ability to constrcut a Adventurers' Guild, unique to Genshin Impact.[NEWLINE][NEWLINE]+2 [ICON_Culture] Culture and +1 [ICON_Production] Production; +1 [ICON_Gold] to adjacent tiles. +25% combat experience for all land units trained in this city. One per city. Tiles with Adventurers' Guild cannot be swapped."/>
 
 		<Row Language="en_US" Tag="LOC_LEADER_GENSHIN_FISCHL_NAME"
 			Text="Fischl"/>

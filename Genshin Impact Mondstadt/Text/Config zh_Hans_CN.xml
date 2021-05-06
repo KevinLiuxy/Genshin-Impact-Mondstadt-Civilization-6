@@ -10,7 +10,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_NAME"
 			Text="风与牧歌之城"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_DESCRIPTION"
-			Text="山脉、湖泊、海岸地貌：种为相邻惊艳的单元格提供 +1 [ICON_Faith] 信仰；为相邻魅力为惊艳且未改良的森林 +2 [ICON_Faith] 信仰。[NEWLINE]牧场和种植园可触发文化炸弹，每回合 +1 [ICON_Culture] 文化值。"/>
+			Text="山脉、湖泊、海岸地貌：每种为相邻惊艳的单元格提供 +1 [ICON_Faith] 信仰；为相邻魅力为惊艳且未改良的森林 +2 [ICON_Faith] 信仰。[NEWLINE]牧场和种植园可触发文化炸弹，每回合 +1 [ICON_Culture] 文化值。"/>
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_OUTRIDER_NAME"
 			Text="侦查骑士"/>
@@ -30,7 +30,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
 			Text="冒险家协会"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_DESCRIPTION"
-			Text="解锁建造冒险家协会（原神特色改良设施）的能力。[NEWLINE][NEWLINE]为其所在单元格、和相邻的未改良单元格 +1 [ICON_Culture] 文化值，+2 [ICON_Gold] 金币，+1 魅力；该城市生产的军事单位 +25% 经验获取速度。每个城市仅限建造一座。冒险家协会所在的单元格无法被替换更改。"/>
+			Text="解锁建造冒险家协会（原神特色改良设施）的能力。[NEWLINE][NEWLINE]+2 [ICON_Culture] 文化值 +1 [ICON_Production] 生产力，为相邻单元格 +1 [ICON_Gold] 金币；该城市生产的军事单位 +25% 经验获取速度。每个城市仅限建造一座。冒险家协会所在的单元格无法被替换更改。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_GENSHIN_FISCHL_NAME"
 			Text="菲谢尔"/>

@@ -18,8 +18,8 @@
 							<m_ElementName text="Gen_CityCenter"/>
 							<m_RootCollectionName text="Generator"/>
 							<m_ArtDefPath text="CityGenerators.artdef"/>
-							<m_CollectionIsLocked>false</m_CollectionIsLocked>
-							<m_TemplateName text=""/>
+							<m_CollectionIsLocked>true</m_CollectionIsLocked>
+							<m_TemplateName text="CityGenerators"/>
 							<m_ParamName text="DistrictGenerator"/>
 						</Element>
 						<Element class="AssetObjects..RGBValue">
@@ -115,10 +115,195 @@
 							<m_Name text="DIS_CTY_RMST_Palace"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..ArtDefReferenceValue">
+										<m_ElementName text="BUILDING_STATUE_OF_THE_SEVEN"/>
+										<m_RootCollectionName text="Building"/>
+										<m_ArtDefPath text="Building.artdef"/>
+										<m_CollectionIsLocked>true</m_CollectionIsLocked>
+										<m_TemplateName text="Buildings"/>
+										<m_ParamName text="Tag_HeroBuilding"/>
+									</Element>
+									<Element class="AssetObjects..ArtDefReferenceValue">
+										<m_ElementName text="DEFAULT"/>
+										<m_RootCollectionName text="ArtEra"/>
+										<m_ArtDefPath text="Eras.artdef"/>
+										<m_CollectionIsLocked>true</m_CollectionIsLocked>
+										<m_TemplateName text="Eras"/>
+										<m_ParamName text="Tag_Era"/>
+									</Element>
+									<Element class="AssetObjects..ArtDefReferenceValue">
+										<m_ElementName text="DEFAULT"/>
+										<m_RootCollectionName text="Culture"/>
+										<m_ArtDefPath text="Culture.artdef"/>
+										<m_CollectionIsLocked>true</m_CollectionIsLocked>
+										<m_TemplateName text="Cultures"/>
+										<m_ParamName text="Tag_Culture"/>
+									</Element>
+									<Element class="AssetObjects..ArtDefReferenceValue">
+										<m_ElementName text="ANY"/>
+										<m_RootCollectionName text="AppealTags"/>
+										<m_ArtDefPath text="Appeal.artdef"/>
+										<m_CollectionIsLocked>true</m_CollectionIsLocked>
+										<m_TemplateName text="Appeal"/>
+										<m_ParamName text="Tag_Appeal"/>
+									</Element>
+									<Element class="AssetObjects..BLPEntryValue">
+										<m_EntryName text="DIS_CTY_ANC_Monument"/>
+										<m_XLPClass text="TileBase"/>
+										<m_XLPPath text="tilebases.xlp"/>
+										<m_BLPPackage text="landmarks/tilebases"/>
+										<m_LibraryName text="TileBase"/>
+										<m_ParamName text="Asset"/>
+									</Element>
+									<Element class="AssetObjects..StringValue">
+										<m_Value text=""/>
+										<m_ParamName text="SelectionRule"/>
+									</Element>
+									<Element class="AssetObjects..IntValue">
+										<m_nValue>0</m_nValue>
+										<m_ParamName text="Priority"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="StatueOfTheSeven"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
 					</Element>
 					<Element>
 						<m_CollectionName text="BuildingSets"/>
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..CollectionValue">
+										<m_eObjectType>INVALID</m_eObjectType>
+										<m_eValueType>ARTDEF_REF</m_eValueType>
+										<m_Values>
+											<Element class="AssetObjects..ArtDefReferenceValue">
+												<m_ElementName text="BUILDING_STATUE_OF_THE_SEVEN"/>
+												<m_RootCollectionName text="Building"/>
+												<m_ArtDefPath text="Building.artdef"/>
+												<m_CollectionIsLocked>true</m_CollectionIsLocked>
+												<m_TemplateName text="Buildings"/>
+												<m_ParamName text="Set001"/>
+											</Element>
+										</m_Values>
+										<m_ParamName text="Set"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="StatueOfTheSeven"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..CollectionValue">
+										<m_eObjectType>INVALID</m_eObjectType>
+										<m_eValueType>ARTDEF_REF</m_eValueType>
+										<m_Values>
+											<Element class="AssetObjects..ArtDefReferenceValue">
+												<m_ElementName text="BUILDING_STATUE_OF_THE_SEVEN"/>
+												<m_RootCollectionName text="Building"/>
+												<m_ArtDefPath text="Building.artdef"/>
+												<m_CollectionIsLocked>true</m_CollectionIsLocked>
+												<m_TemplateName text="Buildings"/>
+												<m_ParamName text="Set001"/>
+											</Element>
+											<Element class="AssetObjects..ArtDefReferenceValue">
+												<m_ElementName text="BUILDING_GRANARY"/>
+												<m_RootCollectionName text="Building"/>
+												<m_ArtDefPath text="Buildings.artdef"/>
+												<m_CollectionIsLocked>true</m_CollectionIsLocked>
+												<m_TemplateName text="Buildings"/>
+												<m_ParamName text="Set002"/>
+											</Element>
+										</m_Values>
+										<m_ParamName text="Set"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="StatueOfTheSeven, GRANARY"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..CollectionValue">
+										<m_eObjectType>INVALID</m_eObjectType>
+										<m_eValueType>ARTDEF_REF</m_eValueType>
+										<m_Values>
+											<Element class="AssetObjects..ArtDefReferenceValue">
+												<m_ElementName text="BUILDING_PALACE"/>
+												<m_RootCollectionName text="Building"/>
+												<m_ArtDefPath text="Buildings.artdef"/>
+												<m_CollectionIsLocked>true</m_CollectionIsLocked>
+												<m_TemplateName text="Buildings"/>
+												<m_ParamName text="Set001"/>
+											</Element>
+											<Element class="AssetObjects..ArtDefReferenceValue">
+												<m_ElementName text="BUILDING_STATUE_OF_THE_SEVEN"/>
+												<m_RootCollectionName text="Building"/>
+												<m_ArtDefPath text="Building.artdef"/>
+												<m_CollectionIsLocked>true</m_CollectionIsLocked>
+												<m_TemplateName text="Buildings"/>
+												<m_ParamName text="Set002"/>
+											</Element>
+										</m_Values>
+										<m_ParamName text="Set"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="StatueOfTheSeven, PALACE"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..CollectionValue">
+										<m_eObjectType>INVALID</m_eObjectType>
+										<m_eValueType>ARTDEF_REF</m_eValueType>
+										<m_Values>
+											<Element class="AssetObjects..ArtDefReferenceValue">
+												<m_ElementName text="BUILDING_STATUE_OF_THE_SEVEN"/>
+												<m_RootCollectionName text="Building"/>
+												<m_ArtDefPath text="Building.artdef"/>
+												<m_CollectionIsLocked>true</m_CollectionIsLocked>
+												<m_TemplateName text="Buildings"/>
+												<m_ParamName text="Set001"/>
+											</Element>
+											<Element class="AssetObjects..ArtDefReferenceValue">
+												<m_ElementName text="BUILDING_PALACE"/>
+												<m_RootCollectionName text="Building"/>
+												<m_ArtDefPath text="Buildings.artdef"/>
+												<m_CollectionIsLocked>true</m_CollectionIsLocked>
+												<m_TemplateName text="Buildings"/>
+												<m_ParamName text="Set002"/>
+											</Element>
+											<Element class="AssetObjects..ArtDefReferenceValue">
+												<m_ElementName text="BUILDING_GRANARY"/>
+												<m_RootCollectionName text="Building"/>
+												<m_ArtDefPath text="Buildings.artdef"/>
+												<m_CollectionIsLocked>true</m_CollectionIsLocked>
+												<m_TemplateName text="Buildings"/>
+												<m_ParamName text="Set003"/>
+											</Element>
+										</m_Values>
+										<m_ParamName text="Set"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="StatueOfTheSeven, PALACE, GRANARY"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
 					</Element>
 				</m_ChildCollections>
 				<m_Name text="DISTRICT_CITY_CENTER"/>

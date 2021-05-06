@@ -14,7 +14,7 @@ function statue7Heal(iPlayerID, iUnitID, PlotX, PlotY)		-- Unit Moved to Statue 
 		if (pCityBuildings:HasBuilding(building.Index)) then
 			local pUnit = UnitManager.GetUnit(iPlayerID, iUnitID);
 			
-			if (pUnit ~= nil) then
+			if (pUnit ~= nil and pUnit:GetDamage() ~= 0) then
 				local healPoint = math.min(statue7HP, pUnit:GetDamage());
 				pUnit:SetDamage(pUnit:GetDamage() - healPoint);
 				statue7HP = statue7HP - healPoint;

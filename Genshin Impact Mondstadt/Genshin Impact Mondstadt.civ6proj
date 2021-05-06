@@ -49,6 +49,12 @@
     <ArtDef Include="ArtDefs\Building.artdef">
       <SubType>Content</SubType>
     </ArtDef>
+    <ArtDef Include="ArtDefs\Improvement.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\StrategicView.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
     <Content Include="Data\Civilization_Colour.sql">
       <SubType>Content</SubType>
     </Content>

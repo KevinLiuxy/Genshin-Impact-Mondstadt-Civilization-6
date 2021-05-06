@@ -296,6 +296,8 @@
 		<Element>
 			<consumerName text="Improvements"/>
 			<relativeArtDefPaths>
+				<Element text="Improvement.artdef"/>
+				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 			</libraryDependencies>
@@ -321,6 +323,7 @@
 				<Element text="Culture.artdef"/>
 				<Element text="District.artdef"/>
 				<Element text="Building.artdef"/>
+				<Element text="Improvement.artdef"/>
 				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
