@@ -93,6 +93,54 @@
 			<m_EntryID text="PORTRAIT_LEADER_GENSHIN_FISCHL"/>
 			<m_ObjectName text="PORTRAIT_LEADER_GENSHIN_FISCHL"/>
 		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_128"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_256"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_32"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_38"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_50"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_80"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_STATUE_OF_THE_SEVEN_128"/>
+			<m_ObjectName text="ICON_BUILDING_STATUE_OF_THE_SEVEN_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_STATUE_OF_THE_SEVEN_256"/>
+			<m_ObjectName text="ICON_BUILDING_STATUE_OF_THE_SEVEN_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_STATUE_OF_THE_SEVEN_32"/>
+			<m_ObjectName text="ICON_BUILDING_STATUE_OF_THE_SEVEN_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_STATUE_OF_THE_SEVEN_38"/>
+			<m_ObjectName text="ICON_BUILDING_STATUE_OF_THE_SEVEN_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_STATUE_OF_THE_SEVEN_50"/>
+			<m_ObjectName text="ICON_BUILDING_STATUE_OF_THE_SEVEN_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_STATUE_OF_THE_SEVEN_80"/>
+			<m_ObjectName text="ICON_BUILDING_STATUE_OF_THE_SEVEN_80"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
@@ -101,3 +149,4 @@
 		<Element>LINUX</Element>
 	</m_AllowedPlatforms>
 </AssetObjects..XLP>
+

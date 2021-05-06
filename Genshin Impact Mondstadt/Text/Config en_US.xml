@@ -26,7 +26,7 @@
 		<Row Language="en_US" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_NAME"
 			Text="Statue of the Seven"/>
 		<Row Language="en_US" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_DESCRIPTION"
-			Text="Gneshin Impact unique building that replaces the Monument. Provides an additional +4 [ICON_Faith] Faith.[NEWLINE]Units recover 10 Health when moving to a Statue of the Seven.[NEWLINE]Melee, Ranged, Anti-calvary, and Civilian units can Teleport between cities with Statue of the Seven."/>
+			Text="Gneshin Impact unique building that replaces the Monument. Provides an additional +2 [ICON_Faith] Faith.[NEWLINE]Units instantly heals when moving to a Statue of the Seven. The total Healing per turn is 50 (shared among all units)."/>
 
 		<Row Language="en_US" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
 			Text="Adventurers' Guild"/>

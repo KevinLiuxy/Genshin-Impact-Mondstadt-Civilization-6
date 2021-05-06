@@ -10,6 +10,7 @@
 			<relativeArtDefPaths>
 				<Element text="Civilization.artdef"/>
 				<Element text="District.artdef"/>
+				<Element text="Building.artdef"/>
 				<Element text="Landmark.artdef"/>
 				<Element text="Unit.artdef"/>
 			</relativeArtDefPaths>
@@ -36,6 +37,7 @@
 				<Element text="Civilization.artdef"/>
 				<Element text="Culture.artdef"/>
 				<Element text="District.artdef"/>
+				<Element text="Building.artdef"/>
 				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
@@ -79,6 +81,7 @@
 				<Element text="Civilization.artdef"/>
 				<Element text="Culture.artdef"/>
 				<Element text="District.artdef"/>
+				<Element text="Building.artdef"/>
 				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
@@ -93,6 +96,7 @@
 				<Element text="Civilization.artdef"/>
 				<Element text="Culture.artdef"/>
 				<Element text="District.artdef"/>
+				<Element text="Building.artdef"/>
 				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
@@ -211,6 +215,7 @@
 				<Element text="Civilization.artdef"/>
 				<Element text="Culture.artdef"/>
 				<Element text="District.artdef"/>
+				<Element text="Building.artdef"/>
 				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
@@ -302,6 +307,7 @@
 				<Element text="Civilization.artdef"/>
 				<Element text="Culture.artdef"/>
 				<Element text="District.artdef"/>
+				<Element text="Building.artdef"/>
 				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
@@ -314,6 +320,7 @@
 				<Element text="Civilization.artdef"/>
 				<Element text="Culture.artdef"/>
 				<Element text="District.artdef"/>
+				<Element text="Building.artdef"/>
 				<Element text="Landmark.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
@@ -325,6 +332,7 @@
 			<relativeArtDefPaths>
 				<Element text="Civilization.artdef"/>
 				<Element text="District.artdef"/>
+				<Element text="Building.artdef"/>
 				<Element text="Landmark.artdef"/>
 				<Element text="Unit.artdef"/>
 			</relativeArtDefPaths>

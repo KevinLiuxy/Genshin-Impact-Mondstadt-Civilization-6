@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GameData>
 	<IconTextureAtlases>
+		<Row Name="ATLAS_BUILDING_STATUE_OF_THE_SEVEN" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_STATUE_OF_THE_SEVEN_256.dds"/>
+		<Row Name="ATLAS_BUILDING_STATUE_OF_THE_SEVEN" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_STATUE_OF_THE_SEVEN_128.dds"/>
+		<Row Name="ATLAS_BUILDING_STATUE_OF_THE_SEVEN" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_STATUE_OF_THE_SEVEN_80.dds"/>
+		<Row Name="ATLAS_BUILDING_STATUE_OF_THE_SEVEN" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_STATUE_OF_THE_SEVEN_50.dds"/>
+		<Row Name="ATLAS_BUILDING_STATUE_OF_THE_SEVEN" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_STATUE_OF_THE_SEVEN_38.dds"/>
+		<Row Name="ATLAS_BUILDING_STATUE_OF_THE_SEVEN" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_STATUE_OF_THE_SEVEN_32.dds"/>
+
 		<Row Name="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" IconSize="256" IconsPerRow="4" IconsPerColumn="1" Filename="Portugal_UnitActions256.dds"/>
 		<Row Name="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" IconSize="80" IconsPerRow="4"  IconsPerColumn="1" Filename="Portugal_UnitActions80.dds"/>
 		<Row Name="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" IconSize="50" IconsPerRow="4"  IconsPerColumn="1" Filename="Portugal_UnitActions50.dds"/>
@@ -8,6 +15,7 @@
 	</IconTextureAtlases>
 
 	<IconDefinitions>
+		<Row Name="ICON_BUILDING_STATUE_OF_THE_SEVEN" Atlas="ATLAS_BUILDING_STATUE_OF_THE_SEVEN" index="0"/>
 		<Row Name="ICON_IMPROVEMENT_ADVENTURERS_GUILD" Atlas="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" Index="0"/>
 	</IconDefinitions>
 </GameData>

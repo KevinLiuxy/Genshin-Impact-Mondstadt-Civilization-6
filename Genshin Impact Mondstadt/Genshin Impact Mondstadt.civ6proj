@@ -19,7 +19,7 @@
     <AssemblyName>Genshin Impact Mondstadt</AssemblyName>
     <RootNamespace>Genshin Impact Mondstadt</RootNamespace>
     <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Config.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Icon.xml</File><File>Data/Genshin_Shared_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_FRONTEND"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File></UpdateText><UpdateArt id="GENSHIN_MONDSTADT_FRONTEND"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Core.sql</File><File>Data/Civilization_Leader.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Icon.xml</File><File>Data/Genshin_Shared_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_INGAME"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File><File>Text/InGame en_US.xml</File><File>Text/InGame zh_Hans_CN.xml</File></UpdateText><UpdateAudio id="GENSHIN_MONDSTADT_INGAME"><File>Platforms/MacOS/Audio/SoundbanksInfo.xml</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.bnk</File><File>Platforms/Windows/Audio/SoundbanksInfo.xml</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.bnk</File></UpdateAudio><UpdateArt id="GENSHIN_MONDSTADT_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="GENSHIN_MONDSTADT_EXP2"><File>Data/Expansion2_Data.sql</File></UpdateDatabase></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Core.sql</File><File>Data/Civilization_Leader.sql</File><File>Data/Genshin_Shared_Data.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Icon.xml</File><File>Data/Genshin_Shared_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_INGAME"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File><File>Text/InGame en_US.xml</File><File>Text/InGame zh_Hans_CN.xml</File></UpdateText><UpdateAudio id="GENSHIN_MONDSTADT_INGAME"><File>Platforms/MacOS/Audio/SoundbanksInfo.xml</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.bnk</File><File>Platforms/Windows/Audio/SoundbanksInfo.xml</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.bnk</File></UpdateAudio><UpdateArt id="GENSHIN_MONDSTADT_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="GENSHIN_MONDSTADT_EXP2"><File>Data/Expansion2_Data.sql</File></UpdateDatabase><AddGameplayScripts id="GENSHIN_MONDSTADT_SCRIPT"><File>Data/Genshin_Shared_Data.lua</File></AddGameplayScripts></InGameActions>]]></InGameActionData>
     <AssociationData><![CDATA[<Associations>
   <Dependency type="Dlc" title="Expansion: Rise and Fall" id="1B28771A-C749-434B-9053-D1380C553DE9" />
 </Associations>]]></AssociationData>
@@ -46,6 +46,9 @@
     <ArtDef Include="ArtDefs\LeaderFallback.artdef">
       <SubType>Content</SubType>
     </ArtDef>
+    <ArtDef Include="ArtDefs\Building.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
     <Content Include="Data\Civilization_Colour.sql">
       <SubType>Content</SubType>
     </Content>
@@ -62,6 +65,12 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Data\Expansion2_Data.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Genshin_Shared_Data.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Genshin_Shared_Data.sql">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Data\Genshin_Shared_Icon.xml">

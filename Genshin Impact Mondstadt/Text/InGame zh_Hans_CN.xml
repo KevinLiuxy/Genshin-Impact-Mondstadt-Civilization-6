@@ -31,5 +31,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_28" Text=""/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_29" Text=""/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_30" Text=""/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="神像的恩泽"/>
 	</LocalizedText>
 </GameData>

@@ -25,7 +25,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_NAME"
 			Text="七天神像"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_DESCRIPTION"
-			Text="替代纪念碑的原神特色建筑。额外提供 +4 [ICON_Faith] 信仰值。[NEWLINE]接近七天神像的单位恢复10点生命值。近战、远程、抗骑兵和平民单位，可以在拥有七天神像的城市之间传送。"/>
+			Text="替代纪念碑的原神特色建筑。额外提供 +2 [ICON_Faith] 信仰值。[NEWLINE]移动至七天神像的单位立即回复生命值。七天神像每回合的回复上限为50点生命值。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
 			Text="冒险家协会"/>
