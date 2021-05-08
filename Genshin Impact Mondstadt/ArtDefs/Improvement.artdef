@@ -27,7 +27,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..ArtDefReferenceValue">
-										<m_ElementName text="Monastery"/>
+										<m_ElementName text="StatueOfTheSeven"/>
 										<m_RootCollectionName text="Improvements"/>
 										<m_ArtDefPath text="StrategicView.artdef"/>
 										<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -52,7 +52,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..ArtDefReferenceValue">
-										<m_ElementName text="Monastery_Pillaged"/>
+										<m_ElementName text="StatueOfTheSeven_Pillaged"/>
 										<m_RootCollectionName text="Improvements"/>
 										<m_ArtDefPath text="StrategicView.artdef"/>
 										<m_CollectionIsLocked>true</m_CollectionIsLocked>

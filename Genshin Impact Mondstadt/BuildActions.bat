@@ -1,0 +1,1 @@
+Xcopy /y ".\ArtDefs\*.artdef" "%systemdrive%%homepath%\Documents\My Games\Sid Meier's Civilization VI\Mods\Genshin Impact Mondstadt\ArtDefs"

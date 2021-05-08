@@ -141,6 +141,54 @@
 			<m_EntryID text="ICON_BUILDING_STATUE_OF_THE_SEVEN_80"/>
 			<m_ObjectName text="ICON_BUILDING_STATUE_OF_THE_SEVEN_80"/>
 		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_OUTRIDER_22"/>
+			<m_ObjectName text="ICON_UNIT_OUTRIDER_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_OUTRIDER_256"/>
+			<m_ObjectName text="ICON_UNIT_OUTRIDER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_OUTRIDER_32"/>
+			<m_ObjectName text="ICON_UNIT_OUTRIDER_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_OUTRIDER_38"/>
+			<m_ObjectName text="ICON_UNIT_OUTRIDER_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_OUTRIDER_50"/>
+			<m_ObjectName text="ICON_UNIT_OUTRIDER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_OUTRIDER_80"/>
+			<m_ObjectName text="ICON_UNIT_OUTRIDER_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_OUTRIDER_200"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_OUTRIDER_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_OUTRIDER_256"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_OUTRIDER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_OUTRIDER_38"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_OUTRIDER_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_OUTRIDER_50"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_OUTRIDER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_OUTRIDER_70"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_OUTRIDER_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_OUTRIDER_95"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_OUTRIDER_95"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

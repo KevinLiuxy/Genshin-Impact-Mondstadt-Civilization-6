@@ -23,6 +23,9 @@
     <AssociationData><![CDATA[<Associations>
   <Dependency type="Dlc" title="Expansion: Rise and Fall" id="1B28771A-C749-434B-9053-D1380C553DE9" />
 </Associations>]]></AssociationData>
+    <ModProperties>
+      <CustomProperties xmlns="" />
+    </ModProperties>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -118,6 +121,30 @@
     <Content Include="Platforms\MacOS\BLPs\DLC_Icons.blp">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Platforms\MacOS\BLPs\DLC_Monastery.blp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\BLPs\DLC_Strategicview.blp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_DiffuseTint_IMP_Monastery_B_null">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_IMP_Monastery_A">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_IMP_Monastery_E">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_IMP_Monastery_G">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_IMP_Monastery_N0">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_IMP_Monastery_N1">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Platforms\Windows\Audio\1006605093.wem">
       <SubType>Content</SubType>
     </Content>
@@ -154,6 +181,30 @@
     <Content Include="Platforms\Windows\BLPs\DLC_Icons.blp">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Platforms\Windows\BLPs\DLC_Monastery.blp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\BLPs\DLC_Strategicview.blp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_DiffuseTint_IMP_Monastery_B_null">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_IMP_Monastery_A">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_IMP_Monastery_E">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_IMP_Monastery_G">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_IMP_Monastery_N0">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\BLPs\SHARED_DATA\TEXTURE_IMP_Monastery_N1">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Text\Config en_US.xml">
       <SubType>Content</SubType>
     </Content>
@@ -177,9 +228,11 @@
     <Folder Include="Platforms\MacOS\" />
     <Folder Include="Platforms\MacOS\Audio\" />
     <Folder Include="Platforms\MacOS\BLPs\" />
+    <Folder Include="Platforms\MacOS\BLPs\SHARED_DATA\" />
     <Folder Include="Platforms\Windows\" />
     <Folder Include="Platforms\Windows\Audio\" />
     <Folder Include="Platforms\Windows\BLPs\" />
+    <Folder Include="Platforms\Windows\BLPs\SHARED_DATA\" />
     <Folder Include="Text\" />
     <Folder Include="XLPs\" />
   </ItemGroup>
