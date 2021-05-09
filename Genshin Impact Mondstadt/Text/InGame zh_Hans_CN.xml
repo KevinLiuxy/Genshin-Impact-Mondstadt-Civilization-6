@@ -3,35 +3,85 @@
 	<LocalizedText>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_1"  Text="蒙德城"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_2"  Text="清泉镇"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_3"  Text="凤起地"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_4"  Text="摘星崖"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_5"  Text="千风神殿"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_6"  Text="晨曦酒庄"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_7"  Text="奔狼领"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_8"  Text="望风角"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_9"  Text="明冠峡"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_10" Text="达达乌帕"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_11" Text="誓言岬"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_3"  Text="风起地"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_4"  Text="千风神殿"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_5"  Text="晨曦酒庄"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_6"  Text="摘星崖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_7"  Text="苍风高地"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_8"  Text="坠星山谷"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_9"  Text="达达乌帕"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_10" Text="誓言岬"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_11" Text="奔狼领"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_12" Text="风龙神殿"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_13" Text="马斯克礁"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_14" Text="仲夏庭园"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_15" Text="铭记之谷"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_16" Text="塞西莉亚苗圃"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_17" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_18" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_19" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_20" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_21" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_22" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_23" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_24" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_25" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_28" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_29" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_30" Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_13" Text="风啸山坡"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_14" Text="低语森林"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_15" Text="仲夏庭院"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_16" Text="铭记之谷"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_17" Text="忘却之峡"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_18" Text="望风角"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_19" Text="山脊守望"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_20" Text="雪葬之都"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_21" Text="龙眠谷"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_22" Text="塞西莉亚苗圃"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_23" Text="鹰之门"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_24" Text="西风之鹰"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_25" Text="北风之狼"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text="南风之狮"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text="东风之龙"/>
 
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_1" Text="蒂玛乌斯"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_2" Text="安东尼"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_3" Text="赫尔曼"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_4" Text="六指乔瑟"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_5" Text="艾伯特"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_6" Text="鲁道夫"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_7" Text="瓦格纳"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_8" Text="昆恩"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_9" Text="斯坦利"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_10" Text="霍夫曼"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_11" Text="查尔斯"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_12" Text="班尼特"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_13" Text="雷泽"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_14" Text="凯亚"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_15" Text="阿贝多"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_1" Text="芙朵拉"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_2" Text="唐娜"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_3" Text="玛乔丽"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_4" Text="玛格丽特"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_5" Text="莎拉"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_6" Text="优律"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_7" Text="布兰琪"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_8" Text="安娜"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_9" Text="诺玛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_10" Text="爱迪斯"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_11" Text="葛瑞丝"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_12" Text="维多利亚"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_13" Text="吉丽安娜"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_14" Text="砂糖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_15" Text="丽莎"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_DESSERT_LIYUE_1" Text="地中之盐"/>	<!--Liyue-->
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_DESSERT_LIYUE_2" Text="瑶光滩"/>	<!--Liyue-->
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_MONDSTADT_1" Text="果酒湖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_MONDSTADT_2" Text="星落湖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_MONDSTADT_3" Text="晨曦湖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_MONDSTADT_4" Text="星荧湖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_1" Text="龙脊雪山"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_2" Text="明冠山地"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_3" Text="望风山地"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_4" Text="覆雪之路"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_OCEAN_MONDSTADT_1" Text="马斯克洋"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_MONDSTADT_1" Text="卧龙溪"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_MONDSTADT_2" Text="清泉溪"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_MONDSTADT_3" Text="千风川"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_MONDSTADT_4" Text="星落溪"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_LIYUE_1" Text="石门涧"/>		<!--Liyue-->
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_MONDSTADT_1" Text="翔鹰海"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_MONDSTADT_2" Text="望风海"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_MONDSTADT_1" Text="深境螺旋"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_MONDSTADT_2" Text="芬德尼尔之顶"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_MONDSTADT_3" Text="寒天之钉"/>
+		
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="神像的恩泽"/>
 	</LocalizedText>
 </GameData>

@@ -3,44 +3,28 @@
 	<RootPaths/>
 	<DialogueEvents/>
 	<StreamedFiles>
-		<File Id="59698629" Language="SFX">
-			<ShortName>Music_Mondstadt_Atomic_Era.wav</ShortName>
-			<Path>SFX\Music_Mondstadt_Atomic_Era_9AB3587A.wem</Path>
-		</File>
-		<File Id="288403482" Language="SFX">
-			<ShortName>Music_Mondstadt_Industrial_Era.wav</ShortName>
-			<Path>SFX\Music_Mondstadt_Industrial_Era_9AB3587A.wem</Path>
-		</File>
-		<File Id="397600739" Language="SFX">
-			<ShortName>Music_Mondstadt_Leader_1.wav</ShortName>
-			<Path>SFX\Music_Mondstadt_Leader_1_4719A1E2.wem</Path>
-		</File>
-		<File Id="405604607" Language="SFX">
-			<ShortName>Music_Mondstadt_Ancient_Era.wav</ShortName>
-			<Path>SFX\Music_Mondstadt_Ancient_Era_9AB3587A.wem</Path>
-		</File>
-		<File Id="743810611" Language="SFX">
-			<ShortName>Music_Mondstadt_Leader_4.wav</ShortName>
-			<Path>SFX\Music_Mondstadt_Leader_4_4719A1E2.wem</Path>
-		</File>
-		<File Id="894114804" Language="SFX">
+		<File Id="195393344" Language="SFX">
 			<ShortName>Music_Mondstadt_Medieval_Era.wav</ShortName>
 			<Path>SFX\Music_Mondstadt_Medieval_Era_9AB3587A.wem</Path>
 		</File>
-		<File Id="996652905" Language="SFX">
-			<ShortName>Music_Mondstadt_Leader_3.wav</ShortName>
-			<Path>SFX\Music_Mondstadt_Leader_3_4719A1E2.wem</Path>
+		<File Id="330521849" Language="SFX">
+			<ShortName>Music_Mondstadt_Atomic_Era.wav</ShortName>
+			<Path>SFX\Music_Mondstadt_Atomic_Era_9AB3587A.wem</Path>
 		</File>
-		<File Id="1006605093" Language="SFX">
-			<ShortName>Music_Mondstadt_Leader_2.wav</ShortName>
-			<Path>SFX\Music_Mondstadt_Leader_2_4719A1E2.wem</Path>
+		<File Id="707068727" Language="SFX">
+			<ShortName>Music_Mondstadt_Industrial_Era.wav</ShortName>
+			<Path>SFX\Music_Mondstadt_Industrial_Era_9AB3587A.wem</Path>
+		</File>
+		<File Id="855296200" Language="SFX">
+			<ShortName>Music_Mondstadt_Ancient_Era.wav</ShortName>
+			<Path>SFX\Music_Mondstadt_Ancient_Era_9AB3587A.wem</Path>
 		</File>
 	</StreamedFiles>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="2275208536" Language="SFX">
-			<ShortName>GENSHIN_MONDSTADT_MUSIC</ShortName>
-			<Path>GENSHIN_MONDSTADT_MUSIC.bnk</Path>
+		<SoundBank Id="2159547912" Language="SFX">
+			<ShortName>Mondstadt_Music_Bank</ShortName>
+			<Path>Mondstadt_Music_Bank.bnk</Path>
 			<IncludedEvents>
 				<Event Id="2272731643" Name="Pause_Music_GENSHIN_MONDSTADT"/>
 				<Event Id="2951241871" Name="Play_Leader_Music_GENSHIN_MONDSTADT"/>
@@ -51,14 +35,10 @@
 				<Event Id="520213011" Name="Stop_Music_GENSHIN_MONDSTADT"/>
 			</IncludedEvents>
 			<ReferencedStreamedFiles>
-				<File Id="59698629"/>
-				<File Id="288403482"/>
-				<File Id="397600739"/>
-				<File Id="405604607"/>
-				<File Id="743810611"/>
-				<File Id="894114804"/>
-				<File Id="996652905"/>
-				<File Id="1006605093"/>
+				<File Id="195393344"/>
+				<File Id="330521849"/>
+				<File Id="707068727"/>
+				<File Id="855296200"/>
 			</ReferencedStreamedFiles>
 		</SoundBank>
 	</SoundBanks>

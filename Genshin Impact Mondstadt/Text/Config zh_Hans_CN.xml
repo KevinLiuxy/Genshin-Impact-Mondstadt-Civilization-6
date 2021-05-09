@@ -25,12 +25,12 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_NAME"
 			Text="七天神像"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_DESCRIPTION"
-			Text="替代纪念碑的原神特色建筑。额外提供 +2 [ICON_Faith] 信仰值。[NEWLINE]移动至七天神像的单位立即回复生命值。七天神像每回合的回复上限为50点生命值。"/>
+			Text="替代纪念碑的原神特色建筑。额外提供 +2 [ICON_Faith] 信仰值。[NEWLINE]移动至七天神像的单位立即回复生命值。七天神像每回合的回复上限为25点生命值。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
 			Text="冒险家协会"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_DESCRIPTION"
-			Text="解锁建造冒险家协会（原神特色改良设施）的能力。[NEWLINE][NEWLINE]+2 [ICON_Culture] 文化值 +1 [ICON_Production] 生产力，为相邻单元格 +1 [ICON_Gold] 金币 +1 魅力。每个城市仅限建造一座。冒险家协会所在的单元格无法被替换更改。"/>
+			Text="解锁建造冒险家协会（原神特色改良设施）的能力。[NEWLINE][NEWLINE]+1 [ICON_Culture] 文化值 +1 [ICON_Production] 生产力，为相邻单元格 +1 [ICON_Gold] 金币 +1 魅力。每个城市仅限建造一座。冒险家协会所在的单元格无法被替换更改。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_GENSHIN_FISCHL_NAME"
 			Text="菲谢尔"/>

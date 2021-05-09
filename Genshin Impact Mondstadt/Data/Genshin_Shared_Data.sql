@@ -84,7 +84,7 @@ INSERT INTO Improvement_ValidBuildUnits (ImprovementType, UnitType)
 VALUES	('IMPROVEMENT_ADVENTURERS_GUILD',	'UNIT_BUILDER');
 
 INSERT INTO Improvement_YieldChanges (ImprovementType, YieldType, YieldChange)
-VALUES	('IMPROVEMENT_ADVENTURERS_GUILD',	'YIELD_CULTURE',	2),
+VALUES	('IMPROVEMENT_ADVENTURERS_GUILD',	'YIELD_CULTURE',	1),
 		('IMPROVEMENT_ADVENTURERS_GUILD',	'YIELD_PRODUCTION',	1);
 
 INSERT INTO Improvement_Tourism (ImprovementType, TourismSource, PrereqTech, ScalingFactor)

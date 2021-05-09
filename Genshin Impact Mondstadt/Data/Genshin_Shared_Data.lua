@@ -19,7 +19,7 @@ function statue7Heal(iPlayerID, iUnitID, PlotX, PlotY)		-- Unit Moved to Statue 
 				pUnit:SetDamage(pUnit:GetDamage() - healPoint);
 				statue7HP = statue7HP - healPoint;
 				
-				Game.AddWorldViewText(0, "{LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME} "..(50-statue7HP).."/50", PlotX, PlotY);
+				Game.AddWorldViewText(0, "{LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME} "..(50-statue7HP).."/25", PlotX, PlotY);
 			end
 		end
 	end

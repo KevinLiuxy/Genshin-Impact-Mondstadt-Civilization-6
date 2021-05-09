@@ -1,37 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_1"  Text="City of Mondstadt"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_1"  Text="Mondstadt"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_2"  Text="Springvale"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_3"  Text="凤起地"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_4"  Text="摘星崖"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_5"  Text="Thousand Winds Temple"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_6"  Text="Dawn Winery"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_7"  Text="奔狼领"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_8"  Text="望风角"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_9"  Text="Brightcrown Canyon"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_10" Text="达达乌帕"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_11" Text="Cape Oath"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_12" Text="风龙神殿"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_13" Text="Musk Reef"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_14" Text="仲夏庭园"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_15" Text="铭记之谷"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_16" Text="塞西莉亚苗圃"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_17" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_18" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_19" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_20" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_21" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_22" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_23" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_24" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_25" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_28" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_29" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_30" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_3"  Text="Windrise"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_4"  Text="Thousand Winds"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_5"  Text="Dawn Winery"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_6"  Text="Starsnatch"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_7"  Text="Windwail"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_8"  Text="Starfell"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_9"  Text="Dadaupa"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_10" Text="Cape Oath"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_11" Text="Wolvendom"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_12" Text="Stormterror"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_13" Text="Galesong"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_14" Text="Wispering Woods"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_15" Text="Midsummer Courtyard"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_16" Text="Valley of Remembrance"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_17" Text="Forsaken Rift"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_18" Text="Stormbearer Point"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_19" Text="Ridge Watch"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_20" Text="Entombed City"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_21" Text="Wyrmrest"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_22" Text="Cecilia Garden"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_23" Text="Eagle's Gate"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_24" Text="Western Eagle"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_25" Text="Northen Wolf"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text="Southern Lion"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text="Eastern Dragon"/>
 
-		<Row Language="en_US" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="Placeholder"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_1" Text="Timaeus"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_2" Text="Anthony"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_3" Text="Herman"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_4" Text="José"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_5" Text="Albert"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_6" Text="Rudolf"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_7" Text="Wagner"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_8" Text="Quinn"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_9" Text="Stanley"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_10" Text="Huffman"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_11" Text="Charles"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_12" Text="Bennett"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_13" Text="Razor"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_14" Text="Kaeya"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_15" Text="Albedo"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_1" Text="Flora"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_2" Text="Donna"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_3" Text="Marjorie"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_4" Text="Margaret"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_5" Text="Sara"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_6" Text="Eury"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_7" Text="Blanche"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_8" Text="Anna"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_9" Text="Norma"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_10" Text="Edith"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_11" Text="Grace"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_12" Text="Victoria"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_13" Text="Jilliana"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_14" Text="Sucrose"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_15" Text="Lisa"/>
+
+		<Row Language="en_US" Tag="LOC_NAMED_DESSERT_LIYUE_1" Text="Sal Terrae"/>		<!--Liyue-->
+		<Row Language="en_US" Tag="LOC_NAMED_DESSERT_LIYUE_2" Text="Yaoguang Shoal"/>	<!--Liyue-->
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_MONDSTADT_1" Text="Cider Lake"/>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_MONDSTADT_2" Text="Starfell Lake"/>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_MONDSTADT_3" Text="Lake of Dawn"/>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_MONDSTADT_4" Text="Starglow Lake"/>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_1" Text="Dragonspine"/>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_2" Text="Brightcrown Mountain"/>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_3" Text="Stormbearer Mountain"/>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_4" Text="Snow-covered Path"/>
+		<Row Language="en_US" Tag="LOC_NAMED_OCEAN_MONDSTADT_1" Text="Musk Ocean"/>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_MONDSTADT_1" Text="Wyrmrest River"/>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_MONDSTADT_2" Text="Springval Stream"/>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_MONDSTADT_3" Text="Thousands Winds River"/>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_MONDSTADT_4" Text="Starfell Creek"/>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_LIYUE_1" Text="Stonegate Creek"/>	<!--Liyue-->
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_MONDSTADT_1" Text="Falcon Bay"/>
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_MONDSTADT_2" Text="Stormwatch Sea"/>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_MONDSTADT_1" Text="Spiral Abyss"/>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_MONDSTADT_2" Text="Peak of Vindagnyr"/>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_MONDSTADT_3" Text="Skyfrost Nail"/>
+
+		<Row Language="en_US" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="Statue's Blessing"/>
 	</LocalizedText>
 </GameData>

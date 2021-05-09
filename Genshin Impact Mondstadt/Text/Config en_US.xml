@@ -26,12 +26,12 @@
 		<Row Language="en_US" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_NAME"
 			Text="Statue of the Seven"/>
 		<Row Language="en_US" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_DESCRIPTION"
-			Text="Gneshin Impact unique building that replaces the Monument. Provides an additional +2 [ICON_Faith] Faith.[NEWLINE]Units instantly heals when moving to a Statue of the Seven. The total Healing per turn is 50 (shared among all units)."/>
+			Text="Gneshin Impact unique building that replaces the Monument. Provides an additional +2 [ICON_Faith] Faith.[NEWLINE]Units instantly heals when moving to a Statue of the Seven. The total Healing power is 25 (shared among all units)."/>
 
 		<Row Language="en_US" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
 			Text="Adventurers' Guild"/>
 		<Row Language="en_US" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_DESCRIPTION"
-			Text="Unlocks the Builder ability to constrcut a Adventurers' Guild, unique to Genshin Impact.[NEWLINE][NEWLINE]+2 [ICON_Culture] Culture and +1 [ICON_Production] Production. +1 [ICON_Gold] Gold and Appeal to adjacent tiles. One per city. Tiles with Adventurers' Guild cannot be swapped."/>
+			Text="Unlocks the Builder ability to constrcut a Adventurers' Guild, unique to Genshin Impact.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture and +1 [ICON_Production] Production. +1 [ICON_Gold] Gold and Appeal to adjacent tiles. One per city. Tiles with Adventurers' Guild cannot be swapped."/>
 
 		<Row Language="en_US" Tag="LOC_LEADER_GENSHIN_FISCHL_NAME"
 			Text="Fischl"/>
