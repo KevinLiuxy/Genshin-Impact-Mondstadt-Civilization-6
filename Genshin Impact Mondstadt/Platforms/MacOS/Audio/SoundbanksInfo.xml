@@ -3,21 +3,21 @@
 	<RootPaths/>
 	<DialogueEvents/>
 	<StreamedFiles>
-		<File Id="195393344" Language="SFX">
-			<ShortName>Music_Mondstadt_Medieval_Era.wav</ShortName>
-			<Path>SFX\Music_Mondstadt_Medieval_Era_9AB3587A.wem</Path>
-		</File>
-		<File Id="330521849" Language="SFX">
-			<ShortName>Music_Mondstadt_Atomic_Era.wav</ShortName>
-			<Path>SFX\Music_Mondstadt_Atomic_Era_9AB3587A.wem</Path>
-		</File>
-		<File Id="707068727" Language="SFX">
+		<File Id="62907760" Language="SFX">
 			<ShortName>Music_Mondstadt_Industrial_Era.wav</ShortName>
-			<Path>SFX\Music_Mondstadt_Industrial_Era_9AB3587A.wem</Path>
+			<Path>SFX\Music_Mondstadt_Industrial_Era_4EF9C95D.wem</Path>
 		</File>
-		<File Id="855296200" Language="SFX">
+		<File Id="101264166" Language="SFX">
+			<ShortName>Music_Mondstadt_Medieval_Era.wav</ShortName>
+			<Path>SFX\Music_Mondstadt_Medieval_Era_4EF9C95D.wem</Path>
+		</File>
+		<File Id="271246955" Language="SFX">
+			<ShortName>Music_Mondstadt_Atomic_Era.wav</ShortName>
+			<Path>SFX\Music_Mondstadt_Atomic_Era_4EF9C95D.wem</Path>
+		</File>
+		<File Id="308784265" Language="SFX">
 			<ShortName>Music_Mondstadt_Ancient_Era.wav</ShortName>
-			<Path>SFX\Music_Mondstadt_Ancient_Era_9AB3587A.wem</Path>
+			<Path>SFX\Music_Mondstadt_Ancient_Era_4EF9C95D.wem</Path>
 		</File>
 	</StreamedFiles>
 	<MediaFilesNotInAnyBank/>
@@ -29,17 +29,24 @@
 				<Event Id="2272731643" Name="Pause_Music_GENSHIN_MONDSTADT"/>
 				<Event Id="2951241871" Name="Play_Leader_Music_GENSHIN_MONDSTADT"/>
 				<Event Id="1258044941" Name="Play_Music_GENSHIN_MONDSTADT"/>
+				<Event Id="2538891721" Name="Play_Statue_of_The_Seven_Heal"/>
 				<Event Id="2397369322" Name="Resume_Music_GENSHIN_MONDSTADT"/>
 				<Event Id="310851973" Name="Start_Music_GENSHIN_MONDSTADT"/>
 				<Event Id="4156942913" Name="Stop_Leader_Music_GENSHIN_MONDSTADT"/>
 				<Event Id="520213011" Name="Stop_Music_GENSHIN_MONDSTADT"/>
 			</IncludedEvents>
 			<ReferencedStreamedFiles>
-				<File Id="195393344"/>
-				<File Id="330521849"/>
-				<File Id="707068727"/>
-				<File Id="855296200"/>
+				<File Id="62907760"/>
+				<File Id="101264166"/>
+				<File Id="271246955"/>
+				<File Id="308784265"/>
 			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="231243047" Language="SFX">
+					<ShortName>STATUE_OF_THE_SEVEN_HEAL.wav</ShortName>
+					<Path>SFX\STATUE_OF_THE_SEVEN_HEAL_50328C8D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

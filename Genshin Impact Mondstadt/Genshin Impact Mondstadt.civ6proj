@@ -19,7 +19,7 @@
     <AssemblyName>Genshin Impact Mondstadt</AssemblyName>
     <RootNamespace>Genshin Impact Mondstadt</RootNamespace>
     <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Config.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Icon.xml</File><File>Data/Genshin_Shared_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_FRONTEND"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File></UpdateText><UpdateArt id="GENSHIN_MONDSTADT_FRONTEND"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Core.sql</File><File>Data/Civilization_Leader.sql</File><File>Data/Genshin_Shared_Data.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Icon.xml</File><File>Data/Genshin_Shared_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_INGAME"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File><File>Text/InGame en_US.xml</File><File>Text/InGame zh_Hans_CN.xml</File></UpdateText><UpdateAudio id="GENSHIN_MONDSTADT_INGAME"><File>Platforms/MacOS/Audio/SoundbanksInfo.xml</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/Windows/Audio/SoundbanksInfo.xml</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/MacOS/Audio/Mondstadt_Music_Bank.bnk</File><File>Platforms/Windows/Audio/Mondstadt_Music_Bank.bnk</File></UpdateAudio><UpdateArt id="GENSHIN_MONDSTADT_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="GENSHIN_MONDSTADT_EXP2"><File>Data/Expansion2_Data.sql</File></UpdateDatabase><AddGameplayScripts id="GENSHIN_MONDSTADT_SCRIPT"><File>Data/Genshin_Shared_Data.lua</File></AddGameplayScripts></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Core.sql</File><File>Data/Civilization_Leader.sql</File><File>Data/Genshin_Shared_Data.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_INGAME"><File>Data/Civilization_Icon.xml</File><File>Data/Genshin_Shared_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_INGAME"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File><File>Text/InGame en_US.xml</File><File>Text/InGame zh_Hans_CN.xml</File></UpdateText><UpdateAudio id="GENSHIN_MONDSTADT_INGAME"><File>Platforms/MacOS/Audio/SoundbanksInfo.xml</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/Windows/Audio/SoundbanksInfo.xml</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/MacOS/Audio/Mondstadt_Music_Bank.bnk</File><File>Platforms/Windows/Audio/Mondstadt_Music_Bank.bnk</File></UpdateAudio><UpdateArt id="GENSHIN_MONDSTADT_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="GENSHIN_MONDSTADT_EXP2"><File>Data/Expansion2_Data.sql</File></UpdateDatabase><AddGameplayScripts id="GENSHIN_MONDSTADT_SCRIPT"><File>Data/Genshin_Shared_Data.lua</File></AddGameplayScripts><AddUserInterfaces id="GENSHIN_MONDSTADT_SCRIPT"><Properties><Context>InGame</Context></Properties><File>Data/Genshin_Shared_UI.xml</File></AddUserInterfaces></InGameActions>]]></InGameActionData>
     <AssociationData><![CDATA[<Associations>
   <Dependency type="Dlc" title="Expansion: Rise and Fall" id="1B28771A-C749-434B-9053-D1380C553DE9" />
 </Associations>]]></AssociationData>
@@ -85,16 +85,22 @@
     <Content Include="Data\Genshin_Shared_Icon.xml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\195393344.wem">
+    <Content Include="Data\Genshin_Shared_UI.lua">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\330521849.wem">
+    <Content Include="Data\Genshin_Shared_UI.xml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\707068727.wem">
+    <Content Include="Platforms\MacOS\Audio\101264166.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\855296200.wem">
+    <Content Include="Platforms\MacOS\Audio\271246955.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\308784265.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\62907760.wem">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Platforms\MacOS\Audio\GENSHIN_MONDSTADT_MUSIC.ini">
@@ -133,16 +139,16 @@
     <Content Include="Platforms\MacOS\BLPs\SHARED_DATA\TEXTURE_IMP_Monastery_N1">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\195393344.wem">
+    <Content Include="Platforms\Windows\Audio\101264166.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\330521849.wem">
+    <Content Include="Platforms\Windows\Audio\271246955.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\707068727.wem">
+    <Content Include="Platforms\Windows\Audio\308784265.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\855296200.wem">
+    <Content Include="Platforms\Windows\Audio\62907760.wem">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Platforms\Windows\Audio\GENSHIN_MONDSTADT_MUSIC.ini">
@@ -193,6 +199,9 @@
     <Content Include="Text\InGame en_US.xml">
       <SubType>Content</SubType>
     </Content>
+    <XLP Include="XLPs\LeaderFallback.xlp">
+      <SubType>Content</SubType>
+    </XLP>
     <XLP Include="XLPs\Civilization_Art.xlp">
       <SubType>Content</SubType>
     </XLP>

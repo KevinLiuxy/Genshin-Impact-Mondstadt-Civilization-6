@@ -43,6 +43,24 @@
 		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_48.dds"/>
 		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_45.dds"/>
 		<Row Name="ATLAS_LEADER_GENSHIN_FISCHL" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_FISCHL_32.dds"/>
+
+		<Row Name="ATLAS_LEADER_GENSHIN_BARBARA" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_BARBARA_256.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_BARBARA" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_BARBARA_80.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_BARBARA" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_BARBARA_64.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_BARBARA" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_BARBARA_55.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_BARBARA" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_BARBARA_50.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_BARBARA" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_BARBARA_48.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_BARBARA" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_BARBARA_45.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_BARBARA" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_BARBARA_32.dds"/>
+
+		<Row Name="ATLAS_LEADER_GENSHIN_NOELLE" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_NOELLE_256.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_NOELLE" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_NOELLE_80.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_NOELLE" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_NOELLE_64.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_NOELLE" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_NOELLE_55.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_NOELLE" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_NOELLE_50.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_NOELLE" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_NOELLE_48.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_NOELLE" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_NOELLE_45.dds"/>
+		<Row Name="ATLAS_LEADER_GENSHIN_NOELLE" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_GENSHIN_NOELLE_32.dds"/>
 	</IconTextureAtlases>
 	
 	<IconDefinitions>
@@ -51,5 +69,7 @@
 		<Row Name="ICON_UNIT_OUTRIDER_PORTRAIT" Atlas="ATLAS_UNIT_OUTRIDER_PORTRAIT" index="0"/>
 		<Row Name="ICON_DISTRICT_FAVONIUS_HEADQUARTER" Atlas="ATLAS_DISTRICT_FAVONIUS_HEADQUARTER" index="0"/>
 		<Row Name="ICON_LEADER_GENSHIN_FISCHL" Atlas="ATLAS_LEADER_GENSHIN_FISCHL" index="0"/>
+		<Row Name="ICON_LEADER_GENSHIN_BARBARA" Atlas="ATLAS_LEADER_GENSHIN_BARBARA" index="0"/>
+		<Row Name="ICON_LEADER_GENSHIN_NOELLE" Atlas="ATLAS_LEADER_GENSHIN_NOELLE" index="0"/>
 	</IconDefinitions>
 </GameData>

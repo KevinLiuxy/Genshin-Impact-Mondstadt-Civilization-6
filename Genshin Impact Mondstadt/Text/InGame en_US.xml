@@ -29,30 +29,30 @@
 		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text="Southern Lion"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text="Eastern Dragon"/>
 
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_1" Text="Timaeus"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_2" Text="Anthony"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_3" Text="Herman"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_4" Text="José"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_5" Text="Albert"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_6" Text="Rudolf"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_7" Text="Wagner"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_8" Text="Quinn"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_9" Text="Stanley"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_1"  Text="Timaeus"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_2"  Text="Anthony"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_3"  Text="Herman"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_4"  Text="José"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_5"  Text="Albert"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_6"  Text="Rudolf"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_7"  Text="Wagner"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_8"  Text="Timmie"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_9"  Text="Stanley"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_10" Text="Huffman"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_11" Text="Charles"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_12" Text="Bennett"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_13" Text="Razor"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_14" Text="Kaeya"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_15" Text="Albedo"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_1" Text="Flora"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_2" Text="Donna"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_3" Text="Marjorie"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_4" Text="Margaret"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_5" Text="Sara"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_6" Text="Eury"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_7" Text="Blanche"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_8" Text="Anna"/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_9" Text="Norma"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_1"  Text="Flora"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_2"  Text="Donna"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_3"  Text="Marjorie"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_4"  Text="Margaret"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_5"  Text="Sara"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_6"  Text="Eury"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_7"  Text="Blanche"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_8"  Text="Anna"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_9"  Text="Norma"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_10" Text="Edith"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_11" Text="Grace"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_12" Text="Victoria"/>
@@ -83,5 +83,47 @@
 		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_MONDSTADT_3" Text="Skyfrost Nail"/>
 
 		<Row Language="en_US" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="Statue's Blessing"/>
+		<Row Language="en_US" Tag="LOC_COMBAT_PREVIEW_FISCHL_DARK_AGE_COMBAT_BONUS" Text=""/>
+
+		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_FISCHL"
+			 Text=""/>
+		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_BARBARA"
+			 Text=""/>
+		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_NOELLE"
+			 Text=""/>
+
+		<!--Civilopedia-->
+		<Row Language="en_US" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_LOCATION" Text="Teyvat"/>
+		<Row Language="en_US" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_SIZE" Text="Est. 2.5 square kilometers"/>
+		<Row Language="en_US" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_POPULATION" Text="Roughly 300 people"/>
+		<Row Language="en_US" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_CAPITAL" Text="Mondstadt City"/>
+
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_FISCHL_QUOTE"
+			 Text=""/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_BARBARA_QUOTE"
+			 Text=""/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_NOELLE_QUOTE"
+			 Text=""/>
+
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_CAPSULE_BODY"
+			 Text=""/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_DETAILED_BODY"
+			 Text=""/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_1"
+			 Text=""/>
+
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_CAPSULE_BODY"
+			 Text=""/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_DETAILED_BODY"
+			 Text=""/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_1"
+			 Text=""/>
+
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_CAPSULE_BODY"
+			 Text=""/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_DETAILED_BODY"
+			 Text=""/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_1"
+			 Text=""/>
 	</LocalizedText>
 </GameData>

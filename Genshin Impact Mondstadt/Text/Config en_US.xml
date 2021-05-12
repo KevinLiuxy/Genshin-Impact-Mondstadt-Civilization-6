@@ -11,7 +11,7 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_NAME"
 			Text="City of Winds and Idylls"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_DESCRIPTION"
-			Text="Breathtaking tiles receive +1 [ICON_Faith] Faith form each type of adjacent Mountains, Lakes, and Coast terrain; +2 [ICON_Faith] Faith if the tile has unimproved Forest.[NEWLINE]Pastures and Plantations triggers Culture Bombs, and +1 [ICON_Culture] Culture per turn."/>
+			Text="Breathtaking tiles receive +1 [ICON_Faith] Faith form each type of adjacent Mountain and Water terrain; +2 [ICON_Faith] Faith if the tile has unimproved Forest.[NEWLINE]Pastures and Plantations triggers Culture Bombs, and +1 [ICON_Culture] Culture per turn."/>
 
 		<Row Language="en_US" Tag="LOC_UNIT_OUTRIDER_NAME"
 			Text="Out-rider Knight"/>
@@ -36,8 +36,22 @@
 		<Row Language="en_US" Tag="LOC_LEADER_GENSHIN_FISCHL_NAME"
 			Text="Fischl"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENSHIN_FISCHL_NAME"
-			Text="Prinzessin der Verurteilung"/>
+			Text="Prinzessin of Ashen Darkness"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENSHIN_FISCHL_DESCRIPTION"
-			Text="Placeholder."/>
+			Text="All units +1 [ICON_Movement] movement +3 [ICON_Strength] Combat Strength in Dark Ages. All tiles +1 Appeal in Golden Ages."/>
+
+		<Row Language="en_US" Tag="LOC_LEADER_GENSHIN_BARBARA_NAME"
+			Text="Barbara"/>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENSHIN_BARBARA_NAME"
+			Text="Shining Starlet"/>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENSHIN_BARBARA_DESCRIPTION"
+			Text="All Cities have access to fresh water. -3% [ICON_Faith] Naturalist and Rock Band purchase cost for each Shrine in the empire. (up to -30%)"/>
+
+		<Row Language="en_US" Tag="LOC_LEADER_GENSHIN_NOELLE_NAME"
+			Text="Noelle"/>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENSHIN_NOELLE_NAME"
+			Text="Chivalric Blossom"/>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENSHIN_NOELLE_DESCRIPTION"
+			Text="Land units receive +100% Support Bonus in combat. Cities with garrisoned units +1 Amenities, +10% [ICON_Production] Production."/>
 	</LocalizedText>
 </GameData>

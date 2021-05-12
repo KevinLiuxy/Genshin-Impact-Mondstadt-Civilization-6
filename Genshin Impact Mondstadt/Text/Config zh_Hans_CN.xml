@@ -10,7 +10,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_NAME"
 			Text="风与牧歌之城"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_DESCRIPTION"
-			Text="山脉、湖泊、海岸地貌：每种为相邻惊艳的单元格提供 +1 [ICON_Faith] 信仰；为相邻魅力为惊艳且未改良的森林 +2 [ICON_Faith] 信仰。[NEWLINE]牧场和种植园可触发文化炸弹，每回合 +1 [ICON_Culture] 文化值。"/>
+			Text="山脉和水域：每种为相邻惊艳的单元格提供 +1 [ICON_Faith] 信仰；为相邻魅力为惊艳且未改良的森林额外 +1 [ICON_Faith] 信仰。[NEWLINE]牧场和种植园可触发文化炸弹，每回合 +1 [ICON_Culture] 文化值。"/>
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_OUTRIDER_NAME"
 			Text="侦察骑士"/>
@@ -37,6 +37,20 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GENSHIN_FISCHL_NAME"
 			Text="幽夜净土之皇女"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GENSHIN_FISCHL_DESCRIPTION"
-			Text=""/>
+			Text="处于黑暗时代所有单位 +1 [ICON_Movement] 移动力 +3 [ICON_Strength] 战斗力；处于黄金时代所有城市 +1 魅力。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_GENSHIN_BARBARA_NAME"
+			Text="芭芭拉"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GENSHIN_BARBARA_NAME"
+			Text="闪耀的偶像"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GENSHIN_BARBARA_DESCRIPTION"
+			Text="所有城市获得充足的水资源。每拥有一个神社 [ICON_Faith] 信仰值购买自然学家和摇滚乐队的花费 -3%（最多-30%）。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_GENSHIN_NOELLE_NAME"
+			Text="诺艾尔"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GENSHIN_NOELLE_NAME"
+			Text="全心全意的女仆"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GENSHIN_NOELLE_DESCRIPTION"
+			Text="陆地单位防御时获得的支援加成翻倍。拥有驻军的城市 +1 宜居度，+10% [ICON_Production] 生产力。"/>
 	</LocalizedText>
 </GameData>

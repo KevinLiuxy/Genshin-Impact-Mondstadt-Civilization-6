@@ -58,66 +58,6 @@
 			<m_ObjectName text="ICON_CIVILIZATION_GENSHIN_MONDSTADT_80"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_256"/>
-			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_256"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_32"/>
-			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_32"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_45"/>
-			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_45"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_48"/>
-			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_48"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_50"/>
-			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_50"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_55"/>
-			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_55"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_64"/>
-			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_64"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_80"/>
-			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_80"/>
-		</Element>
-		<Element>
-			<m_EntryID text="PORTRAIT_LEADER_GENSHIN_FISCHL"/>
-			<m_ObjectName text="PORTRAIT_LEADER_GENSHIN_FISCHL"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_128"/>
-			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_128"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_256"/>
-			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_256"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_32"/>
-			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_32"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_38"/>
-			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_38"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_50"/>
-			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_50"/>
-		</Element>
-		<Element>
-			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_80"/>
-			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_80"/>
-		</Element>
-		<Element>
 			<m_EntryID text="ICON_BUILDING_STATUE_OF_THE_SEVEN_128"/>
 			<m_ObjectName text="ICON_BUILDING_STATUE_OF_THE_SEVEN_128"/>
 		</Element>
@@ -189,6 +129,158 @@
 			<m_EntryID text="ICON_UNIT_PORTRAIT_OUTRIDER_95"/>
 			<m_ObjectName text="ICON_UNIT_PORTRAIT_OUTRIDER_95"/>
 		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_128"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_256"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_32"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_38"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_50"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_80"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_LEADER_GENSHIN_BARBARA"/>
+			<m_ObjectName text="PORTRAIT_LEADER_GENSHIN_BARBARA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_LEADER_GENSHIN_FISCHL"/>
+			<m_ObjectName text="PORTRAIT_LEADER_GENSHIN_FISCHL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_LEADER_GENSHIN_NOELLE"/>
+			<m_ObjectName text="PORTRAIT_LEADER_GENSHIN_NOELLE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BACKGROUND_GENSHIN_BARBARA_LOADING"/>
+			<m_ObjectName text="BACKGROUND_GENSHIN_BARBARA_LOADING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BACKGROUND_GENSHIN_FISCHL_LOADING"/>
+			<m_ObjectName text="BACKGROUND_GENSHIN_FISCHL_LOADING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BACKGROUND_GENSHIN_NOELLE_LOADING"/>
+			<m_ObjectName text="BACKGROUND_GENSHIN_NOELLE_LOADING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_256"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_32"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_45"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_48"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_50"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_55"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_64"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_FISCHL_80"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_FISCHL_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_BARBARA_256"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_BARBARA_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_BARBARA_32"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_BARBARA_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_BARBARA_45"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_BARBARA_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_BARBARA_48"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_BARBARA_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_BARBARA_50"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_BARBARA_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_BARBARA_55"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_BARBARA_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_BARBARA_64"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_BARBARA_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_BARBARA_80"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_BARBARA_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_NOELLE_256"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_NOELLE_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_NOELLE_32"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_NOELLE_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_NOELLE_45"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_NOELLE_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_NOELLE_48"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_NOELLE_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_NOELLE_50"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_NOELLE_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_NOELLE_55"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_NOELLE_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_NOELLE_64"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_NOELLE_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_GENSHIN_NOELLE_80"/>
+			<m_ObjectName text="ICON_LEADER_GENSHIN_NOELLE_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BACKGROUND_GENSHIN_MONDSTADT_INGAME"/>
+			<m_ObjectName text="BACKGROUND_GENSHIN_MONDSTADT_INGAME"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_BACKGROUND_GENSHIN_MONDSTADT"/>
+			<m_ObjectName text="PORTRAIT_BACKGROUND_GENSHIN_MONDSTADT"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
@@ -197,4 +289,3 @@
 		<Element>LINUX</Element>
 	</m_AllowedPlatforms>
 </AssetObjects..XLP>
-

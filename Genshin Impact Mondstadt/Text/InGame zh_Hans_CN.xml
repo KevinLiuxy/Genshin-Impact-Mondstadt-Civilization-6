@@ -29,30 +29,30 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text="南风之狮"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text="东风之龙"/>
 
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_1" Text="蒂玛乌斯"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_2" Text="安东尼"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_3" Text="赫尔曼"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_4" Text="六指乔瑟"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_5" Text="艾伯特"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_6" Text="鲁道夫"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_7" Text="瓦格纳"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_8" Text="昆恩"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_9" Text="斯坦利"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_1"  Text="蒂玛乌斯"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_2"  Text="安东尼"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_3"  Text="赫尔曼"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_4"  Text="六指乔瑟"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_5"  Text="艾伯特"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_6"  Text="鲁道夫"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_7"  Text="瓦格纳"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_8"  Text="提米"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_9"  Text="斯坦利"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_10" Text="霍夫曼"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_11" Text="查尔斯"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_12" Text="班尼特"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_13" Text="雷泽"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_14" Text="凯亚"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_15" Text="阿贝多"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_1" Text="芙朵拉"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_2" Text="唐娜"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_3" Text="玛乔丽"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_4" Text="玛格丽特"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_5" Text="莎拉"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_6" Text="优律"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_7" Text="布兰琪"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_8" Text="安娜"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_9" Text="诺玛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_1"  Text="芙朵拉"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_2"  Text="唐娜"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_3"  Text="玛乔丽"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_4"  Text="玛格丽特"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_5"  Text="莎拉"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_6"  Text="优律"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_7"  Text="布兰琪"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_8"  Text="安娜"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_9"  Text="诺玛"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_10" Text="爱迪斯"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_11" Text="葛瑞丝"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_12" Text="维多利亚"/>
@@ -83,5 +83,189 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_MONDSTADT_3" Text="寒天之钉"/>
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="神像的恩泽"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_COMBAT_PREVIEW_FISCHL_DARK_AGE_COMBAT_BONUS" Text=""/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_FISCHL"
+			 Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_BARBARA"
+			 Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_NOELLE"
+			 Text=""/>
+
+		<!--Diplomatic: Fischl-->
+		<!--first meet-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<!--deligation-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<!--friendship-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<!--denounce-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<!--warfare-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="{LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY}"
+		/>
+		<!--agenda-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_FISCHL_REASON_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_FISCHL_REASON_ANY"
+			 Text=""
+		/>
+		<!--make deals-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<!--settling-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<!--troops-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<!--spying-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<!--conversion-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text=""
+		/>
+		
+		<!--Civilopedia-->
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_LOCATION" Text="提瓦特大陆"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_SIZE" Text="大约 4 平方公里"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_POPULATION" Text="估计 300 人"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_CAPITAL" Text="蒙德城"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_FISCHL_QUOTE"
+			 Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_BARBARA_QUOTE"
+			 Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_NOELLE_QUOTE"
+			 Text=""/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_CAPSULE_BODY"
+			 Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_DETAILED_BODY"
+			 Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_1"
+			 Text=""/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_CAPSULE_BODY"
+			 Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_DETAILED_BODY"
+			 Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_1"
+			 Text=""/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_CAPSULE_BODY"
+			 Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_DETAILED_BODY"
+			 Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_1"
+			 Text=""/>
 	</LocalizedText>
 </GameData>
