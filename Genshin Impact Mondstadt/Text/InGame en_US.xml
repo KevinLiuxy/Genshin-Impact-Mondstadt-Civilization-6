@@ -24,10 +24,13 @@
 		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_21" Text="Wyrmrest"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_22" Text="Cecilia Garden"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_23" Text="Eagle's Gate"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_24" Text="Western Eagle"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_25" Text="Northen Wolf"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text="Southern Lion"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text="Eastern Dragon"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_24" Text="Angel's Share"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_25" Text="Cat's Tail"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text="Good Hunter"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text="Western Eagle"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_28" Text="Northen Wolf"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_29" Text="Southern Lion"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_30" Text="Eastern Dragon"/>
 
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_1"  Text="Timaeus"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_2"  Text="Anthony"/>
@@ -83,7 +86,7 @@
 		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_MONDSTADT_3" Text="Skyfrost Nail"/>
 
 		<Row Language="en_US" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="Statue's Blessing"/>
-		<Row Language="en_US" Tag="LOC_COMBAT_PREVIEW_FISCHL_DARK_AGE_COMBAT_BONUS" Text=""/>
+		<Row Language="en_US" Tag="LOC_COMBAT_PREVIEW_FISCHL_DARK_AGE_COMBAT_BONUS" Text="Fischl in dark age +5 [ICON_Strength] Combat Strength."/>
 
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_FISCHL"
 			 Text=""/>
@@ -91,39 +94,399 @@
 			 Text=""/>
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_NOELLE"
 			 Text=""/>
+			 
+		<!--Diplomatic: Fischl-->
+		<!--first meet-->
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="I, Fischl, Prinzessin der Verurteilung, descend upon this land by the call of fate.[NEWLINE]Oh, you are also a traveler from another world?"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="It's such pleasant my little garden Mondstadt is to behold.[NEWLINE]Would you too like to have a look upon its glory?"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="I have roamed the galaxy and traversed countless worlds. I am to learn the fate of universes and reveal the destiny of every living soul."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="Me? Hehehe. Remember thou this, that I am the Sovereign of Immernachtreich.[NEWLINE]Tell me about thy world, and I shall too invite you to my little garden Mondstadt oneday."
+		/>
+		<!--deligation-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="...Well, would you willingly bear the agony of piercing to the heart of all truths? The world would lose much of its appeal if wholly stripped of delusion and falsehood."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="Absurd. Should beasts prowling in the night covet her Majesty, then I shall fell it with my ensorcelled arrows of judgment!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="My emissaries have presented you with our royal heirloom, Edelstein der Dunkelheit. Let this ceremonial ornament mark our intertwined fate in this fallen world."
+		/>
+		<!--friendship-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="I, Prinzessin der Verurteilung, Sovereign of the Immernachtreich, do hereby call upon thee to do all within thy power to protect me, and to ready thy mind lest thou be required to make the ultimate sacrifice in the performace of this noblest of duties."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="Not that the illusory likes this has bearing on one such as I, to whom the causality of three thousand universes has been unveiled."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="It was fate that saw to your descent upon this world, destiny that saw our paths intertwined.[NEWLINE]I, Fischl, shall always protect you. Bacause fate has revealed to me this is what has been decreed."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="Dusk and dawn but fleeting shadows are. Once more, the twists of fate have led you into my everlasting night."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="This is no great loss, for solitude is the noble's lot, so long as I do not lose the nobility of my soul."
+		/>
+		<!--denounce-->
+		<Row Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="Your nature is obscure, thy fate a mystery, and thy speech a vexing tapestry woven of both lie and fiction..."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="My Auge der Verurteilung has seen with unmistakable clarity how your heart ails at being forsaken by the world! (Denounces You)"
+		/>
+		<!--warfare-->
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="My magic arrow cries out my holy name as it streaks through the night, praying that the violet lightning of retribution shall strike the enemies of fate down from the skies!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="My arch nemesis, our millennia-lasting conflict shall end here! Unseal![NEWLINE]Auge der Verurteilung des Großen Kaleidophantasmas! Let the cleansing fires of darkness burn you to embers!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="This realm is no home for princess..."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="This realm is no home for a princess..."
+		/>
+		<!--agenda-->
+		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="Her Majesty beseeches you to unfurl your blessed wings, and with them blot out the heavens, plunging the world into eternal night..."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_FISCHL_REASON_ANY"
+			 Text="(You have entered a dark age)"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="If the Prinzessin der Verurteilung should reckon any morsel worthy, then it must be the tears of sinners and the tongues of liars."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_FISCHL_REASON_ANY"
+			 Text="(You have entered a golden age)"
+		/>
+		<!--make deals-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="Hm-hm, may the glory of the Prinzessin bring light to this world."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="Insubordination!"
+		/>
+		<!--troops-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GENSHIN_FISCHL_ANY"
+		   Text="The Prinzessin der Verurteilung has the solemn duty to safeguard the souls of all. Bring forth your true intention, or I shall descend the Thundering Retribution on those who are uninvited."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text="What a ridiculous concern! Last time who had the vanity to probe the fate of the Prinzessin der Verurteilung herself wounded up a trembling wreck, overborne and overmastered."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text="Rejoice! Else, tremble in fear! Let it be known that I, the Prinzessin der Verurteilung, Sovereign of the Immernachtreich, have peered forth with mine leftmost eye into thy tapestry of fate, and beheld its every wrap, weft and dangling orphaned thread!"
+		/>
+		<!--spying-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_LEADER_GENSHIN_FISCHL_ANY"
+		   Text="I have peered forth with mine leftmost eye into thy wicked covet. I, the Prinzessin der Verurteilung, hereby demands you to end your arrogant hostility immediately!"
+		/>
+
+		<!--Diplomatic: Barbara-->
+		<!--first meet-->
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Tada! Barbara is here~ Leave the healing to me. I will not disappoint you!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="I could never get bored of the breathtakingly beautiful nature that surrounds Mondstadt. Would you like to pay us a visit today?"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Splendid. I am eager to try out dishes of your homeland. Is there anything as good as the spicy squid of the Good Hunter?"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="I could never get bored of the breathtakingly beautiful nature that surrounds Mondstadt. I've heard that there are blue trees that exist by the sea shore near Inazuma City. What does your homeland looks like?"
+		/>
+		<!--deligation-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Thanks for this wonderful present! Please have a good rest."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Please allow me to refuse your kind offer. I don't like anything bitter, especially... ugh, bitter gourd."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Are you tired? I've brought you some gifts~ Try my new spicy energy drink, I'm sure it will wake you up!"
+		/>
+		<!--friendship-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Thank you for being with me for all this time, I can feel that I'm getting closer to my dream. Hope we can keep this up in the future~!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Oh? You want to hear me sing...? Sorry, the show is... It hasn't started yet."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="My dream is to bring a smile to the faces of all the people in my life! As long as I can help you on your journey, I'll be happy~"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Aw, thank you so much for your support! Oh no, I'm too excited, my heart just can't stop racing!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="I'm doing my best everyday... I hope my efforts could one day earn the trust of yours."
+		/>
+		<!--denounce-->
+		<Row Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Uh, you kept frowning... Maybe you don't like my singing?"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Neither my magic nor my melodyne could save you from your decadence. (Denounces You)"
+		/>
+		<!--warfare-->
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="More people will get injured protecting me... I hope they are okay.[NEWLINE]Oh, what am I worried about? Of course the Knights of Favonius will be fine! I will be sure to pray for their safe return."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="To the wind that guides me: When I'm exhausted, bless me with the strength to keep going forward. When I'm uncertain, bless me with the wisdom to distinguish good from evil. When I suffer from injustice, bless me with the courage to fight back!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="My companions keep getting injured... At last, I still wasn't able to share the burden of their pain..."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="My companions keep getting injured... At last, I still wasn't able to share the burden of their pain..."
+		/>
+		<!--agenda-->
+		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Everyone is working super hard, we should be too!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_BARBARA_REASON_ANY"
+			 Text=""
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="Don't stay lazy like this for too long, you'll miss the opportunity to realize a wonderful future!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_BARBARA_REASON_ANY"
+			 Text=""
+		/>
+		<!--make deals-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="May Barbatos' gentle wind be with you."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="No problem. Meybe next time."
+		/>
+		<!--troops-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="Knights look so cool when they swing their sword in combat! Don't you think so? Did you come here to practice with them?"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="Hehe, don't worry. Uh, let's just say I have zero talent with a sword."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="To the wind that guides me: When I'm exhausted, bless me with the strength to keep going forward. When I'm uncertain, bless me with the wisdom to distinguish good from evil. When I suffer from injustice, bless me with the courage to fight back!"
+		/>
+		<!--spying-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="I've heard from rumors there had been people sneaking around and following me... and I can't believe that person is you. So, please stop such things okay? As even an idol would get angry at this..."
+		/>
+		<!--conversion-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="Mondstadt belongs to the god of wind. We follow the doctrine of Barbatos sincerely to our heart. Please respect our belief."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="Understood. It must be your cities too are protected by their own gods. I shall follow your wish."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="I have come far under the blessings of the wind, and I believe it will also illuminate the path for you and your people."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="May Barbatos' gentle wind be with you."
+		/>
+
+		<!--Diplomatic: Noelle-->
+		<!--first meet-->
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="My name is Noelle, maid of the Knights of Favonius, and it's my pleasure to be joining you on your adventure today. Should you encounter any problems at all at any point throughout your journey, please do not hesitate to call me and I will be delighted to provide you with my full assistance."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="Ready for your tea break, traveler? Please wait inside while I get it ready. Oh yes, I also made Lighter-Than-Air Pancakes! You simply must try one, it's my specialty."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="How may I be of assistance? ...Oh, you just want to chat? Okay then! Well, if that's how I can help, then please feel free to chat as long as you'd like."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="You seem tired. Would you like some tea? I'll brew you some, and we can both sit down and have a chat. Do you take sugar? One cube, or two?"
+		/>
+		<!--deligation-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="Well... Then I'll make some for you too! I'll go right now, right this instant! You can busy yourself with other things first, and I'll be sure to deliver them right to you, hot and fresh out of the oven!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="Th—These treats are for me? Oh no, I couldn't, really."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="So I hear you're an Honorary Knight of your people? I envy you! I suppose that makes you my senior...[NEWLINE]Anyway, it's about time someone threw you a celebration party, surely? Leave it to me!"
+		/>
+		<!--friendship-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="I spend all my days handling the most trivial of matters, but so long as it helps you in your adventure, or makes your life easier in some small way, I couldn't be happier.[NEWLINE]That's because each time I get a thank-you, it makes me feel like my work at least has some meaning, no matter how insignificant it seems."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="I mostly work for the Knights of Favonius, so I cannot promise to spend more of my time with you, as I'm always looking out for helping more people."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="Even though I mostly work for the Knights of Favonius, I'm always looking out for ways I can help more people.[NEWLINE]These days, though, I seem to be spending more and more of my time with you... It might be a bit selfish of me... What do you think?"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="Awwww... Thank you! Coming from you, that is the best compliment I could ever hope for!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="You have always been my role model, both in terms of ability and dedication. So if there ever comes a day when I meet with your approval, it will be the ultimate acknowledgment of all my efforts so far. Until then, there's no room for complacency!"
+		/>
+		<!--denounce-->
+		<Row Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="I'm a bit useless in an argument because I can't really explain my reasoning clearly. People find that hard to understand, so instead, I will convince you with results instead of trying to talk you round."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="You're a far cry from being a true knight, that's for sure. When it comes to training, actions speak louder than words. (Denounces You)"
+		/>
+		<!--warfare-->
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="Time to clean up the battlefield!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="It's time to clean up the evil upon this land... As a good knight should!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="I am a disgrace... to the knights..."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="I am a disgrace... to the knights..."
+		/>
+		<!--agenda-->
+		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="Thank you for the opportunity to accompany you on helping other people, it has taught me a lot and I believe I have improved a lot.[NEWLINE]As a maid, I should be the one serving others, but it seems you have done more for me than I could ever imagine..."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_NOELLE_REASON_ANY"
+			 Text=""
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="Um, I do hope you're not thinking, &quot;that's too much trouble, I'll just leave it to Noelle&quot;, are you?...[NEWLINE]Oh... but of course, if you are... Well then, just leave it to me."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_NOELLE_REASON_ANY"
+			 Text=""
+		/>
+		<!--make deals-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="As you wish."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="To be honest, I'm feeling a little dejected."
+		/>
+		<!--settling-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="Because you want me to watch over you until you fall asleep? I—I... I mean, of course, it's no problem. But, um... You're not just teasing me, are you?"
+		/>
+		<!--troops-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="This is the free city Mondstadt, please kindly remove your troops from our border. I will deal with any urgent outdoor business on my lands for you."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="As you wish... Whenever you need me again, I'll be there."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="It's finally time to clean up the evil upon this land... As a good knight should!"
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="You have my thanks."
+		/>
+		<!--spying-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="A maid is required to keep everyone's secrets. That's why my favorite flower is the rose. Here in Mondstadt, the rose represents the saying, &quot;As wine bottles are corked, so too my lips are sealed&quot;.[NEWLINE]Thus I will not tolerate any spying on Mondstadt, not even from you."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="You have my thanks."
+		/>
+		<!--conversion-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="Your missionaries are not welcomed in Mondstadt, the city of wind. Please tell them to leave at once."
+		/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="Thank you. May the god of wind bless you."
+		/>
 
 		<!--Civilopedia-->
 		<Row Language="en_US" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_LOCATION" Text="Teyvat"/>
-		<Row Language="en_US" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_SIZE" Text="Est. 2.5 square kilometers"/>
+		<Row Language="en_US" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_SIZE" Text="Est. 4 square kilometers"/>
 		<Row Language="en_US" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_POPULATION" Text="Roughly 300 people"/>
 		<Row Language="en_US" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_CAPITAL" Text="Mondstadt City"/>
 
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_FISCHL_QUOTE"
-			 Text=""/>
+			 Text="To condemn the guilty, to sanctify the just, and to draw all castaway dreams into the embrace of the infinite Immernachtreich."/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_BARBARA_QUOTE"
-			 Text=""/>
+			 Text="To bring together and fulfill those desires and make everyone happy — this is the purpose my Archon has bestowed upon me."/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_NOELLE_QUOTE"
-			 Text=""/>
+			 Text="I am here to serve in whatever capacity you require... I feel a strong sense of achievement every time I do something for you."/>
 
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_CAPSULE_BODY"
-			 Text=""/>
+			 Text="Fischl is the Prinzessin der Verurteilung who arrived here after being exiled from the otherworld, &quot;Immernachtreich&quot;. She &quot;observes and weaves the threads of fate&quot; together with her talking night raven familiar, Oz. Owing to reasons she cannot and Oz will not explain, Fischl now serves the Adventurers' Guild as an investigator."
+		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_DETAILED_BODY"
-			 Text=""/>
+			 Text=""
+		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_1"
-			 Text=""/>
+			 Text="As an investigator for the Adventurers' Guild, the single biggest advantage Fischl has over her peers is Oz. &quot;Milady, please stop sending me out to spy on Stormterror. That chap could eat me for breakfast! Well, I'm so puny I probably wouldn't even get caught between his teeth, but... Anyway, I don't want to die!&quot; &quot;Hmph! You are supposed to be my familiar. Not everyone gets to be the Prinzessin der Verurteilung's familiar, do you understand? Consider it your honor to dedicate your life to serving me!&quot; Fischl is able to see through Oz's eyes. Whenever she wants to, she possesses Oz and looks down upon the earth from the sky. Whether she wants to inspect the flora on the Stormbearer Mountains or observe a disturbance in Wolvendom, through Oz she can see anything and everything. Thanks largely to her unique ability — and, to a lesser extent, to her own effort and peculiar personality — Fischl quickly went from the rookie investigator of the Adventurers' Guild to a respected rising star of the organization. She's certainly done well for herself. She only landed the coveted position of Investigator at age fourteen in the first place because her parents managed to persuade the guild master. Then again, would they really have had to do much persuading? If she's the Prinzessin der Verurteilung... one can only assume that would make them the Kaiser und Kaiserin der Verurteilung."
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_2"
+			 Text="It's said that there is currently a &quot;Fischl Dictionary&quot; in circulation among the adventurers. Namely, a book that aims to translate Fischl's peculiar way of speaking into something more understandable. For example: &quot;I hear... echoing in the abyss of time, the burning winds of the old, all of which shape the spire forgotten in the torrents of karma&quot; would translate into &quot;Stormterror's Lair&quot;; &quot;Servants of the Verurteilung name! As you have requested, prepare to receive the great wisdom of the prinzessin&quot; would be &quot;I'll look into that and let you know ASAP&quot;; &quot;Rejoice! O, ye servants who long for the blessing of the prinzessin; venture now deep into the battlefield with hearts of the tiger&quot; means that the initial investigative work has been completed; &quot;All has been written in this tome of dark prophecies&quot; simply means that her journal has been updated with the latest reports. However, the &quot;Fischl Dictionary&quot; is actually just an in-joke, not a real book. Those who are familiar with Fischl concentrate on what she means to say, not the way in which she says it; she notices this and takes it as a sign of true respect. &quot;Aha! So you do understand. Then fate does indeed bring kindred spirits together.&quot; Those who manage to adopt her speech mannerisms when they respond to her will find she is both delighted and bashful, and praises their language-learning ability. &quot;A prinzessin should always give praise where praise is due... Now, let us converse some more. Do not be mistaken; these are to be the foundations of the new world...&quot;"
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_3"
+			 Text="Oz and Princess Fischl are not only close friends but also servant and master, with a shared soul and fate. Their first encounter was mentioned in &quot;Flowers for Princess Fischl (I): End Time Zersetzung&quot; When the lone pilgrimaging princess reached the kingdom of eternal twilight, the fate-resisting royals chose to deny everything in their desperation. They refused to recognize Fischl's noble stature and mission as the princess of the Immernachtreich; denied their 13,000-year lineage as a branch of the royal family; and forsook their own nobility and restraints as humans... devolving into clumsy and vicious beasts. In the palace of Twilight and amidst the teeth of the beasts, the princess shed her sacred blood on the ancient emblem. At the moment of her peril, the dark wings of the night ripped the trapped, wounded princess from her despair and took her under its wings. Following the scent of her noble blood, Ozvaldo Hrafnavins, the King of Ravens came to the princess and pledged his eternal loyalty."
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_4"
+			 Text="There is a story that goes as follows. A long time ago in a place far, far away, there was a tiny little girl. The girl's parents were busy adventurers. She spent most of her childhood in the library, traversing the countless universes that were contained in the pages of the library books. She became the ruler of the Immernachtreich, summoned Thundering Retribution as a royal princess, and formed a soul bond with a Raven... &quot;Amy, what books did you read today?&quot; Her parents asked her on one of the rare occasions that they were home between adventures. She proceeded to tell them the story she had read from her favorite series. &quot;...And then he said, Fischl von Luftschloss Narfidort, you are the Prinzessin der Verurteilung, my proud daughter. You shall never surrender your nobility and dreams.&quot; &quot;Oh, that's a lovely story. Since you like it so much, Amy, how about I call you 'Fischl' too?&quot; Her father smiled, put his hand on her head and repeated the words from the story to her. &quot;Fischl, you are my wonderful princess and my proud daughter. You shall never surrender your nobility and dreams.&quot; These kind and loving words lit up her world. However, the time with her busy parents was always fleeting. Unable to fit in with her peers due to her obsession with fantasy novels, she often felt lonely and sad. At these times, she would remind herself: &quot;I am Fischl, my daddy's wonderful princess. It's true, because Mommy and Daddy said so...&quot; &quot;Never will I surrender my nobility and dreams, for they are... a princess' rite of passage.&quot;"
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_5"
+			 Text="Just like in the universe of &quot;Flowers for Princess Fischl&quot;, entropy begot destruction. In other words: The girl who loved to dream grew up. On her fourteenth birthday, those of her peers who refused to accommodate her quirks belittled her once again. &quot;This is but a minor setback for the noble princess. My parents will understand,&quot; she thought to herself. For if she knew one thing, it was that as a princess she could never surrender her nobility and dreams. But when she threw herself into her parents' arms in need of comfort, she was met instead with gentle words of exasperation. &quot;Amy, you are fourteen years old now. It's fun to make-believe, but eventually you need to grow up and put your childish dreams behind you...&quot; And with that, the same voice that had once lit up her world now tore it apart. That day at midnight, she hid herself in the library she knew so well. She had a strange feeling that she was being watched... Suddenly, she heard an otherworldly flapping of wings. Sure enough, she looked up and her red, swollen eyes met with those of a night raven from another world. What transpired afterwards is another story... Fischl doesn't much like this story. Thinking about it causes her to feel suffocating pain and soul-devouring loneliness. Maybe one day, this story will be written. But that would be Amy's story, not Fischl's. Fischl has but one identity: she's the Prinzessin. As long as she remembers this simple and perfect logic, with a little bit of nobility and a touch of kindness from others, nothing can ever hurt her. Things are looking up for Prinzessin Fischl these days — not only does she have Oz, but she has finally met a traveler who, just like her, comes from a different world..."
+		/>
 
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_CAPSULE_BODY"
-			 Text=""/>
+			 Text="Barbara is the Deaconess of the Church of Favonius, as well as the shining idol of Mondstadt. &quot;The sight of Barbara makes all my problems disappear&quot;. This is quite a common saying among the citizens of Mondstadt. In fact, Barbara can do much more than just put people in a better mood: Her healing powers extend to flesh wounds and other physical ailments. Barbara is known to have access to miraculous healing powers through her Hydro Vision. However, Barbara herself knows that hard work is the most miraculous magic of all."
+		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_DETAILED_BODY"
-			 Text=""/>
+			 Text=""
+		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_1"
-			 Text=""/>
+			 Text="Every citizen of Mondstadt adores Barbara. However, this has not always been the case. At first, Barbara's songs sounded strange to the citizens of Mondstadt, and many struggled to see the appeal. This was because for the longest time, the folk songs of bards were the only popular songs known in Mondstadt. Fortunately, Mondstadt stayed true to its reputation as the City of Freedom, and the people ultimately embraced the new while continuing to cherish the old. People accepted Barbara's songs, and over time her positive energy rubbed off on them. Soon, they could be heard humming her tunes all around Mondstadt. &quot;Albert, would you stop please! You're completely out of tune!&quot;"
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_2"
+			 Text="Barbara's feelings on her own success are mixed. To the extent that an idol's duty is to make everyone adore her, she has done a fantastic job. There is no doubting that she has made the right choice. However, an idol is also expected to spread joy and relieve people's spiritual fatigue... Has she really accomplished that? She sang for blind Glory, encouraging her to believe that her lover would one day return. She sang, too, for sick Anna, promising her that her illness would one day be cured. Yet, the smiles on their faces never last long after the songs end. This has led Barbara to become somewhat disillusioned and doubtful."
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_3"
+			 Text="Barbara has always been a bright and optimistic girl since she was young. Though at times she can be a bit clumsy and mess things up, she always bounces right back and has another go. Barbara is the complete opposite of her sister, who is seen by all as the pride of her family. Unlike Barbara, her sister has always been the very definition of success in all aspects. Initially, all Barbara had ever wanted was to surpass her sister in at least one thing, even if only once. However, be it swordplay, her grades, or anything else, she was never able to compare. Even for someone as optimistic as her, she found herself to be upset and down. &quot;Hard work is the most miraculous magic. But when even that doesn't work... what then?&quot;"
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_4"
+			 Text="Barbara has never once considered giving up. Her determination and resilience even surprised her father, Seamus Pegg, the Cardinal of Daybreak. Barbara only allows herself to be depressed for 30 seconds. After that, she forces herself to brighten up, no matter what. &quot;I'm not so good in combat, so I'll be sure to support those who are.&quot; Under her father's counsel, Barbara became a healer. She is as radiant as the sick and injured are pained. Her desire to be recognized gradually transformed into a simple desire to help others."
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_5"
+			 Text="&quot;Thank you&quot; are the two words that Barbara hears most often. When she feels lost, she will suddenly find that there is someone wanting to hold her hand. &quot;Thanks for being here with me. I feel so much better.&quot; To Barbara, the greatest reward is seeing the smiles on people's faces. Therefore, whenever she is massaging her swollen calves or drinking tea to care for her sore throat, Barbara recalls all those who have been kind to her. &quot;It's the encouragement I receive from others that keeps me going.&quot; Just maybe, the smiles she receives are proof that her songs really can heal people. Her ambition to surpass her sister and become the most popular person in all of Mondstadt hasn't been abandoned by Barbara, it is simply buried deep inside her heart. &quot;If only I excelled more, perhaps I could be of help to Jean.&quot; This is what she believes. &quot;Okay... Barbara, go!&quot;"
+		/>
 
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_CAPSULE_BODY"
-			 Text=""/>
+			 Text="Noelle has much greater dreams and ambitions than other maids in the Knights of Favonius. Like anyone else in this city protected by the Knights of Favonius, she too dreams of donning the honored armor. Even if her skills are not enough to pass the rigorous selection trials, she still wishes to observe and learn from them every chance she gets. Aside from her training, she enjoys her current life, helping everyone in need. &quot;You can leave absolutely anything to me!&quot; That's her signature line. If there's anything that you need, Noelle is glad to be of aid."
+		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_DETAILED_BODY"
-			 Text=""/>
+			 Text=""
+		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_1"
-			 Text=""/>
+			 Text="Noelle is &quot;the maid of all maids&quot; to many. Such people also tend to say this of her: &quot;She's everywhere.&quot; For example, there was a child who once tried to get a plate during a banquet, but found that there was no way to open the cabinet without all the plates falling out... &quot;Noelle!!!!!!&quot; All the child needed to do was scream, and Noelle appeared. She put the cabinet down on its back, took a plate out, and handed it to the child, reminding him not to have cold drinks immediately after having barbecue. Then she righted the cabinet, cleaned up other plates, and then put them back in order. Noelle's ability to be everywhere all at once is something miraculous to many. However, the job of a maid is no myth or legend. Noelle only does her job to the letter. &quot;No more, no less. As it should be, not as it should not be.&quot; Noelle doesn't think herself special, only that she thinks too much at times."
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_2"
+			 Text="Noelle is always eager to help, sometimes excessively so. If you were to ask her how to build a campfire as she passed by, she would not only stop and build the campfire for you, she would also put up the grill racks, season the food, cook it for you, taste it herself to make sure it's done, and remind you to put out the fire when you've finished so as not to burn the forest down. Then she would get back to whatever she had been doing beforehand. Of course, most people don't mind at all that she regularly goes the extra mile. But it can sometimes produce unexpected results... For example, a merchant from Snezhnaya once came to Mondstadt, ostensibly wishing to get into the winery business. In truth, he had an evil plot to ruin the land, destroy the winery business in Mondstadt altogether and then seize the market with wines from Snezhnaya. He disguised himself as an honest merchant with his family on a business trip to Mondstadt. Naturally, with them being visitors from afar, Noelle gave them a warm reception. Initially, the merchant was delighted with Noelle's hospitality; it was a cut above the crude etiquette he had come to expect from most peasants in Mondstadt. However, after a while he began to feel that something was amiss. Noelle seemed to be able to read his mind: She correctly guessed his schedule, cooked his family's favorite Snezhnayan dishes for them each day, and even knew that his daughter liked to go to bed hugging a ragdoll, presenting her with a hand-made doll she had sewn together herself. This spooked the merchant, and made him hesitant to execute the next phase of his plan. Noelle's warm smile now chilled the merchant to the bone. What else did she know, and what was she really planning? In the end, the merchant fled Mondstadt with his family. Noelle was upset for a few days, thinking she had somehow insulted her guests. Little did she know that all of Mondstadt was indebted to her for taking her job so seriously."
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_3"
+			 Text="Most of the time, Noelle's reliability provides a comforting presence, but there are always exceptions. Once, she learned that an adventurer was trapped on Dragonspine, so she decided to mount a rescue by herself. The snowstorm that day was terribly fierce, wiping out any tracks left by humans as soon as they were made. It was impossible to find a safe route to proceed, to say nothing of saving the adventurer amidst the snow. However, Noelle persisted on searching for the adventurer and eventually found him inside a cave, suffering from severe hypothermia. At the time, her coat was completely soaked, and the water inside her bottle had turned to ice. Thirsty and hungry, Noelle still managed to carry the adventurer down on her back. The adventurer was saved, but Noelle, having over-exerted herself, laid in bed for three days straight, suffering from a high fever. Everyone in the Knights of Favonius barely slept out of concern for her during that period. Fortunately, Noelle recovered. It was not the first or second time that something similar had happened, and everyone was deeply worried for Noelle. In order to prevent Noelle from putting herself in harm's way again, Jean had to invent some safe jobs to keep Noelle busy. If something were to happen, then Kaeya would have to save the day. During the Stormterror threat, Noelle was also eager to resolve the threat at its source. However, Kaeya managed to arrange quite a few &quot;urgent matters&quot; for her to attend to inside the city until it was all over."
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_4"
+			 Text="Noelle's petite form does a good job of hiding her great strength. This does not just refer to her resoluteness or her indomitable spirit, but also her physical strength. Once, Lisa accidentally dropped her experimental apparatus under her bookshelf and troubled over whether she could remain decent while bending over to retrieve it. Noelle made it over in the nick of time, lifting the full bookshelf with only one hand — and not a single book fell out between her hefting it and putting it down. There was another incident in which several cargo-bearing carts were attacked by Pyro Slimes as they tried to pass through Mondstadt's side gate. As the owners were all in a panic, it was Noelle again who came to the rescue — hurling the carts — cargo and all, into the Cider Lake, before leaping into the water herself and retrieving every last item. Rumor has it that when Noelle was studying the blade, she nearly sent Wagner — who prided himself in his forging skills — into despairing seclusion. In all, he forged over ten different swords with different alloy compositions for Noelle, but all would lose their edge after a few uses. At first, Wagner thought Noelle unskilled, but eventually found that the problem was more foundational: the swords just weren't strong enough. Putting his reputation on the line, Wagner finally made Noelle a sturdy and heavy claymore that was further reinforced by her affinity for Geo. Only then was her weapon issue (barely) solved. But don't worry, Noelle won't use her superhuman strength unless the situation calls for it, as she is a pacifist at heart. They say, however, that the very day Noelle received her custom-made claymore, she was set upon by a pair of drunken Treasure Hoarders in Drunkard Gorge, who thought her a harmless lamb... Let's just hope that no one else will ever be so unlucky."
+		/>
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_5"
+			 Text="Noelle's greatest enemy, curiously, is not a person, but Ludi Harpastum itself. During Ludi Harpastum, long tables arranged in a circular shape and filled with all kinds of food will be set up in the plaza before the Cathedral for everyone to enjoy. The food is usually prepared by volunteers who can cook. During this time, Noelle, who always holds herself to a high standard, joins the volunteers in continuously cooking and serving food. It's not really any additional work; what's difficult is that she insists on tasting every dish to make sure they are up to standard. The crispy Moon Pies; the sizzling Mondstadt Pork Chops; the towering Pile 'Em Ups — all the fried and barbecued foods, equal parts delicious and fatty, are customary at the festival. The smiles on people's faces make Noelle truly happy. What makes her less so is seeing her bulging belly. She can't help but let out a sigh. For the entire month following the festival, Noelle will volunteer for the Knights of Favonius' city night patrol. The festival may be over, but her battle is only beginning."
+		/>
 	</LocalizedText>
 </GameData>

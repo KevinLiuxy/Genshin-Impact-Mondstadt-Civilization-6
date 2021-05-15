@@ -15,7 +15,9 @@ function statue7Heal(iPlayerID, iUnitID, PlotX, PlotY)		-- Unit Moved to Statue 
 			local pUnit = UnitManager.GetUnit(iPlayerID, iUnitID);
 			
 			if (pUnit ~= nil and pUnit:GetDamage() ~= 0) then
-				UI.PlaySound("Play_Statue_of_The_Seven_Heal");
+				if (PlayersVisibility[iPlayerID]:IsVisible(PlotX,PlotY)) then
+					UI.PlaySound("Play_Statue_of_The_Seven_Heal");
+				end
 				statue7HP = statue7HP - math.min(statue7HP, pUnit:GetDamage());
 			end
 		end

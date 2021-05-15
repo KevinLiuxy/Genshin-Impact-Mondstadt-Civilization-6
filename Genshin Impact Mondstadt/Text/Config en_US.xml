@@ -2,7 +2,7 @@
 <GameData>
 	<LocalizedText>
 		<Row Language="en_US" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
-			Text="Genshin·Mondstadt"/>
+			Text="Genshin · Mondstadt"/>
 		<Row Language="en_US" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
 			Text="Mondstadt"/>
 		<Row Language="en_US" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_ADJECTIVE"
@@ -11,7 +11,7 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_NAME"
 			Text="City of Winds and Idylls"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_DESCRIPTION"
-			Text="Breathtaking tiles receive +1 [ICON_Faith] Faith form each type of adjacent Mountain and Water terrain; +2 [ICON_Faith] Faith if the tile has unimproved Forest.[NEWLINE]Pastures and Plantations triggers Culture Bombs, and +1 [ICON_Culture] Culture per turn."/>
+			Text="Breathtaking tiles receive +1 [ICON_Faith] Faith form each type of adjacent Mountain or Water terrain; +2 [ICON_Faith] Faith if the tile has unimproved Forest.[NEWLINE]Pastures and Plantations triggers Culture Bombs, and +1 [ICON_Culture] Culture per turn."/>
 
 		<Row Language="en_US" Tag="LOC_UNIT_OUTRIDER_NAME"
 			Text="Out-rider Knight"/>
@@ -26,12 +26,12 @@
 		<Row Language="en_US" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_NAME"
 			Text="Statue of the Seven"/>
 		<Row Language="en_US" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_DESCRIPTION"
-			Text="Gneshin Impact unique building that replaces the Monument. Provides an additional +2 [ICON_Faith] Faith.[NEWLINE]Units instantly heals when moving to a Statue of the Seven. The total Healing power is 25 (shared among all units)."/>
+			Text="Genshin Impact unique building that replaces the Monument. Provides an additional +2 [ICON_Faith] Faith.[NEWLINE]Units instantly heals when moved to a Statue of the Seven. The healing power of the statue is 25 per turn."/>
 
 		<Row Language="en_US" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
 			Text="Adventurers' Guild"/>
 		<Row Language="en_US" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_DESCRIPTION"
-			Text="Unlocks the Builder ability to constrcut a Adventurers' Guild, unique to Genshin Impact.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture and +1 [ICON_Production] Production. +1 [ICON_Gold] Gold and Appeal to adjacent tiles. One per city. Tiles with Adventurers' Guild cannot be swapped."/>
+			Text="Unlocks the Builder ability to constrcut a Adventurers' Guild, unique to Genshin Impact.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture and [ICON_Production] Production. +1 [ICON_Gold] Gold and Appeal to adjacent tiles. One per city. Tiles with Adventurers' Guild cannot be swapped."/>
 
 		<Row Language="en_US" Tag="LOC_LEADER_GENSHIN_FISCHL_NAME"
 			Text="Fischl"/>
@@ -45,7 +45,7 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENSHIN_BARBARA_NAME"
 			Text="Shining Starlet"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENSHIN_BARBARA_DESCRIPTION"
-			Text="All Cities have access to fresh water. -3% [ICON_Faith] Naturalist and Rock Band purchase cost for each Shrine in the empire. (up to -30%)"/>
+			Text="All Cities have access to fresh water. -3% Naturalist and Rock Band [ICON_Faith] purchase cost for each Shrine in the empire. (up to -30%)"/>
 
 		<Row Language="en_US" Tag="LOC_LEADER_GENSHIN_NOELLE_NAME"
 			Text="Noelle"/>
