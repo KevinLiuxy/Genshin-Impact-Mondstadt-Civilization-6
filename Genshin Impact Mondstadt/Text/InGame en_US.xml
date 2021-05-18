@@ -86,14 +86,43 @@
 		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_MONDSTADT_3" Text="Skyfrost Nail"/>
 
 		<Row Language="en_US" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="Statue's Blessing"/>
-		<Row Language="en_US" Tag="LOC_COMBAT_PREVIEW_FISCHL_DARK_AGE_COMBAT_BONUS" Text="Fischl in dark age +5 [ICON_Strength] Combat Strength."/>
+		<Row Language="en_US" Tag="LOC_COMBAT_PREVIEW_FISCHL_DARK_AGE_COMBAT_BONUS" Text="Fischl in dark age +3 [ICON_Strength] Combat Strength."/>
+		<Row Language="en_US" Tag="LOC_ABILITY_OUTRIDER_NAME" Text="Wind Gliders"/>
+		<Row Language="en_US" Tag="LOC_ABILITY_OUTRIDER_DESCRIPTION" Text="Wind Gliders: +1 [ICON_Movement] Movement when staring a turn on Hills."/>
 
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_FISCHL"
-			 Text=""/>
+			 Text="Night falls over Immernachtreich, Fischl, Prinzessin der Verurteilung. Despite what these Narr say, your retinue recognizes your unbridled power. With Oz at wing, you shall punish this insubordination, laying waste to their sullied world through cleansing violet bolts. Their judgment is at hand, and their dreams betray them. Slip the bonds of this apocryphal world and make your true nature known."/>
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_BARBARA"
-			 Text=""/>
+			 Text="The healing power of song has always been obvious to you, Barbara. By the guiding grace of the winds, you convalesce Mondstadt’s injured and assuage their fears. Shining the light of song into even the deepest crevice, you are the cry of salvation to a people downtrodden. Hexes and charms are nothing before the magic of hard work, stay the course and you will surely become the brightest star of the generation."/>
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_NOELLE"
-			 Text=""/>
+			 Text="Noelle, heed these words well. While self-sacrifice is the noblest pursuit of all, the battle is won by those who live to fight another day. The honored armor you deign wear, too often is as rigid as you are stubborn. Let not your industriousness cloud the deceit of others; Hold fast to your principles, and in but a short time you too will find yourself amongst the ranks of the knights you now serve."/>
+
+		<Row Language="en_US" Tag="LOC_AGENDA_LEADER_GENSHIN_FISCHL_NAME"
+			 Text="Master of ashen darkness"/>
+		<Row Language="en_US" Tag="LOC_AGENDA_LEADER_GENSHIN_FISCHL_DESCRIPTION"
+			 Text="Likes civilizations in their dark times. Dislikes civilizations in golden ages."/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_FISCHL_HAPPY"
+			 Text="Fischl likes civilizations in dark age"/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_FISCHL_UNHAPPY"
+			 Text="Fischl dislike civilization in golden age"/>
+
+		<Row Language="en_US" Tag="LOC_AGENDA_LEADER_GENSHIN_BARBARA_NAME"
+			 Text="Go Barbara, go!"/>
+		<Row Language="en_US" Tag="LOC_AGENDA_LEADER_GENSHIN_BARBARA_DESCRIPTION"
+			 Text="Likes hardworking civilization that are ahead in science and culture. Dislikes civilizations that are lagging science and culture."/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_BARBARA_HAPPY"
+			 Text="Barbara likes civilizations ahead in science and culture"/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_BARBARA_UNHAPPY"
+			 Text="Barbara dislikes civilization lags in science and culture"/>
+
+		<Row Language="en_US" Tag="LOC_AGENDA_LEADER_GENSHIN_NOELLE_NAME"
+			 Text="As a good knight should"/>
+		<Row Language="en_US" Tag="LOC_AGENDA_LEADER_GENSHIN_NOELLE_DESCRIPTION"
+			 Text="Likes civilizations that have many alies. Dislike civilizations with few alliance."/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_NOELLE_HAPPY"
+			 Text="Noelle likes civilization with many ally"/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_NOELLE_UNHAPPY"
+			 Text="Noelle dislikes civilizations that do not make alliances."/>
 			 
 		<!--Diplomatic: Fischl-->
 		<!--first meet-->
@@ -160,13 +189,13 @@
 			 Text="Her Majesty beseeches you to unfurl your blessed wings, and with them blot out the heavens, plunging the world into eternal night..."
 		/>
 		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_FISCHL_REASON_ANY"
-			 Text="(You have entered a dark age)"
+			 Text="{LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE}"
 		/>
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_FISCHL_ANY"
 			 Text="If the Prinzessin der Verurteilung should reckon any morsel worthy, then it must be the tears of sinners and the tongues of liars."
 		/>
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_FISCHL_REASON_ANY"
-			 Text="(You have entered a golden age)"
+			 Text="{LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_GOLDEN_AGE}"
 		/>
 		<!--make deals-->
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
@@ -255,13 +284,13 @@
 			 Text="Everyone is working super hard, we should be too!"
 		/>
 		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_BARBARA_REASON_ANY"
-			 Text=""
+			 Text="{LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_ANY}"
 		/>
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_BARBARA_ANY"
 			 Text="Don't stay lazy like this for too long, you'll miss the opportunity to realize a wonderful future!"
 		/>
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_BARBARA_REASON_ANY"
-			 Text=""
+			 Text="{LOC_DIPLO_WARNING_LEADER_PETER_GREAT_REASON_ANY}"
 		/>
 		<!--make deals-->
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
@@ -301,7 +330,7 @@
 		<!--Diplomatic: Noelle-->
 		<!--first meet-->
 		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENSHIN_NOELLE_ANY"
-			 Text="My name is Noelle, maid of the Knights of Favonius, and it's my pleasure to be joining you on your adventure today. Should you encounter any problems at all at any point throughout your journey, please do not hesitate to call me and I will be delighted to provide you with my full assistance."
+			 Text="My name is Noelle, maid of the Knights of Favonius. Should you encounter any problems at all at any point throughout your journey, please do not hesitate to call me and I will be delighted to provide you with my full assistance."
 		/>
 		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENSHIN_NOELLE_ANY"
 			 Text="Ready for your tea break, traveler? Please wait inside while I get it ready. Oh yes, I also made Lighter-Than-Air Pancakes! You simply must try one, it's my specialty."
@@ -324,13 +353,13 @@
 		/>
 		<!--friendship-->
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
-			 Text="I spend all my days handling the most trivial of matters, but so long as it helps you in your adventure, or makes your life easier in some small way, I couldn't be happier.[NEWLINE]That's because each time I get a thank-you, it makes me feel like my work at least has some meaning, no matter how insignificant it seems."
+			 Text="So long as I could you in your adventure, or makes your life easier in some small way, I couldn't be happier.[NEWLINE]That's because each time I get a thank-you, it makes me feel like my work at least has some meaning, no matter how insignificant it seems."
 		/>
 		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
 			 Text="I mostly work for the Knights of Favonius, so I cannot promise to spend more of my time with you, as I'm always looking out for helping more people."
 		/>
 		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
-			 Text="Even though I mostly work for the Knights of Favonius, I'm always looking out for ways I can help more people.[NEWLINE]These days, though, I seem to be spending more and more of my time with you... It might be a bit selfish of me... What do you think?"
+			 Text="These days, though, I seem to be spending more and more of my time with you... It might be a bit selfish of me... What do you think?"
 		/>
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
 			 Text="Awwww... Thank you! Coming from you, that is the best compliment I could ever hope for!"
@@ -360,7 +389,7 @@
 		/>
 		<!--agenda-->
 		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENSHIN_NOELLE_ANY"
-			 Text="Thank you for the opportunity to accompany you on helping other people, it has taught me a lot and I believe I have improved a lot.[NEWLINE]As a maid, I should be the one serving others, but it seems you have done more for me than I could ever imagine..."
+			 Text="Thank you for the opportunity to accompany you on helping other people, it has taught me a lot and I believe I have improved a lot.[NEWLINE]It seems you have done more for me than I could ever imagine..."
 		/>
 		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_NOELLE_REASON_ANY"
 			 Text=""
@@ -427,7 +456,7 @@
 			 Text="Fischl is the Prinzessin der Verurteilung who arrived here after being exiled from the otherworld, &quot;Immernachtreich&quot;. She &quot;observes and weaves the threads of fate&quot; together with her talking night raven familiar, Oz. Owing to reasons she cannot and Oz will not explain, Fischl now serves the Adventurers' Guild as an investigator."
 		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_DETAILED_BODY"
-			 Text=""
+			 Text="{LOC_LOADING_INFO_LEADER_GENSHIN_FISCHL}"
 		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_1"
 			 Text="As an investigator for the Adventurers' Guild, the single biggest advantage Fischl has over her peers is Oz. &quot;Milady, please stop sending me out to spy on Stormterror. That chap could eat me for breakfast! Well, I'm so puny I probably wouldn't even get caught between his teeth, but... Anyway, I don't want to die!&quot; &quot;Hmph! You are supposed to be my familiar. Not everyone gets to be the Prinzessin der Verurteilung's familiar, do you understand? Consider it your honor to dedicate your life to serving me!&quot; Fischl is able to see through Oz's eyes. Whenever she wants to, she possesses Oz and looks down upon the earth from the sky. Whether she wants to inspect the flora on the Stormbearer Mountains or observe a disturbance in Wolvendom, through Oz she can see anything and everything. Thanks largely to her unique ability — and, to a lesser extent, to her own effort and peculiar personality — Fischl quickly went from the rookie investigator of the Adventurers' Guild to a respected rising star of the organization. She's certainly done well for herself. She only landed the coveted position of Investigator at age fourteen in the first place because her parents managed to persuade the guild master. Then again, would they really have had to do much persuading? If she's the Prinzessin der Verurteilung... one can only assume that would make them the Kaiser und Kaiserin der Verurteilung."
@@ -449,7 +478,7 @@
 			 Text="Barbara is the Deaconess of the Church of Favonius, as well as the shining idol of Mondstadt. &quot;The sight of Barbara makes all my problems disappear&quot;. This is quite a common saying among the citizens of Mondstadt. In fact, Barbara can do much more than just put people in a better mood: Her healing powers extend to flesh wounds and other physical ailments. Barbara is known to have access to miraculous healing powers through her Hydro Vision. However, Barbara herself knows that hard work is the most miraculous magic of all."
 		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_DETAILED_BODY"
-			 Text=""
+			 Text="{LOC_LOADING_INFO_LEADER_GENSHIN_BARBARA}"
 		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_1"
 			 Text="Every citizen of Mondstadt adores Barbara. However, this has not always been the case. At first, Barbara's songs sounded strange to the citizens of Mondstadt, and many struggled to see the appeal. This was because for the longest time, the folk songs of bards were the only popular songs known in Mondstadt. Fortunately, Mondstadt stayed true to its reputation as the City of Freedom, and the people ultimately embraced the new while continuing to cherish the old. People accepted Barbara's songs, and over time her positive energy rubbed off on them. Soon, they could be heard humming her tunes all around Mondstadt. &quot;Albert, would you stop please! You're completely out of tune!&quot;"
@@ -471,7 +500,7 @@
 			 Text="Noelle has much greater dreams and ambitions than other maids in the Knights of Favonius. Like anyone else in this city protected by the Knights of Favonius, she too dreams of donning the honored armor. Even if her skills are not enough to pass the rigorous selection trials, she still wishes to observe and learn from them every chance she gets. Aside from her training, she enjoys her current life, helping everyone in need. &quot;You can leave absolutely anything to me!&quot; That's her signature line. If there's anything that you need, Noelle is glad to be of aid."
 		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_DETAILED_BODY"
-			 Text=""
+			 Text="{LOC_LOADING_INFO_LEADER_GENSHIN_NOELLE}"
 		/>
 		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_1"
 			 Text="Noelle is &quot;the maid of all maids&quot; to many. Such people also tend to say this of her: &quot;She's everywhere.&quot; For example, there was a child who once tried to get a plate during a banquet, but found that there was no way to open the cabinet without all the plates falling out... &quot;Noelle!!!!!!&quot; All the child needed to do was scream, and Noelle appeared. She put the cabinet down on its back, took a plate out, and handed it to the child, reminding him not to have cold drinks immediately after having barbecue. Then she righted the cabinet, cleaned up other plates, and then put them back in order. Noelle's ability to be everywhere all at once is something miraculous to many. However, the job of a maid is no myth or legend. Noelle only does her job to the letter. &quot;No more, no less. As it should be, not as it should not be.&quot; Noelle doesn't think herself special, only that she thinks too much at times."

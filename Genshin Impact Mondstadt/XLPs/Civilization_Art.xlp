@@ -281,6 +281,22 @@
 			<m_EntryID text="PORTRAIT_BACKGROUND_GENSHIN_MONDSTADT"/>
 			<m_ObjectName text="PORTRAIT_BACKGROUND_GENSHIN_MONDSTADT"/>
 		</Element>
+		<Element>
+			<m_EntryID text="MOMENT_ADVENTURERS_GUILD"/>
+			<m_ObjectName text="MOMENT_ADVENTURERS_GUILD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOMENT_FAVONIUS_HEADQUARTER"/>
+			<m_ObjectName text="MOMENT_FAVONIUS_HEADQUARTER"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOMENT_OUTRIDER"/>
+			<m_ObjectName text="MOMENT_OUTRIDER"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOMENT_STATUE_OF_THE_SEVEN"/>
+			<m_ObjectName text="MOMENT_STATUE_OF_THE_SEVEN"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

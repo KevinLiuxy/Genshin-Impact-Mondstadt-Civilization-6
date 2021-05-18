@@ -86,7 +86,9 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_MONDSTADT_3" Text="寒天之钉"/>
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="神像的恩泽"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_COMBAT_PREVIEW_FISCHL_DARK_AGE_COMBAT_BONUS" Text="菲谢尔处于黑暗时代 +5 [ICON_Strength] 战斗力"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_COMBAT_PREVIEW_FISCHL_DARK_AGE_COMBAT_BONUS" Text="菲谢尔处于黑暗时代 +3 [ICON_Strength] 战斗力"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_OUTRIDER_NAME" Text="风之翼"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_OUTRIDER_DESCRIPTION" Text="风之翼：从丘陵开始回合 +1 [ICON_Movement] 移动力"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_FISCHL"
 			 Text="幽夜净土的主人菲谢尔，您是至高无上的断罪皇女。总会有人质疑您的身份，而您会用昭告命运的圣裁之雷审判他们的僭越。为应受罪罚之徒断罪，为命运青睐之人祝圣，以无尽的幽夜净土收容世间一切不被容赦的梦想。高傲地面对这个虚假的世界，贯彻你心中的真实吧！"/>
@@ -95,6 +97,33 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_NOELLE"
 			 Text="和普通的骑士相比，诺艾尔心中有着更远大的梦想。您信奉着坚定的努力与自由的奉献，在任何时候都会出现在最需要你帮助的人身边。披上那副象征荣耀的甲胄吧，用绝对的实力，无处不在地庇护身处困境的每一个人，的成为大家最信赖而可靠的盟友。"/>
 
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_LEADER_GENSHIN_FISCHL_NAME"
+			 Text="幽夜净土的女王"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_LEADER_GENSHIN_FISCHL_DESCRIPTION"
+			 Text="喜欢处于黑暗时代的文明，讨厌进入黄金时代的文明。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_FISCHL_HAPPY"
+			 Text="菲谢尔很高兴看到你进入黑暗时代"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_FISCHL_UNHAPPY"
+			 Text="菲谢尔不喜欢你进入黄金时代"/>
+		
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_LEADER_GENSHIN_BARBARA_NAME"
+			 Text="芭芭拉冲呀"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_LEADER_GENSHIN_BARBARA_DESCRIPTION"
+			 Text="喜欢比自己更努力，科技文化更领先的文明；讨厌科技文化落后于自己的文明。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_BARBARA_HAPPY"
+			 Text="芭芭拉喜欢科技文化领先的文明"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_BARBARA_UNHAPPY"
+			 Text="芭芭拉讨厌科技文化落后的文明"/>
+		
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_LEADER_GENSHIN_NOELLE_NAME"
+			 Text="骑士的风度"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_LEADER_GENSHIN_NOELLE_DESCRIPTION"
+			 Text="想要帮助更多的人，喜欢盟友众多的文明；讨厌不与他人结盟的文明。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_NOELLE_HAPPY"
+			 Text="诺艾尔很高兴看到你有很多盟友"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_NOELLE_UNHAPPY"
+			 Text="诺艾尔讨厌你不与他人结盟"/>
+		
 		<!--Diplomatic: Fischl-->
 		<!--first meet-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENSHIN_FISCHL_ANY"
@@ -147,7 +176,7 @@
 			 Text="至夜的魔箭…它在高声呼唤着我的祝圣之名，祈求着罪罚的苍紫雷光，射落吾等命运之敌！"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
-			 Text="吾之宿敌哟——千年的争斗，就在今天画上休止符吧！吾之封印，解放——[NEWLINE]大幻梦森罗万象狂气断罪眼！让这黑暗的圣洁火焰，将汝化为灰烬！"
+			 Text="千年的争斗，就在今天画上休止符吧！吾之封印，解放——[NEWLINE]大幻梦森罗万象狂气断罪眼！让这黑暗的圣洁火焰，将汝化为灰烬！"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
 			 Text="这个世界，也容不得本皇女吗……"
@@ -160,13 +189,13 @@
 			 Text="以皇女之名，以你的助胜之翼，遮蔽日月星空，带来永恒的幽夜吧！"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_FISCHL_REASON_ANY"
-			 Text="（您的文明处于黑暗时代）"
+			 Text=""
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_FISCHL_ANY"
 			 Text="能配得上断罪皇女的，那莫过于罪人之泪与谎言之舌……"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_FISCHL_REASON_ANY"
-			 Text="（您的文明处于黄金时代）"
+			 Text=""
 		/>
 		<!--make deals-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
@@ -183,10 +212,10 @@
 		   Text="哼，真是无端的担忧。上一个妄图窥探本皇女命运的人，结果最后却惊得浑身颤抖呢。"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_FISCHL_ANY"
-		   Text="狂喜吧！战栗吧！要问为何的话，须知幽夜净土的断罪皇女，已用这只左眼，看透了编织宇宙的命运之丝！[NEWLINE]吾之封印，解放——让这黑暗的圣洁火焰，将汝化为灰烬！"
+		   Text="狂喜吧！战栗吧！幽夜净土的断罪皇女，已用这只左眼，看透了编织宇宙的命运之丝！[NEWLINE]吾之封印，解放——让这黑暗的圣洁火焰，将汝化为灰烬！"
 		/>
 		<!--spying-->
-		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_LEADER_GENSHIN_FISCHL_ANY"
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_GENSHIN_FISCHL_ANY"
 		   Text="我那断罪之眼已经看穿了你那在暗中的觊觎。本皇女命令你立刻停止那无礼的僭越！"
 		/>
 
@@ -281,11 +310,11 @@
 		   Text="指引我前进的风啊。在我困顿时给我继续前行的力量，在我迷惑时给我辨明善恶的智慧，在我遭受不义时给我抗争的勇气！"
 		/>
 		<!--spying-->
-		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_LEADER_GENSHIN_BARBARA_ANY"
-		   Text="之前就听说有鬼鬼祟祟的人在监视我了，没想这么会是你……这种事情不可以再干了哦，即使是偶像也是会生气的。"
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="之前就听说有鬼鬼祟祟的人在监视我了，没想怎么会是你……这种事情不可以再干了哦，即使是偶像也是会生气的。"
 		/>
 		<!--conversion-->
-		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_LEADER_GENSHIN_BARBARA_ANY"
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_GENSHIN_BARBARA_ANY"
 		   Text="蒙德是风神守护的城邦，我和大家都虔诚的聆听着巴巴托斯大人的教诲，请你尊重我们的信仰。"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_BARBARA_ANY"
@@ -324,13 +353,13 @@
 		/>
 		<!--friendship-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
-			 Text="我每天做的都是一些琐碎的小事，但只要这些小事能帮到你的冒险、你的生活，我就会很开心。因为你的道谢，会让我觉得这些小事…也都有小小的意义。"
+			 Text="只要我每天做的这些小事能帮到你的冒险、你的生活，我就会很开心。因为你的道谢，会让我觉得这些小事…也都有小小的意义。"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
 			 Text="真抱歉，我是为骑士团服务的女仆，不能在你身上花太多时间，还有别人也需要我的帮忙。"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
-			 Text="我是为骑士团服务的女仆，也一直想要帮到更多人的忙。但不知不觉，用在你身上的时间已经变得越来越多了…唉，像我这样自私的做法，是不是…不太好？"
+			 Text="不知不觉，用在你身上的时间已经变得越来越多了…唉，像我这样自私的做法，是不是…不太好？"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
 			 Text="呃…谢谢你能这么说，这是对我最好的夸奖！"
@@ -396,14 +425,14 @@
 		   Text="嗯，非常感谢。"
 		/>
 		<!--spying-->
-		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_LEADER_GENSHIN_NOELLE_ANY"
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_GENSHIN_NOELLE_ANY"
 		   Text="女仆要严守秘密，所以我很喜欢玫瑰，玫瑰在蒙德就代表「守口如瓶」；而你却对蒙德暗中窥探。我不会容许这种行为的发生！"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
 		   Text="嗯，谢谢你。"
 		/>
 		<!--conversion-->
-		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_LEADER_GENSHIN_NOELLE_ANY"
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_GENSHIN_NOELLE_ANY"
 		   Text="蒙德不欢迎你的传教士，请你让他们离开。"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
@@ -426,6 +455,9 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_CAPSULE_BODY"
 			 Text="菲谢尔是由异世界的「幽夜净土」流落至此的「断罪之皇女」。她与会说话的夜鸦眷属「奥兹」一同，「观测编织命运的因果之丝」。出于某些她说不清，而奥兹又不愿明说的原因…菲谢尔目前正以调查员身份供职于冒险家协会。"
 		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_DETAILED_BODY"
+			 Text="{LOC_LOADING_INFO_LEADER_GENSHIN_FISCHL}"
+		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_1"
 			 Text="身为冒险家协会的调查员，菲谢尔拥有奥兹这一得天独厚的优势。「小姐，请不要再派我去窥探风魔龙的动向了，以我这幅身板，恐怕连给那家伙塞牙缝都不够啊。」「哼哼。能有幸成为断罪之皇女眷属的你，为我献出包括视力与生命在内的一切，也是自然的吧？」能看见奥兹所见一切的她，只要愿意，就能寄宿在夜鸦之中，振翅高飞，俯瞰大地。无论是望风山地的生态，还是奔狼领的骚动，都能透过奥兹的鸦眼，看得清清楚楚。这样的特殊能力，加上一点点努力和奇妙的个性，让她成为了冒险家协会调查员中的新星，赢得了大家的认可。菲谢尔十四岁时作为调查员加入冒险家协会一事，据说是由她父母介绍的。不过，既然菲谢尔是断罪之皇女，那她的父母难不成是断罪之皇帝与断罪之皇后陛下吗…"
 		/>
@@ -445,6 +477,9 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_CAPSULE_BODY"
 			 Text="芭芭拉是西风教会的祈礼牧师，同时也是蒙德城的闪耀偶像。只要看到芭芭拉，心情就能变好——蒙德城里流传着这样的说法。实际上，不只是心情，伤口或身体不适也能一起治愈。人们知道，芭芭拉可以用水元素的神之眼释放其妙的魔法。但在芭芭拉心中，最神奇的魔法只有切实的努力而已。"
 		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_DETAILED_BODY"
+			 Text="{LOC_LOADING_INFO_LEADER_GENSHIN_BARBARA}"
+		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_1"
 			 Text="蒙德城里，人人都喜欢芭芭拉。其实在最开始，芭芭拉的歌声对于蒙德居民来说十分陌生，甚至让人有些不习惯。因为蒙德一直以来流传的歌，大部分都是吟游诗人弹唱的民谣。好在蒙德有着「自由」的精神，令人愉快的新事物，可以和喜闻乐见的「传统」一起繁荣。人们接受了她的歌声，逐渐被她的活力感染，甚至也开始学着哼唱。「艾伯特先生，不要再唱啦！你唱的真的没调子！」"
 		/>
@@ -463,6 +498,9 @@
 
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_CAPSULE_BODY"
 			 Text="和普通的骑士团女仆相比，诺艾尔心中有着更加远大的梦想。在这被西风骑士团庇护了千年的城邦里，她与万千普通少男少女一样，都憧憬着有朝一日能穿上那副象征荣耀的甲胄。就算自身能力还不足以通过严苛的骑士选拔，至少也要在更近的地方学习骑士言行。训练学习之余，她很享受现在的生活——在蒙德城忙里忙外，出现在每一个需要帮助的人身边。「交给我吧！什么都可以交给我！」这是她的口头禅，所以有需要的话，就呼唤她的名字吧，她会很开心的。"
+		/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_DETAILED_BODY"
+			 Text="{LOC_LOADING_INFO_LEADER_GENSHIN_NOELLE}"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_1"
 			 Text="诺艾尔是许多人眼中的万能女仆。这些人对诺艾尔都有相似的评价：「无处不在」比如在宴会上，某个孩子想要一只碟子，却发现碟子全堆在柜子门前，处于只要打开门一定会全部掉出来摔碎的危险状态…「诺——艾——尔——！」孩子只需放声大喊，无处不在的诺艾尔便会立刻到达，将整个柜子放倒，取出一只盘子递给他，叮嘱他吃完烤肉后不要马上喝冰饮料。随后，再把柜子摆回原位，把其他盘子清洗干净摆放整齐。如此无处不在的诺艾尔，在人们看来极为神奇，但女仆的工作既不是神话也不是传说，诺艾尔仅仅是将一条准则贯彻到底：「一个不多，一个不少，该有的全都有，不该有的不能有。」诺艾尔觉得，自己并没什么特别之处，只是稍微多想了一点而已。"
