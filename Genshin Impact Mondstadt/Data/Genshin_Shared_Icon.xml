@@ -12,10 +12,42 @@
 		<Row Name="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" IconSize="80" IconsPerRow="4"  IconsPerColumn="1" Filename="Portugal_UnitActions80.dds"/>
 		<Row Name="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" IconSize="50" IconsPerRow="4"  IconsPerColumn="1" Filename="Portugal_UnitActions50.dds"/>
 		<Row Name="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" IconSize="38" IconsPerRow="4"  IconsPerColumn="1" Filename="Portugal_UnitActions38.dds"/>
+
+		<Row Name="ATLAS_UNIT_HILICHURL_FIGHTER" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_FIGHTER_256.dds"/>
+		<Row Name="ATLAS_UNIT_HILICHURL_FIGHTER" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_FIGHTER_80.dds"/>
+		<Row Name="ATLAS_UNIT_HILICHURL_FIGHTER" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_FIGHTER_50.dds"/>
+		<Row Name="ATLAS_UNIT_HILICHURL_FIGHTER" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_FIGHTER_38.dds"/>
+		<Row Name="ATLAS_UNIT_HILICHURL_FIGHTER" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_FIGHTER_32.dds"/>
+		<Row Name="ATLAS_UNIT_HILICHURL_FIGHTER" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_FIGHTER_22.dds"/>
+
+		<Row Name="ATLAS_UNIT_HILICHURL_GUARD" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_GUARD_256.dds"/>
+		<Row Name="ATLAS_UNIT_HILICHURL_GUARD" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_GUARD_80.dds"/>
+		<Row Name="ATLAS_UNIT_HILICHURL_GUARD" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_GUARD_50.dds"/>
+		<Row Name="ATLAS_UNIT_HILICHURL_GUARD" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_GUARD_38.dds"/>
+		<Row Name="ATLAS_UNIT_HILICHURL_GUARD" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_GUARD_32.dds"/>
+		<Row Name="ATLAS_UNIT_HILICHURL_GUARD" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_HILICHURL_GUARD_22.dds"/>
+
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_FIGHTER_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_256.dds"/>
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_FIGHTER_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_200.dds"/>
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_FIGHTER_PORTRAIT" IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_95.dds"/>
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_FIGHTER_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_70.dds"/>
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_FIGHTER_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_50.dds"/>
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_FIGHTER_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_38.dds"/>
+
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_GUARD_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_256.dds"/>
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_GUARD_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_200.dds"/>
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_GUARD_PORTRAIT" IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_95.dds"/>
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_GUARD_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_70.dds"/>
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_GUARD_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_50.dds"/>
+		<Row Name="ATLAS_UNIT_PORTRAIT_HILICHURL_GUARD_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_38.dds"/>
 	</IconTextureAtlases>
 
 	<IconDefinitions>
 		<Row Name="ICON_BUILDING_STATUE_OF_THE_SEVEN" Atlas="ATLAS_BUILDING_STATUE_OF_THE_SEVEN" index="0"/>
 		<Row Name="ICON_IMPROVEMENT_ADVENTURERS_GUILD" Atlas="ATLAS_IMPROVEMENT_ADVENTURERS_GUILD" Index="0"/>
+		<Row Name="ICON_UNIT_HILICHURL_FIGHTER" Atlas="ATLAS_UNIT_HILICHURL_FIGHTER" index="0"/>
+		<Row Name="ICON_UNIT_HILICHURL_GUARD" Atlas="ATLAS_UNIT_HILICHURL_GUARD" index="0"/>
+		<Row Name="ICON_UNIT_HILICHURL_FIGHTER_PORTRAIT" Atlas="ATLAS_UNIT_PORTRAIT_HILICHURL_FIGHTER_PORTRAIT" index="0"/>
+		<Row Name="ICON_UNIT_HILICHURL_GUARD_PORTRAIT" Atlas="ATLAS_UNIT_PORTRAIT_HILICHURL_GUARD_PORTRAIT" index="0"/>
 	</IconDefinitions>
 </GameData>

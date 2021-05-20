@@ -1,0 +1,44 @@
+这个Mod中包含了新文明蒙德，以及它的三个领袖：菲谢尔、芭芭拉、诺艾尔。
+
+特色区域：西风骑士团总部，替代市政广场并拥有外部防御。在和平时期为城市提供额外宜居度。
+特色单位：侦察骑士，替代散兵（迭起兴衰下替代侦察兵）。风之翼让他们在丘陵上开始回合时 +1 移动力。
+原神特色建筑：七天神像，替代纪念碑。提供额外的信仰，并能治疗靠近它的单位。
+原神改良设施：冒险家协会，可以为所在和相邻的单元格提供额外产出。
+
+这个Mod还包含了40+分钟的原神蒙德地区背景音乐，4个时代一共29首歌，它们能与其它文明的BGM一起播放。
+
+[h1]游戏特色[/h1][list]
+[*][b]独特的地理名称[/b]
+在文明中探索与命名广大的提瓦特大陆吧。将蒙德的地名刻在新发现的世界版图之上。
+
+[*][b]丘丘人彩蛋[/b]
+蛮族营地里出现了大量的丘丘人，保护蒙德城市免于丘丘人袭击的重任落在您的手上！（仅视觉特效，不改变游戏机制）
+
+[*][b]七天神像治愈单位[/b]
+七天神像能为靠近的单位回复生命值，就像原神里一样（还有声音特效）。神像的恩泽每回合有25点回复上限。
+
+[*][b]所有组件都有模型[/b]
+包括七天神像在内的所有Mod内容都有游戏中的模型。[/list]
+
+[h1]建议与Bug反馈[/h1]
+欢迎在评论区留下您的建议和问题反馈。如果您有好的想法、或发现了Bug请在讨论下留言。
+我会第一时间修理Bug。此外，本Mod还会在不影响存档的情况下不定期更新。
+
+[h1]特别鸣谢[/h1]
+1. 感谢 [url=https://space.bilibili.com/28399130]Hemmelfort[/url] 提供的Mod制作教程和工具。
+2. 感谢我的朋友 [url=https://steamcommunity.com/profiles/76561198070922814]Pokeman[/url] 和 [url=https://steamcommunity.com/profiles/76561198402598762]岛村卯月[/url] 提供的翻译和技术支持。
+3. 最后感谢体验这个Mod的你。是大家一直以来的支持让像这样的作品得以延续。喜欢的话就点个赞吧 ☆
+
+[h1]引用出处[/h1]
+[url=https://genshin.mihoyo.com]Genshin Impact[/url] by miHoYo
+图标和插画：
+绘师 [url=https://www.pixiv.net/en/users/6657532]QuAn_[/url] [url=https://www.pixiv.net/en/artworks/85633671]《原神头像》[/url][url=https://www.pixiv.net/en/artworks/88316563]《诺艾尔》[/url]
+绘师 [url=https://www.pixiv.net/en/users/24036634]アナ[/url] [url=https://www.pixiv.net/en/artworks/84976526]《アンバー》[/url]
+绘师 [url=https://www.deviantart.com/bangboodoragon]BangBooDoragon[/url] [url=https://www.deviantart.com/bangboodoragon/art/Hilichurls-864904913]《Hilichurls》[/url][url=https://www.deviantart.com/bangboodoragon/art/Mitachurl-865097940]《Mitachurl》[/url]
+文本和翻译：
+[url=https://genshin.honeyhunterworld.com/db/char]Honey Impact - Genshin Impact DB and Tools[/url]
+[url=https://bbs.mihoyo.com/ys/strategy]旅行者创作平台-观测枢-原神wiki[/url]
+音乐专辑：
+1. Genshin Impact - City of Winds and Idylls (Original Game Soundtrack)
+2. 原神-风与异乡人 Le Vent et les Enfants des étoiles
+源代码：https://github.com/KevinLiuxy/Genshin-Impact-Mondstadt-Civilization-6

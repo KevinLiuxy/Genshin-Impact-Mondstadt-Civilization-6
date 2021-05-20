@@ -1,0 +1,14 @@
+  <LocalizedText>
+    <Text id="MOD_GENSHIN_IMPACT_MONDSTADT">
+      <en_US>Genshin Impact · Mondstadt Civilization Pack</en_US>
+      <zh_Hans_CN>原神·蒙德文明包</zh_Hans_CN>
+    </Text>
+    <Text id="LOC_MOD_GENSHIN_IMPACT_MONDSTADT_TEASER">
+      <en_US>Mondstadt civilization and leaders Fischl, Barbara, and Noelle.</en_US>
+      <zh_Hans_CN>蒙德文明和领袖：菲谢尔，芭芭拉，诺艾尔</zh_Hans_CN>
+    </Text>
+    <Text id="LOC_MOD_GENSHIN_IMPACT_MONDSTADT_DESCRIPTION">
+      <en_US>--- Genshin Impact Mondstadt ---[NEWLINE]New Leader: Fischl[NEWLINE]New Leader: Barbara[NEWLINE]New Leader: Noelle[NEWLINE][NEWLINE]Supported Languages:[NEWLINE]en_US, zh_Hans_CN[NEWLINE][NEWLINE]Enjoy!</en_US>
+      <zh_Hans_CN>--- “原神·蒙德”文明 ---[NEWLINE]领袖：菲谢尔[NEWLINE]领袖：芭芭拉[NEWLINE]领袖：诺艾尔[NEWLINE][NEWLINE]支持的语言：[NEWLINE]en_US, zh_Hans_CN[NEWLINE][NEWLINE]玩得开心！</zh_Hans_CN>
+    </Text>
+  </LocalizedText>

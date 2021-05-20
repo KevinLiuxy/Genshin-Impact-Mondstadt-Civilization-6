@@ -297,6 +297,102 @@
 			<m_EntryID text="MOMENT_STATUE_OF_THE_SEVEN"/>
 			<m_ObjectName text="MOMENT_STATUE_OF_THE_SEVEN"/>
 		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_200"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_256"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_38"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_50"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_70"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_95"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_FIGHTER_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_200"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_256"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_38"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_50"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_70"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_95"/>
+			<m_ObjectName text="ICON_UNIT_PORTRAIT_HILICHURL_GUARD_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_FIGHTER_22"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_FIGHTER_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_FIGHTER_256"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_FIGHTER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_FIGHTER_32"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_FIGHTER_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_FIGHTER_38"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_FIGHTER_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_FIGHTER_50"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_FIGHTER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_FIGHTER_80"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_FIGHTER_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_GUARD_22"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_GUARD_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_GUARD_256"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_GUARD_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_GUARD_32"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_GUARD_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_GUARD_38"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_GUARD_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_GUARD_50"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_GUARD_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_HILICHURL_GUARD_80"/>
+			<m_ObjectName text="ICON_UNIT_HILICHURL_GUARD_80"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

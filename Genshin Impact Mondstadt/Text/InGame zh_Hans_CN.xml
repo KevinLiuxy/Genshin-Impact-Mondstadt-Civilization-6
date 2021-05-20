@@ -84,7 +84,12 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_MONDSTADT_1" Text="深境螺旋"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_MONDSTADT_2" Text="芬德尼尔之顶"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_MONDSTADT_3" Text="寒天之钉"/>
-		
+
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_HILICHURL_FIGHTER_NAME" Text="丘丘人"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_HILICHURL_FIGHTER_DESCRIPTION" Text="{LOC_UNIT_WARRIOR_DESCRIPTION}"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_HILICHURL_GUARD_NAME" Text="丘丘人首领"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_HILICHURL_GUARD_DESCRIPTION" Text="{LOC_UNIT_SPEARMAN_DESCRIPTION}"/>
+
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="神像的恩泽"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_COMBAT_PREVIEW_FISCHL_DARK_AGE_COMBAT_BONUS" Text="菲谢尔处于黑暗时代 +3 [ICON_Strength] 战斗力"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_OUTRIDER_NAME" Text="风之翼"/>

@@ -30,7 +30,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
 			Text="冒险家协会"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_DESCRIPTION"
-			Text="解锁建造冒险家协会（原神特色改良设施）的能力。[NEWLINE][NEWLINE]+1 [ICON_Culture] 文化值 +1 [ICON_Production] 生产力，为相邻单元格 +1 [ICON_Gold] 金币 +1 魅力。每个城市仅限建造一座。冒险家协会所在的单元格无法被替换更改。"/>
+			Text="解锁建造冒险家协会（原神特色改良设施）的能力。[NEWLINE][NEWLINE]+1 [ICON_Culture] 文化值 +1 [ICON_Production] 生产力，为相邻单元格提供 +1 [ICON_Gold] 金币 +1 魅力。每个城市仅限建造一座。冒险家协会所在的单元格无法被替换更改。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_GENSHIN_FISCHL_NAME"
 			Text="菲谢尔"/>

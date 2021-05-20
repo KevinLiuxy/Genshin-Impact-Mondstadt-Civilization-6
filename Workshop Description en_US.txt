@@ -1,0 +1,47 @@
+This Mod brings you Mondstadt civilization from Genshin Impact and 3 leaders: Fischl, Barbara, and Noelle.
+
+Unique District: Knights of Favonius Headquater, which replaces Government Plaza and has outer defence. It provides you bonus amenities during peacetime.
+
+Unique Unit: Out-rider Knight that replaces Skrimisher (or Scout in RaF). Wind Gliders give them +1 move starting a turn on hills.
+
+Genshin Building: Statue of the Seven, which replaces Monument and provides extra faith. It also heals units instantly upon stepping onto it.
+
+Genshin Improvement: Adventurers' Guild. It provides bonuses to its tile and surrounding tiles.
+
+This Mod also contains 40+ minutes of BGM from the Genshin Impact game. They're divided into 4 eras and will play alongside other civilizations' music.
+
+[h1]Highlights[/h1][list]
+[*][b]Unique Geological Names[/b]
+Enjoy the fun of exploration, and name your newly discovered mountains, rivers, lakes... all in Teyvat's style.
+
+[*][b]Hilichurl Barbarian Skins[/b]
+Continue your daily rival and struggle with Hilichurls, as they now spawn as barbarians everywhere in the wildlands. (visual effects only)
+
+[*][b]Healing from Statue of the Seven[/b]
+Yep, it works just like in Genshin Impact. (with sound effects too!) Step a unit onto it and instantly get healed.
+
+[*][b]All Assets with Proper Model[/b]
+No model art is left behind. All assets are visible and clear in game, including the Statue of the Seven.[/list]
+
+[h1]Suggestions and Bug Reports[/h1]
+Please leave a comment for any ideas & thoughts. I've also opened a discussion thread for bugs and suggestions.
+Any bugs being found will be addressed immediately. This mod will update for rolling out new features under the condition of not corrupting saved files.
+
+[h1]Special Thanks[/h1]
+1. Big thanks to [url=https://space.bilibili.com/28399130]Hemmelfort[/url] for modding tutorials and tools.
+2. Thanks to my friends including [url=https://steamcommunity.com/profiles/76561198070922814]Pokeman[/url] and [url=https://steamcommunity.com/profiles/76561198402598762]Dwughjsd[/url] for translation and technical consultant.
+3. Thank you for downloading and experiencing my Mod. Your support and encouragement are what make projects like this possible. Please leave a like if you found it enjoyable, or let ne know in the discussion what I can do better next time ☆
+
+[h1]Credits & References[/h1]
+[url=https://genshin.mihoyo.com]Genshin Impact[/url] by miHoYo
+Icons and Illustrations:
+Artist [url=https://www.pixiv.net/en/users/6657532]QuAn_[/url] [url=https://www.pixiv.net/en/artworks/85633671]《原神头像》[/url][url=https://www.pixiv.net/en/artworks/88316563]《诺艾尔》[/url]
+Artist [url=https://www.pixiv.net/en/users/24036634]アナ[/url] [url=https://www.pixiv.net/en/artworks/84976526]《アンバー》[/url]
+Artist [url=https://www.deviantart.com/bangboodoragon]BangBooDoragon[/url] [url=https://www.deviantart.com/bangboodoragon/art/Hilichurls-864904913]《Hilichurls》[/url][url=https://www.deviantart.com/bangboodoragon/art/Mitachurl-865097940]《Mitachurl》[/url]
+Text and Translations:
+[url=https://genshin.honeyhunterworld.com/db/char]Honey Impact - Genshin Impact DB and Tools[/url]
+[url=https://bbs.mihoyo.com/ys/strategy]旅行者创作平台-观测枢-原神wiki[/url]
+Music Albums:
+1. Genshin Impact - City of Winds and Idylls (Original Game Soundtrack)
+2. 原神-风与异乡人 Le Vent et les Enfants des étoiles
+Source Code: https://github.com/KevinLiuxy/Genshin-Impact-Mondstadt-Civilization-6
