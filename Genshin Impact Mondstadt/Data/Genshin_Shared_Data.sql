@@ -160,6 +160,10 @@ INSERT INTO Units(
 	'TRAIT_BARBARIAN'
 );
 
+INSERT INTO UnitUpgrades (Unit, UpgradeUnit)
+VALUES	('UNIT_HILICHURL_FIGHTER',	'UNIT_SWORDSMAN'),
+		('UNIT_HILICHURL_GUARD',	'UNIT_PIKEMAN'	);
+
 --------------------------------------------------------------
 INSERT INTO Modifiers (ModifierId, ModifierType, SubjectRequirementSetId)
 VALUES (

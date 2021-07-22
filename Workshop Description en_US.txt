@@ -29,8 +29,8 @@ Any bugs being found will be addressed immediately. This mod will update for rol
 
 [h1]Special Thanks[/h1]
 1. Big thanks to [url=https://space.bilibili.com/28399130]Hemmelfort[/url] for modding tutorials and tools.
-2. Thanks to my friends including [url=https://steamcommunity.com/profiles/76561198070922814]Pokeman[/url] and [url=https://steamcommunity.com/profiles/76561198402598762]Dwughjsd[/url] for translation and technical consultant.
-3. Thank you for downloading and experiencing my Mod. Your support and encouragement are what make projects like this possible. Please leave a like if you found it enjoyable, or let ne know in the discussion what I can do better next time ☆
+2. Thanks to my friends including [url=https://steamcommunity.com/profiles/76561198070922814]Pokeman[/url], [url=steamcommunity.com/profiles/76561198068777223]chjimmy[/url], and [url=https://steamcommunity.com/profiles/76561198402598762]Dwughjsd[/url] for translation and technical consultant.
+3. Thank you for downloading and experiencing my Mod. Your support and encouragement are what make projects like this possible. Please leave a like if you enjoy it ☆
 
 [h1]Credits & References[/h1]
 [url=https://genshin.mihoyo.com]Genshin Impact[/url] by miHoYo

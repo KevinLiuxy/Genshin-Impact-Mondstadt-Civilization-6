@@ -1,0 +1,56 @@
+<GameData>
+	<LocalizedText>
+		<Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
+			Text="原神·蒙德"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
+			Text="蒙德"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_ADJECTIVE"
+			Text="蒙德"/>
+		
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_NAME"
+			Text="風與牧歌之城"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_CITY_OF_WIND_AND_IDYLL_DESCRIPTION"
+			Text="山脈和水域：每種為相鄰驚豔的單元格提供 +1 [ICON_Faith] 信仰；為相鄰魅力為驚豔且未改良的森林額外 +1 [ICON_Faith] 信仰。[NEWLINE]牧場和種植園可觸發文化炸彈，每回合 +1 [ICON_Culture] 文化值。"/>
+		
+		<Row Language="zh_Hant_HK" Tag="LOC_UNIT_OUTRIDER_NAME"
+			Text="偵察騎士"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_UNIT_OUTRIDER_DESCRIPTION"
+			Text="替代散兵的蒙德特色偵察單位，遊戲開始便可解鎖。可攀登懸崖，在丘陵上開啟回合時 +1 [ICON_Movement] 移動力。"/>
+		
+		<Row Language="zh_Hant_HK" Tag="LOC_DISTRICT_FAVONIUS_HEADQUARTER_NAME"
+			Text="西風騎士團總部"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DISTRICT_FAVONIUS_HEADQUARTER_DESCRIPTION"
+			Text="替代政體建築，建造費用更低，並像軍營一樣擁有外部防禦。[NEWLINE]處於和平時期時原始 [ICON_Capital] 首都所在大陸上的所有城市 +1 [ICON_Amenities] 滿意度。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_NAME"
+			Text="七天神像"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_DESCRIPTION"
+			Text="替代紀念碑的原神特色建築。額外提供 +2 [ICON_Faith] 信仰值。[NEWLINE]移動至七天神像的單位立即回復生命值。七天神像每回合的回復上限為25點生命值。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
+			Text="冒險家協會"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_DESCRIPTION"
+			Text="解鎖建造冒險家協會（原神特色改良設施）的能力。[NEWLINE][NEWLINE]+1 [ICON_Culture] 文化值 +1 [ICON_Production] 生產力，為相鄰單元格提供 +1 [ICON_Gold] 金幣 +1 魅力。每個城市僅限建造一座。冒險家協會所在的單元格無法被替換更改。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_LEADER_GENSHIN_FISCHL_NAME"
+			Text="菲謝爾"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_GENSHIN_FISCHL_NAME"
+			Text="幽夜淨土之皇女"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_GENSHIN_FISCHL_DESCRIPTION"
+			Text="處於黑暗時代所有單位 +1 [ICON_Movement] 移動力 、 +3 [ICON_Strength] 戰鬥力；處於黃金時代所有城市 +1 魅力。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_LEADER_GENSHIN_BARBARA_NAME"
+			Text="芭芭拉"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_GENSHIN_BARBARA_NAME"
+			Text="閃耀的偶像"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_GENSHIN_BARBARA_DESCRIPTION"
+			Text="所有城市獲得充足的水資源。每擁有一個神社 [ICON_Faith] 信仰值購買自然學家和搖滾樂隊的花費 -3%（最多-30%）。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_LEADER_GENSHIN_NOELLE_NAME"
+			Text="諾艾爾"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_GENSHIN_NOELLE_NAME"
+			Text="全心全意的女僕"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_GENSHIN_NOELLE_DESCRIPTION"
+			Text="陸地單位防禦時獲得的支援加成翻倍。擁有駐軍的城市 +1 滿意度 、 +10% [ICON_Production] 生產力。"/>
+	</LocalizedText>
+</GameData>

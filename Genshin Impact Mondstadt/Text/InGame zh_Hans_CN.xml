@@ -194,13 +194,13 @@
 			 Text="以皇女之名，以你的助胜之翼，遮蔽日月星空，带来永恒的幽夜吧！"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_FISCHL_REASON_ANY"
-			 Text=""
+			 Text="{LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE}"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_FISCHL_ANY"
 			 Text="能配得上断罪皇女的，那莫过于罪人之泪与谎言之舌……"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_FISCHL_REASON_ANY"
-			 Text=""
+			 Text="{LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_GOLDEN_AGE}"
 		/>
 		<!--make deals-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
@@ -289,13 +289,13 @@
 			 Text="大家应该都在努力着，那我们也不能偷懒，对吧？"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_BARBARA_REASON_ANY"
-			 Text=""
+			 Text="{LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_ANY}"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_BARBARA_ANY"
 			 Text="这样偷懒不要紧吗？美好的未来会悄悄流失的吧？"
 		/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_BARBARA_REASON_ANY"
-			 Text=""
+			 Text="{LOC_DIPLO_WARNING_LEADER_PETER_GREAT_REASON_ANY}"
 		/>
 		<!--make deals-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"

@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_1"  Text="蒙德城"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_2"  Text="清泉鎮"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_3"  Text="風起地"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_4"  Text="千風神殿"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_5"  Text="晨曦酒莊"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_6"  Text="摘星崖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_7"  Text="蒼風高地"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_8"  Text="墜星山谷"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_9"  Text="達達烏帕"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_10" Text="誓言峽"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_11" Text="奔狼領"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_12" Text="風龍神殿"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_13" Text="風嘯山坡"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_14" Text="低語森林"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_15" Text="仲夏庭院"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_16" Text="銘記之谷"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_17" Text="忘卻之峽"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_18" Text="望風角"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_19" Text="山脊守望"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_20" Text="雪葬之都"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_21" Text="龍眠谷"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_22" Text="塞西莉亞苗圃"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_23" Text="鷹之門"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_24" Text="天使的饋贈"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_25" Text="貓尾"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text="獵鹿人"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text="西風之鷹"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_28" Text="北風之狼"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_29" Text="南風之獅"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_30" Text="東風之龍"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_1"  Text="蒂瑪烏斯"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_2"  Text="安東尼"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_3"  Text="赫爾曼"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_4"  Text="六指喬瑟"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_5"  Text="亞伯特"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_6"  Text="魯道夫"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_7"  Text="瓦格納"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_8"  Text="提米"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_9"  Text="斯坦利"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_10" Text="霍夫曼"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_11" Text="查理斯"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_12" Text="班尼特"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_13" Text="雷澤"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_14" Text="凱亞"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_15" Text="阿貝多"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_1"  Text="芙朵拉"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_2"  Text="唐娜"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_3"  Text="瑪喬麗"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_4"  Text="瑪格麗特"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_5"  Text="莎拉"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_6"  Text="優律"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_7"  Text="布蘭琪"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_8"  Text="安娜"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_9"  Text="諾瑪"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_10" Text="愛迪斯"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_11" Text="葛瑞絲"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_12" Text="維多利亞"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_13" Text="吉麗安娜"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_14" Text="砂糖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_FEMALE_15" Text="麗莎"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_DESSERT_LIYUE_1" Text="地中之鹽"/>	<!--Liyue-->
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_DESSERT_LIYUE_2" Text="瑤光灘"/>	<!--Liyue-->
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_LAKE_MONDSTADT_1" Text="果酒湖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_LAKE_MONDSTADT_2" Text="星落湖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_LAKE_MONDSTADT_3" Text="晨曦湖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_LAKE_MONDSTADT_4" Text="星熒湖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_1" Text="龍脊雪山"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_2" Text="明冠山地"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_3" Text="望風山地"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_MOUNTAIN_MONDSTADT_4" Text="覆雪之路"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_OCEAN_MONDSTADT_1" Text="馬斯克洋"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_RIVER_MONDSTADT_1" Text="臥龍溪"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_RIVER_MONDSTADT_2" Text="清泉溪"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_RIVER_MONDSTADT_3" Text="千風川"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_RIVER_MONDSTADT_4" Text="星落溪"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_RIVER_LIYUE_1" Text="石門澗"/>		<!--Liyue-->
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_SEA_MONDSTADT_1" Text="翔鷹海"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_SEA_MONDSTADT_2" Text="望風海"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_VOLCANO_MONDSTADT_1" Text="深境螺旋"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_VOLCANO_MONDSTADT_2" Text="芬德尼爾之頂"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_VOLCANO_MONDSTADT_3" Text="寒天之釘"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_UNIT_HILICHURL_FIGHTER_NAME" Text="丘丘人"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_UNIT_HILICHURL_FIGHTER_DESCRIPTION" Text="{LOC_UNIT_WARRIOR_DESCRIPTION}"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_UNIT_HILICHURL_GUARD_NAME" Text="丘丘人首領"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_UNIT_HILICHURL_GUARD_DESCRIPTION" Text="{LOC_UNIT_SPEARMAN_DESCRIPTION}"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="神像的恩澤"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_COMBAT_PREVIEW_FISCHL_DARK_AGE_COMBAT_BONUS" Text="菲謝爾處於黑暗時代 +3 [ICON_Strength] 戰鬥力"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_ABILITY_OUTRIDER_NAME" Text="風之翼"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_ABILITY_OUTRIDER_DESCRIPTION" Text="風之翼：從丘陵開始回合 +1 [ICON_Movement] 移動力"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_FISCHL"
+			 Text="幽夜淨土的主人菲謝爾，您是至高無上的斷罪皇女。總會有人質疑您的身份，而您會用昭告命運的聖裁之雷審判他們的僭越。為應受罪罰之徒斷罪，為命運青睞之人祝聖，以無盡的幽夜淨土收容世間一切不被容赦的夢想。高傲地面對這個虛假的世界，貫徹你心中的真實吧！"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_BARBARA"
+			 Text="用歌聲治癒所有人，是芭芭拉單純而溫柔的夢想。在風的指引下，您關懷著蒙德的每一個人；用神明賜予的恩典，撫慰著傷痛之人的軀體，潤澤著迷途之人的內心。對您來說，切實的努力能夠戰勝一切未知的坎坷。秉承者這份真摯的信念，成為全提瓦特最閃耀的新星吧！"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_LOADING_INFO_LEADER_GENSHIN_NOELLE"
+			 Text="和普通的騎士相比，諾艾爾心中有著更遠大的夢想。您信奉著堅定的努力與自由的奉獻，在任何時候都會出現在最需要你説明的人身邊。披上那副象徵榮耀的甲胄吧，用絕對的實力，無處不在地庇護身處困境的每一個人，成為大家最信賴而可靠的盟友。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_LEADER_GENSHIN_FISCHL_NAME"
+			 Text="幽夜淨土的女王"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_LEADER_GENSHIN_FISCHL_DESCRIPTION"
+			 Text="喜歡處於黑暗時代的文明，討厭進入黃金時代的文明。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_FISCHL_HAPPY"
+			 Text="菲謝爾很高興看到你進入黑暗時代"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_FISCHL_UNHAPPY"
+			 Text="菲謝爾不喜歡你進入黃金時代"/>
+		
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_LEADER_GENSHIN_BARBARA_NAME"
+			 Text="芭芭拉衝呀"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_LEADER_GENSHIN_BARBARA_DESCRIPTION"
+			 Text="喜歡比自己更努力，科技文化更領先的文明；討厭科技文化落後於自己的文明。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_BARBARA_HAPPY"
+			 Text="芭芭拉喜歡科技文化領先的文明"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_BARBARA_UNHAPPY"
+			 Text="芭芭拉討厭科技文化落後的文明"/>
+		
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_LEADER_GENSHIN_NOELLE_NAME"
+			 Text="騎士的風度"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_LEADER_GENSHIN_NOELLE_DESCRIPTION"
+			 Text="想要幫助更多的人，喜歡盟友眾多的文明；討厭不與他人結盟的文明。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_NOELLE_HAPPY"
+			 Text="諾艾爾很高興看到你有很多盟友"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_LEADER_GENSHIN_NOELLE_UNHAPPY"
+			 Text="諾艾爾討厭你不與他人結盟"/>
+		
+		<!--Diplomatic: Fischl-->
+		<!--first meet-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="我，即斷罪之皇女，真名為菲謝爾。因命運的召喚降臨在此間——[NEWLINE]欸？你也是，異世界的旅人嗎？"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="遙望蒙德，吾之領地中的小小花園，真是令人愉悅——你也要來一睹它的榮光嗎？"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="本皇女馳騁星間，行遍諸多世界。我將領略一萬種宇宙的命運，通讀一切靈魂的默示錄。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="我嗎？哼哼，記好了，我乃幽夜淨土的主人，漆黑燼滅的統禦者——[NEWLINE]告訴我汝的領土，或許，我也會帶你參觀吾之領地中的小小花園。"
+		/>
+		<!--deligation-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="…那麼，窺見此間與彼方一切真實的負擔與痛，你願意承受嗎？ 通曉此世與常世一切妄念與謊言，將會是何等無趣的事啊。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="荒唐。想要覬覦本皇女的夜巡凶獸，我會以斷罪的聖裁魔矢將其射落。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="幽夜的使者為你獻上了我族的王器——淵色的幽邃秘珠。它會給你我之間，帶來那無法斬斷的因果。"
+		/>
+		<!--friendship-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="為我，為幽夜淨土的主宰，斷罪的皇女，做好獻出生命的覺悟，守望她註定多舛的命運吧。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="日月流轉的虛像，對看破宇宙三千因果的我而言沒有意義。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="是命運，令你我降臨此世，將因果交織相連。我會守護你，因為這是命運默示錄中昭告之事。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="晝夜時空皆為虛像，命運的紐帶卻再次將你帶到了我的永恆長夜中。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="無妨，畢竟高貴者註定孤獨——只要我不失去這顆崇高之心。"
+		/>
+		<!--denounce-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="無法看透的真實，無法斷明的因果，真是虛實交織的狂言！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="錯不了的，我這只斷罪之眼見證過，你那被世界唾棄的悲哀——[NEWLINE]（譴責你）"
+		/>
+		<!--warfare-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="至夜的魔箭…它在高聲呼喚著我的祝聖之名，祈求著罪罰的蒼紫雷光，射落吾等命運之敵！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="千年的爭鬥，就在今天畫上休止符吧！吾之封印，解放——[NEWLINE]大幻夢森羅萬象狂氣斷罪眼！讓這黑暗的聖潔火焰，將汝化為灰燼！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="這個世界，也容不得本皇女嗎……"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="這個世界，也容不得本皇女嗎……"
+		/>
+		<!--agenda-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="以皇女之名，以你的助勝之翼，遮蔽日月星空，帶來永恆的幽夜吧！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_FISCHL_REASON_ANY"
+			 Text="{LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE}"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="能配得上斷罪皇女的，那莫過於罪人之淚與謊言之舌……"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_FISCHL_REASON_ANY"
+			 Text="{LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_GOLDEN_AGE}"
+		/>
+		<!--make deals-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="哼哼，就讓皇女的光彩榮耀此間天地吧。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_FISCHL_ANY"
+			 Text="不敬之徒！"
+		/>
+		<!--troops-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GENSHIN_FISCHL_ANY"
+		   Text="身為皇女，有守護塵世眾生一切靈魂的崇高職責。說明你的來意，亦或是接受那昭告命運聖裁之雷的審判！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text="哼，真是無端的擔憂。上一個妄圖窺探本皇女命運的人，結果最後卻驚得渾身顫抖呢。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_FISCHL_ANY"
+		   Text="狂喜吧！戰慄吧！幽夜淨土的斷罪皇女，已用這只左眼，看透了編織宇宙的命運之絲！[NEWLINE]吾之封印，解放——讓這黑暗的聖潔火焰，將汝化為灰燼！"
+		/>
+		<!--spying-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_GENSHIN_FISCHL_ANY"
+		   Text="我那斷罪之眼已經看穿了你那在暗中的覬覦。本皇女命令你立刻停止那無禮的僭越！"
+		/>
+
+		<!--Diplomatic: Barbara-->
+		<!--first meet-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="芭芭拉，閃耀登場~ 治療就交給我吧，不會讓你失望的！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="蒙德城外青青的原野，真的百看不厭。你要來參觀一下我們那美麗的風景嗎？"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="太好了，真想嘗嘗你們國度的美食。有沒有什麼能比得上獵鹿人餐館的香辣鱸魚？"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="蒙德城外青青的原野，真的百看不厭。我聽說，世界上還有藍色的樹林呢，就在海對岸的稻妻城那邊。你們故鄉的風景又是什麼樣子的呢？"
+		/>
+		<!--deligation-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="辛苦了！請好好休息吧。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="對不起，我不能接受你的好意。我不太喜歡苦的東西，特別是…你送的苦瓜。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="欸，是沒精神了嗎？我的使者們為你帶去了我的最愛哦～[NEWLINE]嘗一嘗我做的辣味飲料吧，很提神的喲！"
+		/>
+		<!--friendship-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="謝謝你陪我走到現在，離我的夢想已經越來越近了呢。未來的日子，也請多多關照啦～！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="欸？想聽我唱歌…？對不起，還…還沒有到演出時間呢。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="我的願望，是給身邊的人帶來笑容。只要能幫上你的忙，我就很開心了。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="謝謝你的支持～啊，不好，好像有點太激動了…心臟砰砰跳個不停。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="我每天都在努力，這份努力……如果能配得上你的信任就好了…"
+		/>
+		<!--denounce-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="你一直皺著眉頭……是不是，我唱的歌你不喜歡呢？"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="無論是我的魔法還是歌聲，都無法治癒你那墮落的內心。[NEWLINE]（譴責你）"
+		/>
+		<!--warfare-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="有人會為了守護我而受傷……沒，沒關係，西風騎士團的大家一定沒問題的！我…也會為他們祈禱的。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="指引我前進的風啊。在我困頓時給我繼續前行的力量，在我迷惑時給我辨明善惡的智慧，在我遭受不義時給我抗爭的勇氣！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="同伴們一直在受傷…我，終究沒有力量替大家分擔痛苦……"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="同伴們一直在受傷…我，終究沒有力量替大家分擔痛苦……"
+		/>
+		<!--agenda-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="大家應該都在努力著，那我們也不能偷懶，對吧？"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_BARBARA_REASON_ANY"
+			 Text="{LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_ANY}"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="這樣偷懶不要緊嗎？美好的未來會悄悄流失的吧？"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_BARBARA_REASON_ANY"
+			 Text="{LOC_DIPLO_WARNING_LEADER_PETER_GREAT_REASON_ANY}"
+		/>
+		<!--make deals-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="願風神護佑你。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_BARBARA_ANY"
+			 Text="沒關係，那就下次吧。"
+		/>
+		<!--troops-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="騎士們揮劍作戰的樣子好帥啊！你是不是也有這種感覺？你今天來是想要跟他們切磋的嗎？"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="不會對你舞刀弄劍的啦…欸嘿，我在劍術上，完全沒有天賦呢。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="指引我前進的風啊。在我困頓時給我繼續前行的力量，在我迷惑時給我辨明善惡的智慧，在我遭受不義時給我抗爭的勇氣！"
+		/>
+		<!--spying-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="之前就聽說有鬼鬼祟祟的人在監視我了，沒想怎麼會是你……這種事情不可以再幹了哦，即使是偶像也是會生氣的。"
+		/>
+		<!--conversion-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="蒙德是風神守護的城邦，我和大家都虔誠的聆聽著巴巴托斯大人的教誨，請你尊重我們的信仰。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="我明白了！你們的城市一定也有屬於自己的神明。我尊重你的意願。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="是風的指引照亮了我前進的道路。我相信，它也一定能給你和你的國家帶來光明！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_BARBARA_ANY"
+		   Text="願風神護佑你。"
+		/>
+
+		<!--Diplomatic: Noelle-->
+		<!--first meet-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="我是諾艾爾，西風騎士團的女僕，從今天起會陪你一起去冒險。[NEWLINE]如果遇到任何困擾或者麻煩，不用擔心，我都會盡全力幫你解決的。嗯，現在就可以哦。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="想要坐下來喝杯茶嗎，旅行者？我去為你準備。對了，我還順手準備了厚雲朵松餅，是我的拿手菜哦，請一定要嘗一嘗。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="是需要我幫忙嗎？哦…只是想和我聊聊天，好吧，如果這就算幫上了你的忙，那想聊多久都可以～"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="有點累了嗎？那就在這裡休息，一起聊聊天吧。我去為你沏茶，要全糖、半糖，還是無糖？"
+		/>
+		<!--deligation-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="那…那我也要做很多點心作為回報！我現在就去，馬上就去！你可以先去做別的事，茶點很快就會熱呼呼地端到你的面前！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="不不不，這怎麼好意思呢？"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="我聽說了，你受封成為了榮譽騎士？真是羡慕啊…那今後你就是我的前輩了。對了，應該為你舉辦一場熱鬧的慶祝會！我現在就去準備！"
+		/>
+		<!--friendship-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="只要我每天做的這些小事能幫到你的冒險、你的生活，我就會很開心。因為你的道謝，會讓我覺得這些小事…也都有小小的意義。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="真抱歉，我是為騎士團服務的女僕，不能在你身上花太多時間，還有別人也需要我的幫忙。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="不知不覺，用在你身上的時間已經變得越來越多了…唉，像我這樣自私的做法，是不是…不太好？"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="呃…謝謝你能這麼說，這是對我最好的誇獎！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="您一直都是我的榜樣，所以如果有一天我能得到你的認可，那也是對我一直以來努力的最大肯定了。在那之前，我都是不會鬆懈的！"
+		/>
+		<!--denounce-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="我有點不太擅長和別人爭辯，很多時候說不清道理，還會惹別人生氣，所以我就會先按我的想法去做——我會用結果來說服你的。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="你和真正的騎士比起來還差遠了…通往騎士之路的修行，可不能只是嘴上說說而已啊。[NEWLINE]（譴責你）"
+		/>
+		<!--warfare-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="該打掃戰場了！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="是時候為大家剷除這片土地上的威脅了——我會注意騎士的風度！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="我還想……保護大家……"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="我還想……保護大家……"
+		/>
+		<!--agenda-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="多虧了能和你一起幫助他人，我才獲得了這麼多的成長。明明女僕的職責是為大家排憂解難，結果反倒是讓你為我花了這麼多心思…"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_KUDO_LEADER_GENSHIN_NOELLE_REASON_ANY"
+			 Text=""
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="唔，你不會在想「因為太麻煩所以還是交給諾艾爾」吧？[NEWLINE]唔…如果你真的這麼想…好吧，還是交給我來吧！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_LEADER_GENSHIN_NOELLE_REASON_ANY"
+			 Text=""
+		/>
+		<!--make deals-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="嗯，如你所願。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GENSHIN_NOELLE_ANY"
+			 Text="說實話，有些失望…"
+		/>
+		<!--settling-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="欸？因為想要我守候你入睡嗎？唔…倒是沒什麼問題，不過…不是在捉弄我吧？"
+		/>
+		<!--troops-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="蒙德是自由之城，你的軍隊還是從我們的邊境移開比較好哦。如果有非出門不可的事，就交給我吧。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="那就容我先告退了——只要你需要我，我隨時都會出現在你的身邊。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="是時候為大家剷除這片土地上的威脅了——我會注意騎士的風度！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="嗯，非常感謝。"
+		/>
+		<!--spying-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="女僕要嚴守秘密，所以我很喜歡玫瑰，玫瑰在蒙德就代表「守口如瓶」；而你卻對蒙德暗中窺探。我不會容許這種行為的發生！"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="嗯，謝謝你。"
+		/>
+		<!--conversion-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="蒙德不歡迎你的傳教士，請你讓他們離開。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_GENSHIN_NOELLE_ANY"
+		   Text="嗯，願風神護佑你。"
+		/>
+		
+		<!--Civilopedia-->
+		<Row Language="zh_Hant_HK" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_LOCATION" Text="提瓦特大陸"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_SIZE" Text="大約 4 平方公里"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_POPULATION" Text="估計 300 人"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CIVINFO_GENSHIN_MONDSTADT_CAPITAL" Text="蒙德城"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_FISCHL_QUOTE"
+			 Text="為應受罪罰之徒斷罪，為命運青睞之人祝聖，以無盡的幽夜淨土收容世間一切不被容赦的夢想。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_BARBARA_QUOTE"
+			 Text="彙聚大家的願望，讓大家感到幸福，這一定，就是神給予我的使命吧。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_GENSHIN_NOELLE_QUOTE"
+			 Text="沒關係，什麼樣的事都可以交給我…為你做的每件事，我都很有成就感哦。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_CAPSULE_BODY"
+			 Text="菲謝爾是由異世界的「幽夜淨土」流落至此的「斷罪之皇女」。她與會說話的夜鴉眷屬「奧茲」一同，「觀測編織命運的因果之絲」。出於某些她說不清，而奧茲又不願明說的原因…菲謝爾目前正以調查員身份供職於冒險家協會。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_DETAILED_BODY"
+			 Text="{LOC_LOADING_INFO_LEADER_GENSHIN_FISCHL}"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_1"
+			 Text="身為冒險家協會的調查員，菲謝爾擁有奧茲這一得天獨厚的優勢。「小姐，請不要再派我去窺探風魔龍的動向了，以我這幅身板，恐怕連給那傢伙塞牙縫都不夠啊。」「哼哼。能有幸成為斷罪之皇女眷屬的你，為我獻出包括視力與生命在內的一切，也是自然的吧？」能看見奧茲所見一切的她，只要願意，就能寄宿在夜鴉之中，振翅高飛，俯瞰大地。無論是望風山地的生態，還是奔狼領的騷動，都能透過奧茲的鴉眼，看得清清楚楚。這樣的特殊能力，加上一點點努力和奇妙的個性，讓她成為了冒險家協會調查員中的新星，贏得了大家的認可。菲謝爾十四歲時作為調查員加入冒險家協會一事，據說是由她父母介紹的。不過，既然菲謝爾是斷罪之皇女，那她的父母難不成是斷罪之皇帝與斷罪之皇后陛下嗎…"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_2"
+			 Text="據說在冒險家當中，流傳著一本《菲謝爾辭典》。那可是本奇書，能將菲謝爾用語轉換為淺顯易懂的詞句。譬如說，「我聽見，迴響的在時間之淵中的往日烈風，吹徹在因果的洪流中被忘卻的尖塔」代表著「風龍遺跡」;「負擔斷罪之名的侍者喲，就如你所願，準備好承擔皇女的偉大智慧」的意思是「我調查一下，馬上給你結果」;「歡唱吧！貪求著皇女祝聖之儀的扈從們，請懷著猛虎之心，深入戰場吧」則表示，她已經將前期調查報告準備妥當。而「一切，都記載在這本漆黑的預言書中」，則意味著她已經根據冒險家的報告，以自己的行文寫好了冒險家日誌……但其實，所謂的《菲謝爾辭典》並不是成文的書卷。熟悉她的人，會用心聆聽她的每一句話，並理解話語的含義。這才是對她的尊重與認可。「哼，果然你也能明白。不愧與我命運相連之人。」如果能順著她的意思說上幾句，她會害羞且高興地誇獎你語言學習能力優異：「皇女從不吝嗇讚美…那，再陪我多說一會。咳咳，不要誤會，這些是要化作新世界基石與薪柴的東西…」"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_3"
+			 Text="奧茲與皇女菲謝爾不僅是摯友、主從，更是共用靈魂與命運的關係。他們的初遇發生在《菲謝爾皇女夜譚》的卷一：「末日解體概要」。孤獨巡禮的皇女抵達永恆黃昏之國時，抗拒命運的黃昏王族在無可抗拒的絕望中選擇了否定。在黃昏的宮廷中，在野獸的撕扯中，皇女高潔的血如珍珠般灑落在古老的紋章上。危機時刻，如夜幕般寬廣的黑翼撕開了絕望，庇護著負傷被困的皇女。循著貴種之血的氣息，夜鴉之王奧茲華爾多·赫芙那梵恩斯終於來到孤獨的皇女身邊，她宣誓永遠效忠…"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_4"
+			 Text="有這麼一個故事。很久很久以前，在很遠很遠的地方，有一個很小很小的小女孩。「艾咪，今天看了什麼書呢？」難得從冒險中返回的爸爸媽媽，這麼問她。然後，她會告訴他們，從自己喜歡的系列小說中讀到的故事：「……於是他說：菲謝爾·馮·露弗施洛斯·那菲多特，你可是斷罪的皇女，是我引以為豪的女兒，無論如何也不能放棄崇高與夢想。」「哦哦，是很好的故事呢。既然艾咪這麼喜歡，就叫你『小菲謝爾』吧。」爸爸笑著摸摸她的頭，「小菲謝爾你可是了不得的皇女，是我引以為豪的女兒。無論如何，也不要放棄崇高與夢想喔。」溫柔的話語充滿善意與嘉許，點亮了她的心。但與忙碌父母相伴的溫暖時間總是如此短暫。因沉醉幻想小說而與周遭格格不入的她，每當孤獨，每當痛苦，總會告訴自己：「我是菲謝爾，是了不得的皇女。這是連爸爸媽媽也認可的…」「無論如何都不能放棄崇高與夢想……因為這些都是，對皇女的考驗。」"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_FISCHL_CHAPTER_HISTORY_PARA_5"
+			 Text="正如《菲謝爾皇女夜譚》的宇宙，最終因熵增而走向寂滅。那個沉醉幻想的小女孩，也無可避免地長大了一些。十四歲生日當天，不願理解菲謝爾的孩子們再次嘲弄了她。這只是高貴皇女難免遭受的小小挫敗罷了，爸爸媽媽一定能明白的。她心想。身為皇女，無論如何也不能放棄崇高與夢想。當她回到父母身邊，期望尋得安慰時，迎接她的卻是溫柔而疲憊的話語：「啊，艾咪。你已經十四歲了，該從那些小孩子的幻想裡走出來了…」熟悉的聲音就像燒紅的細劍，刺穿了少女的胸口。那天午夜，躲在無比熟悉的圖書館裡，少女感覺到異樣的視線，聽見了不應屬於這個世界的振翅之聲。透過哭得紅腫的眼睛，她與不屬於這個世界的漆黑夜鴉對上了目光。而那之後的事情，就是另一個故事了…菲謝爾不喜歡這個故事。每當想起這個故事，她就會感到窒息般的痛楚、噬咬般的孤獨。或許有一天，這個故事會被誰寫下來吧。但那只是艾咪的故事罷了，和菲謝爾沒有關係。皇女只有一個名字，那就是菲謝爾。菲謝爾只有一個身份，那就是皇女。簡單又完美的邏輯。只要將其熟記於心，加上一點點皇女的崇高，和一點點他人的體貼，就沒有什麼能傷得了她。況且，如今的皇女菲謝爾不但擁有奧茲，還與那位同樣來自另一個世界的旅人相識了…"
+		/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_CAPSULE_BODY"
+			 Text="芭芭拉是西風教會的祈禮牧師，同時也是蒙德城的閃耀偶像。只要看到芭芭拉，心情就能變好——蒙德城裡流傳著這樣的說法。實際上，不只是心情，傷口或身體不適也能一起治癒。人們知道，芭芭拉可以用水元素的神之眼釋放其妙的魔法。但在芭芭拉心中，最神奇的魔法只有切實的努力而已。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_DETAILED_BODY"
+			 Text="{LOC_LOADING_INFO_LEADER_GENSHIN_BARBARA}"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_1"
+			 Text="蒙德城裡，人人都喜歡芭芭拉。其實在最開始，芭芭拉的歌聲對於蒙德居民來說十分陌生，甚至讓人有些不習慣。因為蒙德一直以來流傳的歌，大部分都是吟游詩人彈唱的民謠。好在蒙德有著「自由」的精神，令人愉快的新事物，可以和喜聞樂見的「傳統」一起繁榮。人們接受了她的歌聲，逐漸被她的活力感染，甚至也開始學著哼唱。「亞伯特先生，不要再唱啦！你唱的真的沒調子！」"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_2"
+			 Text="可是對於這樣的成果，芭芭拉心情複雜。偶像的職責就是讓大家喜愛自己。這麼來看的話，芭芭拉做得很好。她的選擇並沒有錯。——但是，另一方面，偶像需要去撫慰大家心靈的疲勞，她真的做到了嗎？她為盲眼的葛羅麗唱了歌，安慰她遠去的戀人一定會歸來；她為生病的安娜唱了歌，祝福她的疾病一定會被治癒。但在歌聲結束後，她們臉上的笑容並未停留太久。芭芭拉陷入了迷茫之中。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_3"
+			 Text="芭芭拉從小就是個性格陽光的孩子。儘管她有些笨拙，做事常常失敗，也總能飛快振作起來，再試一次。與芭芭拉截然相反的「那個人」，也就是她的姐姐，乃是眾人口中的「家族驕傲」。仿佛是對著字典裡「優秀」的解釋一般成長起來的姐姐，完全遙不可及。芭芭拉最初努力的動機並沒有多麼偉大，僅僅是想要贏過姐姐一次。可是，無論劍術還是學習，她都比不上姐姐。一向陽光向上的芭芭拉，對此不免有些失落。「努力是最神奇的魔法，但在努力也沒有用的時候，應該怎麼辦呢？」"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_4"
+			 Text="芭芭拉沒有想過放棄。不如說，她的韌性令她的父親－「拂曉的樞機卿」西蒙都感到吃驚。芭芭拉給自己制定的「失落時間」只有三十秒。三十秒過後，無論如何都要重新打起精神來。「既然不擅長戰鬥，那我就來負責後勤吧！」在父親的引導下，芭芭拉成為了一位治療者。傷患和病患是如此痛苦，芭芭拉的善良又是如此閃耀。「想獲得他人認可」的渴望，不知不覺地變成了「想幫助他人」的簡單信念。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_BARBARA_CHAPTER_HISTORY_PARA_5"
+			 Text="「謝謝。」這是芭芭拉聽到最多的話。感到迷茫時，有人握住了她的手。「妳的陪伴，讓我感覺好多了。」對於芭芭拉來說，大家臉上重新洋溢出的笑容，就是她最好的獎章。所以，在夜裡按摩著腫疼的小腿，或者咕嘟咕嘟喝著護嗓子的杏白茶時，芭芭拉都會想起每一個向她投以善意的人。「我也是在大家的鼓勵下前進的！」而且，那個笑容說不定正是健康的證明一歌聲也許真的能夠將人們治癒。至於那份想要超越姐姐，成為全蒙德的人氣第一的小小好勝心，並沒有被芭芭拉摒棄，而是被她藏進了最深的心底。「如果能夠變得更加優秀，也許就能為姐姐分擔一點責任了吧。」她是這樣想的。「唔唔…芭芭拉衝呀！」"
+		/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_CAPSULE_BODY"
+			 Text="和普通的騎士團女僕相比，諾艾爾心中有著更加遠大的夢想。在這被西風騎士團庇護了千年的城邦裡，她與千萬普通少男少女一樣，都憧憬著有朝一日能穿上那副象徵榮耀的甲胄。就算自身能力還不足以通過嚴苛的騎士選拔，至少也要在更近的地方學習騎士言行。訓練學習之餘，她很享受現在的生活——在蒙德城忙裡忙外，出現在每一個需要幫助的人身邊。「交給我吧！什麼都可以交給我！」這是她的口頭禪，所以有需要的話，就呼喚她的名字吧，她會很開心的。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_DETAILED_BODY"
+			 Text="{LOC_LOADING_INFO_LEADER_GENSHIN_NOELLE}"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_1"
+			 Text="諾艾爾是許多人眼中的萬能女僕。這些人對諾艾爾都有相似的評價：「無處不在」。比如在宴會上，某個孩子想要一個盤子，卻發現盤子全堆在櫃子門前，處於只要打開門一定會全部掉出來摔碎的危險狀態…「諾——艾——爾——！」孩子只需放聲大喊，無處不在的諾艾爾便會立刻到達，將整個櫃子放倒，取出一個盤子遞給他，叮嚀他吃完烤肉後不要馬上喝冰飲料。隨後，再把櫃子擺回原位，把其他盤子清洗乾淨擺放整齊。如此無處不在的諾艾爾，在人們看來極為神奇，但女僕的工作既不是神話也不是傳說，諾艾爾僅僅是將一條準則貫徹到底：「一個不多，一個不少，該有的全都有，不該有的不能有。」諾艾爾覺得，自己並沒什麼特別之處，只是稍微多想了一點而已。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_2"
+			 Text="諾艾爾熱衷於提供熱情可靠、有時候甚至有些過度的幫助。如果在她路過的時候問她，用來野餐烤肉的篝火要怎麼搭，她就會義無反顧地加入，不只是三兩下搭好篝火，還會如疾風迅雷一般把烤肉架撐起來，處理好食材，烹飪出香味撲鼻的大餐，試吃一口，叮囑千萬要烤熟，還有一定要滅盡火種嚴防山火，之後才離開。通常，大家不會介意這種幫忙方式。但偶爾，這樣的舉動也會帶來神奇結果。曾有一位來自至冬國的商人試圖在蒙德開展酒業生意。最初，他計畫用欺騙的辦法在這片土地打下釘子，再逐步用故鄉的酒佔據市場，摧毀蒙德酒業。他偽裝成善良的商人，帶著妻女來蒙德談生意。身為遠道而來的貴客，他們受到了諾艾爾的熱情接待。起初，這位商人覺得諾艾爾的招待極為周到，與蒙德大多落後粗野的鄉下人完全不同。但後來，他慢慢感覺到奇怪。諾艾爾總能提前知道他想幹什麼，她會為他打點行程。每天三餐，桌上的至冬國菜肴也總是一家人最愛吃的那種。她甚至知道商人女兒睡覺時喜歡抱著布偶，特地送來一隻親手縫製的布娃娃。如此舉動，令商人不知該如何進行私下的商業計畫。光是看到諾艾爾笑容滿面的樣子，商人都忐忑不安，認為她別有用意。最終，擔驚受怕的商人帶著妻女連夜離開蒙德，再也沒有回來諾艾爾以為是自己招待不周氣走了客人，為此還消沉了幾天。但實際上，這正是她認真工作的結果。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_3"
+			 Text="絕大多數時候，諾艾爾都是讓人安心的存在，不過，偶爾也會有意外。某一天，她聽說有位冒險家被困在了龍脊雪山，立刻收拾裝備，獨自進山搭救。當日的暴風雪如凶獸般頑劣，渺小人類在雪山上留下的痕跡會被瞬間抹去。想找一條安全上山的路線都很困難，更別說是尋找一個早已被白雪掩埋的人。諾艾爾卻堅持在如此兇險的環境下進行搜救。大半天後，她終於在某個洞穴中找到了快要凍僵的冒險家。此時，諾艾爾的棉衣早已濕透，水壺裡的水也凍成了冰塊。饑寒交迫，她仍擠出最後的力氣，將冒險家背下了山。冒險家獲救，諾艾爾卻也力竭倒下。整整三天，她因高燒不省人事，整個騎士團輾轉難眠，為她擔心。所幸最後一切平安。類似的事發生過不止一次，騎士團的前輩們都很心疼諾艾爾。為了不讓熱心的諾艾爾陷入危險，琴只能儘量「發明」一些安全工作交給她，避免她接觸到危險。不過，要是真出了什麼大事，便輪到凱亞登場了。在蒙德的龍災事件中，諾艾爾躍躍欲試，想要親自解決災害的源頭。但在凱亞悉心安排下，她被無數個「緊急任務」支開，一直在城裡奔波到了危機結束的那天。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_4"
+			 Text="諾艾爾看似嬌小的身軀中蘊藏著非常強大的力量。這不僅僅是指她意志堅定，頑強不屈，也是指她的力氣非常之大。有一次，麗莎的實驗儀器不小心掉到書架底下，正在苦惱趴下去撿書是否有失體面。諾艾爾及時趕來，單手舉起了裝滿書的書架。從拿起到放下，書架裡的書都沒被晃出一本。還有一次，幾輛送貨的貨車在經過蒙德城側門時被火史萊姆襲擊，燃起大火。貨主手忙腳亂之際，也是諾艾爾趕到，連貨帶車統統扔進果酒湖，跟著馬上跳下水，把貨物一個不漏地撈了回來。據說諾艾爾練劍時，差點讓那位自詡手藝精良的鐵匠瓦格納沮喪到歸隱山林。他前後嘗試十幾種礦石配方鍛造出的所有長劍，只要被諾艾爾用上幾次便會崩刃，無一例外。最初，瓦格納以為是諾艾爾用劍的方法不對，後來才發覺，根本問題在於武器強度不足。瓦格納賭上名譽，為諾艾爾定制了一把沉重又扎實的大劍，配合諾艾爾自身岩元素力加固，這才勉強解決了她的武器問題。不過請放心，諾艾爾不會在非必要場合展示她過人的力量，她本人也是暴力的反對者。只是聽說，諾艾爾剛拿到定制大劍那天，在醉漢峽被兩個喝醉的盜寶團成員盯上，被當成了手無縛雞之力的小綿羊……希望以後不要再有這樣的倒楣鬼出現了。"
+		/>
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENSHIN_NOELLE_CHAPTER_HISTORY_PARA_5"
+			 Text="諾艾爾最大的敵人之一，是羽球節。羽球節期間，教堂廣場會擺出圍成大圈的長桌，桌上擺滿各色美食，供任何來到這裡的人大快朵頤。桌上的美食通常由擅長烹飪的市民自發提供。一向嚴格要求自己的諾艾爾，也會在此期間不斷地做菜、上菜。工作量並未增加太多，這件事的難處在於，作為女僕，她要事先品嘗每一份端上桌的菜品，保證其風味與品質。香酥可口的「月亮派」、吃進嘴裡哢嚓作響的「蒙德炸豬排」、將乳酪和肉摞成山一樣的「堆高高」，還有各種油膩程度與幸福指數成正比的油炸食品與烤肉…這些都是必不可少的宴會菜肴。能在節日裡看見大家歡笑舉杯諾艾爾打從心底感到愉快。可一旦看見吃得微微鼓起的腰腹，她又會忍不住唉聲歎氣一番。羽球節結束後，一整個月裡，諾艾爾都會自願加入西風騎士的夜巡隊伍，不斷在城內跑上跑下。即使節日已經落下帷幕，她的戰鬥也還沒有結束。"
+		/>
+	</LocalizedText>
+</GameData>
