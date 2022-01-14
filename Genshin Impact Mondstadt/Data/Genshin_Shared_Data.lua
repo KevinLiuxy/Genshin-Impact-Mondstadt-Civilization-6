@@ -1,38 +1,52 @@
-local statue7HP = 25;										-- Allows for Exploit
+-- If it works, it's written by UzukiShimamura. If it doesn't work, I don't know who the fxxk wrote it!
+-- define SotS StatueOfTheSeven
 
-function statue7reset()
-	statue7HP = 25;
+include("GameCapabilities");
+
+function OnTurnBegin_SotSReset()
+	for i = 0, GameDefines.MAX_PLAYERS-1, 1 do
+		local pPlayer = Players[i];
+		if HasTrait("TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN", pPlayer:GetID()) then
+			pPlayer:SetProperty("SotSHealCapability", 25);
+		end
+	end
 end
 
-function statue7Heal(iPlayerID, iUnitID, PlotX, PlotY)		-- Unit Moved to Statue of the Seven Gain HP
+function SotSAction(iPlayerID, iUnitID, PlotX, PlotY)		-- Core action code of the Statue of the Seven
+	local pPlayer = Players[iPlayerID];
 	local pCity = Cities.GetCityInPlot(PlotX, PlotY);
-	
-	if (statue7HP >0 and pCity ~= nil) then
-		local pCityBuildings= pCity:GetBuildings();
-		local building = GameInfo.Buildings["BUILDING_STATUE_OF_THE_SEVEN"];
-		
-		if (pCityBuildings:HasBuilding(building.Index)) then
-			local pUnit = UnitManager.GetUnit(iPlayerID, iUnitID);
-			
-			if (pUnit ~= nil and pUnit:GetDamage() ~= 0) then
-				local healPoint = math.min(statue7HP, pUnit:GetDamage());
-				pUnit:SetDamage(pUnit:GetDamage() - healPoint);
-				statue7HP = statue7HP - healPoint;
-				
-				Game.AddWorldViewText(0, "{LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME} "..(25-statue7HP).."/25", PlotX, PlotY);
+	local SotSRemainingHP = pPlayer:GetProperty("SotSHealCapability");
+	if SotSRemainingHP then
+		if (SotSRemainingHP >0 and pCity ~= nil) then
+			local pCityBuildings= pCity:GetBuildings();
+			local buildingSotS = GameInfo.Buildings["BUILDING_STATUE_OF_THE_SEVEN"];
+			if (pCityBuildings:HasBuilding(buildingSotS.Index)) then
+				local pUnit = UnitManager.GetUnit(iPlayerID, iUnitID);
+				if (pUnit ~= nil and pUnit:GetDamage() ~= 0) then
+					local healPoint = math.min(SotSRemainingHP, pUnit:GetDamage());
+					pUnit:SetDamage(pUnit:GetDamage() - healPoint);
+					SotSRemainingHP = SotSRemainingHP - healPoint;
+					Game.AddWorldViewText(0, "{LOC_TOOLTIP_STATUE_OF_THE_SEVEN}"..SotSRemainingHP.."/25", PlotX, PlotY);
+					pPlayer:SetProperty("SotSHealCapability", SotSRemainingHP);
+				end
 			end
 		end
 	end
 end
 
-function statue7StartHeal(iPlayerID, iUnitID, hexI, hexJ, hexK, bSelected, bEditable)
-	local pUnit = UnitManager.GetUnit(iPlayerID, iUnitID);	-- Unit Selected on Statue of the Seven Gain HP
 
+
+function OnUnitMoveComplete_SotSTrigger(iPlayerID, iUnitID, PlotX, PlotY)
+	SotSAction(iPlayerID, iUnitID, PlotX, PlotY);
+end
+
+function OnUnitSelectionChanged_SotSTrigger(iPlayerID, iUnitID, hexI, hexJ, hexK, bSelected, bEditable)
+	local pUnit = UnitManager.GetUnit(iPlayerID, iUnitID);	-- Heal unit selected
 	if (bSelected) then
-		statue7Heal(iPlayerID, iUnitID, pUnit:GetX(), pUnit:GetY());
+		SotSAction(iPlayerID, iUnitID, pUnit:GetX(), pUnit:GetY());
 	end
 end
 
-Events.TurnBegin.Add(statue7reset);
-Events.UnitMoveComplete.Add(statue7Heal);
-Events.UnitSelectionChanged.Add(statue7StartHeal);
+Events.TurnBegin.Add(OnTurnBegin_SotSReset);
+Events.UnitMoveComplete.Add(OnUnitMoveComplete_SotSTrigger);
+Events.UnitSelectionChanged.Add(OnUnitSelectionChanged_SotSTrigger);

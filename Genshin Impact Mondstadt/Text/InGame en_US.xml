@@ -87,10 +87,12 @@
 
 		<Row Language="en_US" Tag="LOC_UNIT_HILICHURL_FIGHTER_NAME" Text="Hilichurl"/>
 		<Row Language="en_US" Tag="LOC_UNIT_HILICHURL_FIGHTER_DESCRIPTION" Text="{LOC_UNIT_WARRIOR_DESCRIPTION}"/>
+		<Row Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HILICHURL_FIGHTER_CHAPTER_HISTORY_PARA_1" Text=""/>
 		<Row Language="en_US" Tag="LOC_UNIT_HILICHURL_GUARD_NAME" Text="Hilichurl Guard"/>
 		<Row Language="en_US" Tag="LOC_UNIT_HILICHURL_GUARD_DESCRIPTION" Text="{LOC_UNIT_SPEARMAN_DESCRIPTION}"/>
+		<Row Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HILICHURL_GUARD_CHAPTER_HISTORY_PARA_1" Text=""/>
 
-		<Row Language="en_US" Tag="LOC_TRAIT_GENSHIN_BUILDING_STATUE_OF_THE_SEVEN_NAME" Text="Statue's Blessing"/>
+
 		<Row Language="en_US" Tag="LOC_COMBAT_PREVIEW_FISCHL_DARK_AGE_COMBAT_BONUS" Text="Fischl in dark age +3 [ICON_Strength] Combat Strength."/>
 		<Row Language="en_US" Tag="LOC_ABILITY_OUTRIDER_NAME" Text="Wind Gliders"/>
 		<Row Language="en_US" Tag="LOC_ABILITY_OUTRIDER_DESCRIPTION" Text="Wind Gliders: +1 [ICON_Movement] Movement when staring a turn on Hills."/>
