@@ -19,6 +19,19 @@
 					<Element>
 						<m_CollectionName text="Audio"/>
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..StringValue">
+										<m_Value text="WW_IMP_Monastery_Loop"/>
+										<m_ParamName text="XrefName"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="ADVERTURERS_GUILD"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
 					</Element>
 					<Element>
 						<m_CollectionName text="StrategicView"/>
@@ -27,7 +40,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..ArtDefReferenceValue">
-										<m_ElementName text="StatueOfTheSeven"/>
+										<m_ElementName text="AdventurersGuild"/>
 										<m_RootCollectionName text="Improvements"/>
 										<m_ArtDefPath text="StrategicView.artdef"/>
 										<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -52,7 +65,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..ArtDefReferenceValue">
-										<m_ElementName text="StatueOfTheSeven_Pillaged"/>
+										<m_ElementName text="AdventurersGuild_Pillaged"/>
 										<m_RootCollectionName text="Improvements"/>
 										<m_ArtDefPath text="StrategicView.artdef"/>
 										<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -142,3 +155,4 @@
 		</Element>
 	</m_RootCollections>
 </AssetObjects..ArtDefSet>
+

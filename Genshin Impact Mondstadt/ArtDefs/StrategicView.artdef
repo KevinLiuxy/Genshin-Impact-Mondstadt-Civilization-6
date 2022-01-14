@@ -97,7 +97,7 @@
 					</m_Values>
 				</m_Fields>
 				<m_ChildCollections/>
-				<m_Name text="StatueOfTheSeven"/>
+				<m_Name text="AdventurersGuild"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -142,7 +142,7 @@
 					</m_Values>
 				</m_Fields>
 				<m_ChildCollections/>
-				<m_Name text="StatueOfTheSeven_Pillaged"/>
+				<m_Name text="AdventurersGuild_Pillaged"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>
@@ -186,7 +186,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..ArtDefReferenceValue">
-										<m_ElementName text="StatueOfTheSeven"/>
+										<m_ElementName text="AdventurersGuild"/>
 										<m_RootCollectionName text="ImprovementEntries"/>
 										<m_ArtDefPath text="StrategicView.artdef"/>
 										<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -205,7 +205,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="StatueOfTheSeven"/>
+				<m_Name text="AdventurersGuild"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -245,7 +245,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..ArtDefReferenceValue">
-										<m_ElementName text="StatueOfTheSeven_Pillaged"/>
+										<m_ElementName text="AdventurersGuild_Pillaged"/>
 										<m_RootCollectionName text="ImprovementEntries"/>
 										<m_ArtDefPath text="StrategicView.artdef"/>
 										<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -264,7 +264,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="StatueOfTheSeven_Pillaged"/>
+				<m_Name text="AdventurersGuild_Pillaged"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>
@@ -318,3 +318,4 @@
 		</Element>
 	</m_RootCollections>
 </AssetObjects..ArtDefSet>
+

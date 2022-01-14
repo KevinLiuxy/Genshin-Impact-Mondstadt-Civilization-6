@@ -20,17 +20,23 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_FAVONIUS_HEADQUARTER_NAME"
 			Text="西风骑士团总部"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_FAVONIUS_HEADQUARTER_DESCRIPTION"
-			Text="替代政体建筑,建造费用更低,并像军营一样拥有外部防御。[NEWLINE]处于和平时期时原始 [ICON_Capital] 首都所在大陆上的所有城市 +1 [ICON_Amenities] 宜居度。"/>
+			Text="蒙德特色区域，替代市政广场，建造费用更低。有防御能力且可执行远程攻击。[NEWLINE]不与任何文明发生战争时，[ICON_Capital] 首都所在大陆上的所有城市 +1 [ICON_Amenities] 宜居度。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_NAME"
 			Text="七天神像"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_DESCRIPTION"
-			Text="替代纪念碑的原神特色建筑。额外提供 +2 [ICON_Faith] 信仰值。[NEWLINE]移动至七天神像的单位立即回复生命值。七天神像每回合的回复上限为25点生命值。"/>
+			Text="替代纪念碑的原神特色建筑。额外提供 +2 [ICON_Faith] 信仰值。使此城市每回合 +1 忠诚度。如城市已拥有最高忠诚度，则额外 +1 [ICON_Culture] 文化值。[NEWLINE][NEWLINE]移动至七天神像的单位立即回复生命值（每回合最多25点）。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TOOLTIP_STATUE_OF_THE_SEVEN"
+			Text="神像的恩泽："/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_STATUE_OF_THE_SEVEN_CHAPTER_HISTORY_PARA_1"
+			Text="七天神像是镇驻在提瓦特各处的巨大石像，据说它们的形象来自于七位神明。它们可以在提瓦特大陆的各处找到，七国中每个国家的神像都与它们的神所对应，分别诉说着各自的长久历史——在蒙德有5座，璃月有5座，稻妻则有6座。一开始，旅行者只能点亮位于坠星山谷和风啸山坡的七天神像，而在可探索的区域扩展之后则可以前往其他神像处。当旅行者首次点亮一处七天神像时，可以获得额外的视野和新的探索派遣。它还可以切换旅行者的共鸣状态，并为旅行者提供治疗的恩泽。在雪山的七天神像附近时，还可以降低角色的寒冷值。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_NAME"
 			Text="冒险家协会"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ADVENTURERS_GUILD_DESCRIPTION"
-			Text="解锁建造冒险家协会（原神特色改良设施）的能力。[NEWLINE][NEWLINE]+1 [ICON_Culture] 文化值 +1 [ICON_Production] 生产力，为相邻单元格提供 +1 [ICON_Gold] 金币 +1 魅力。每个城市仅限建造一座。冒险家协会所在的单元格无法被替换更改。"/>
+			Text="解锁建造冒险家协会（原神特色改良设施）的能力。[NEWLINE][NEWLINE]+1 [ICON_Culture] 文化值 +1 [ICON_Production] 生产力，为相邻单元格提供 +1 [ICON_Gold] 金币 +1 魅力。每个城市仅限建造一座。冒险家协会所在的单元格无法被切换给另一座城市。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ADVENTURERS_GUILD_CHAPTER_HISTORY_PARA_1"
+			Text="冒险家协会是活跃于提瓦特七国的组织，为私人和组织提供私募冒险家服务。它是帮助新人冒险者适应冒险生活的平台，也为老手提供便利的帮助。冒险家协会收集来自各处口耳相传的情报，并将其编制为委托和冒险并安排给冒险者。有关冒险家协会的起源人们知之甚少，不过可以查知的是，这一协会的总部位于至冬国。冒险家协会的格言是“Ad Astra Abyssosque”（向着星辰与深渊），不过甚至是寻找失踪的猫咪这样的工作也在它们的职责范围内。"/>	
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_GENSHIN_FISCHL_NAME"
 			Text="菲谢尔"/>
