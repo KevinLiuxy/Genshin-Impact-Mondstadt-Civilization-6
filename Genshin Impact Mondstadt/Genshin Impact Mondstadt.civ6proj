@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
     <Name>MOD_GENSHIN_IMPACT_MONDSTADT</Name>
     <Guid>440d0a84-d27e-40db-90b6-797d0e820aaa</Guid>
     <ProjectGuid>9fbc91d4-b2f5-433f-a1e3-f62275c55c75</ProjectGuid>
-    <ModVersion>1.1</ModVersion>
+    <ModVersion>1.2</ModVersion>
     <Teaser>LOC_MOD_GENSHIN_IMPACT_MONDSTADT_TEASER</Teaser>
     <Description>LOC_MOD_GENSHIN_IMPACT_MONDSTADT_DESCRIPTION</Description>
     <Authors>Kevin Liu</Authors>
-    <SpecialThanks>
-    </SpecialThanks>
+    <SpecialThanks>Hemmelfort, Dwughjsd</SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
@@ -57,6 +56,9 @@
       <SubType>Content</SubType>
     </ArtDef>
     <ArtDef Include="ArtDefs\StrategicView.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\Overlay.artdef">
       <SubType>Content</SubType>
     </ArtDef>
     <Content Include="Data\Civilization_Colour.sql">
@@ -209,6 +211,12 @@
     <Content Include="Text\InGame zh_Hant_HK.xml">
       <SubType>Content</SubType>
     </Content>
+    <XLP Include="XLPs\StrategicView_UILenses.xlp">
+      <SubType>Content</SubType>
+    </XLP>
+    <XLP Include="XLPs\UILensModels.xlp">
+      <SubType>Content</SubType>
+    </XLP>
     <XLP Include="XLPs\LeaderFallback.xlp">
       <SubType>Content</SubType>
     </XLP>

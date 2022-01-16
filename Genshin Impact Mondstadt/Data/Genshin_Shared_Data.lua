@@ -1,4 +1,4 @@
--- If it works, it's written by UzukiShimamura. If it doesn't work, I don't know who the fxxk wrote it!
+-- If it works, it's kindly provided by UzukiShimamura. If it doesn't work, well Kevin Liu made the first version.
 -- define SotS StatueOfTheSeven
 
 include("GameCapabilities");
@@ -33,7 +33,6 @@ function SotSAction(iPlayerID, iUnitID, PlotX, PlotY)		-- Core action code of th
 		end
 	end
 end
-
 
 
 function OnUnitMoveComplete_SotSTrigger(iPlayerID, iUnitID, PlotX, PlotY)

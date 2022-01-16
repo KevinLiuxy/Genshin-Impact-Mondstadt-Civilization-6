@@ -1,3 +1,6 @@
+-- Same as Genshin_Shared_Data.lua, created by Kevin and revised by Shimamura Uzuki.
+-- This time checking under UI context to trigger the healing sound event.
+
 function SotSActionUI(iPlayerID, iUnitID, PlotX, PlotY)		-- Core UI code of the Statue of the Seven
 	local pPlayer = Players[iPlayerID];
 	local pCity = Cities.GetCityInPlot(PlotX, PlotY);
