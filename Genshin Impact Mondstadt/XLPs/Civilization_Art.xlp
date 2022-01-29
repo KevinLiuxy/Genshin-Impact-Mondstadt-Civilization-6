@@ -134,6 +134,10 @@
 			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_128"/>
 		</Element>
 		<Element>
+			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_22"/>
+			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_22"/>
+		</Element>
+		<Element>
 			<m_EntryID text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_256"/>
 			<m_ObjectName text="ICON_DISTRICT_FAVONIUS_HEADQUARTER_256"/>
 		</Element>
@@ -166,15 +170,15 @@
 			<m_ObjectName text="PORTRAIT_LEADER_GENSHIN_NOELLE"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BACKGROUND_GENSHIN_BARBARA_LOADING"/>
+			<m_EntryID text="LEADER_GENSHIN_BARBARA_BACKGROUND"/>
 			<m_ObjectName text="BACKGROUND_GENSHIN_BARBARA_LOADING"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BACKGROUND_GENSHIN_FISCHL_LOADING"/>
+			<m_EntryID text="LEADER_GENSHIN_FISCHL_BACKGROUND"/>
 			<m_ObjectName text="BACKGROUND_GENSHIN_FISCHL_LOADING"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BACKGROUND_GENSHIN_NOELLE_LOADING"/>
+			<m_EntryID text="LEADER_GENSHIN_NOELLE_BACKGROUND"/>
 			<m_ObjectName text="BACKGROUND_GENSHIN_NOELLE_LOADING"/>
 		</Element>
 		<Element>
@@ -274,7 +278,7 @@
 			<m_ObjectName text="ICON_LEADER_GENSHIN_NOELLE_80"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BACKGROUND_GENSHIN_MONDSTADT_INGAME"/>
+			<m_EntryID text="GENSHIN_BARBARA_1"/>
 			<m_ObjectName text="BACKGROUND_GENSHIN_MONDSTADT_INGAME"/>
 		</Element>
 		<Element>
@@ -392,6 +396,14 @@
 		<Element>
 			<m_EntryID text="ICON_UNIT_HILICHURL_GUARD_80"/>
 			<m_ObjectName text="ICON_UNIT_HILICHURL_GUARD_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GENSHIN_FISCHL_1"/>
+			<m_ObjectName text="BACKGROUND_GENSHIN_MONDSTADT_INGAME"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GENSHIN_NOELLE_1"/>
+			<m_ObjectName text="BACKGROUND_GENSHIN_MONDSTADT_INGAME"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

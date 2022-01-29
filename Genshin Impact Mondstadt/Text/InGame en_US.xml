@@ -27,10 +27,10 @@
 		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_24" Text="Angel's Share"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_25" Text="Cat's Tail"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_26" Text="Good Hunter"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text="Western Eagle"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_28" Text="Northen Wolf"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_29" Text="Southern Lion"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_30" Text="Eastern Dragon"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_27" Text="Falcon of the West"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_28" Text="Wolf of the North"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_29" Text="Lion of the South"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_GENSHIN_MONDSTADT_30" Text="Dragon of the East"/>
 
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_1"  Text="Timaeus"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_GENSHIN_MONDSTADT_MALE_2"  Text="Anthony"/>

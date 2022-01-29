@@ -2,7 +2,7 @@
 <GameData>
 	<LocalizedText>
 		<Row Language="en_US" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
-			Text="Genshin · Mondstadt"/>
+			Text="Mondstadt"/>
 		<Row Language="en_US" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
 			Text="Mondstadt"/>
 		<Row Language="en_US" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_ADJECTIVE"
@@ -28,7 +28,7 @@
 		<Row Language="en_US" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_DESCRIPTION"
 			Text="Genshin Impact unique building that replaces the Monument. Provides an additional +2 [ICON_Faith] Faith. Provides +1 Loyalty per turn in this city. If the city already has maximum Loyalty, also provides an additional +1 [ICON_Culture] Culture.[NEWLINE][NEWLINE]Units instantly heals when moved to a Statue of the Seven. The healing power of the statue is 25 per turn."/>
 		<Row Language="en_US" Tag="LOC_TOOLTIP_STATUE_OF_THE_SEVEN"
-			Text="Statue's Blessing: "/>
+			Text="Statue's Blessing used: "/>
 		<Row Language="en_US" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_STATUE_OF_THE_SEVEN_CHAPTER_HISTORY_PARA_1"
 			Text=""/>
 

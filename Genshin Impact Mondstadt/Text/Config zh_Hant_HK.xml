@@ -1,7 +1,7 @@
 <GameData>
 	<LocalizedText>
 		<Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
-			Text="原神·蒙德"/>
+			Text="蒙德"/>
 		<Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
 			Text="蒙德"/>
 		<Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_ADJECTIVE"

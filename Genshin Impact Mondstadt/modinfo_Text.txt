@@ -1,8 +1,8 @@
   <LocalizedText>
     <Text id="MOD_GENSHIN_IMPACT_MONDSTADT">
       <en_US>Genshin Impact · Mondstadt Civilization Pack</en_US>
-      <zh_Hans_CN>原神·蒙德文明包</zh_Hans_CN>
-      <zh_Hant_HK>原神·蒙德文明包</zh_Hant_HK>
+      <zh_Hans_CN>原神·蒙德 文明包</zh_Hans_CN>
+      <zh_Hant_HK>原神·蒙德 文明包</zh_Hant_HK>
     </Text>
     <Text id="LOC_MOD_GENSHIN_IMPACT_MONDSTADT_TEASER">
       <en_US>Mondstadt civilization and leaders Fischl, Barbara, and Noelle.</en_US>
@@ -10,8 +10,8 @@
       <zh_Hant_HK>蒙德文明和領袖：菲謝爾、芭芭拉、諾艾爾</zh_Hant_HK>
     </Text>
     <Text id="LOC_MOD_GENSHIN_IMPACT_MONDSTADT_DESCRIPTION">
-      <en_US>--- Genshin Impact Mondstadt ---[NEWLINE]New Leader: Fischl[NEWLINE]New Leader: Barbara[NEWLINE]New Leader: Noelle[NEWLINE][NEWLINE]Supported Languages:[NEWLINE]English, Simplified Chinese, Traditional Chinese[NEWLINE][NEWLINE]Enjoy!</en_US>
-      <zh_Hans_CN>--- “原神·蒙德”文明 ---[NEWLINE]领袖：菲谢尔[NEWLINE]领袖：芭芭拉[NEWLINE]领袖：诺艾尔[NEWLINE][NEWLINE]支持的语言：[NEWLINE]English，简体中文，繁體中文[NEWLINE][NEWLINE]游戏愉快！</zh_Hans_CN>
-      <zh_Hant_HK>--- “原神·蒙德”文明 ---[NEWLINE]領袖：菲謝爾[NEWLINE]領袖：芭芭拉[NEWLINE]領袖：諾艾爾[NEWLINE][NEWLINE]支援的語言：[NEWLINE]English，简体中文，繁體中文[NEWLINE][NEWLINE]遊戲愉快！</zh_Hant_HK>
+      <en_US>--- Genshin Impact Mondstadt ---[NEWLINE]New Leader: Fischl[NEWLINE]New Leader: Barbara[NEWLINE]New Leader: Noelle[NEWLINE][NEWLINE]Supported Languages:[NEWLINE]English, Simplified Chinese, Traditional Chinese[NEWLINE][NEWLINE]Enjoy![NEWLINE]v1.3</en_US>
+      <zh_Hans_CN>--- “原神·蒙德”文明 ---[NEWLINE]领袖：菲谢尔[NEWLINE]领袖：芭芭拉[NEWLINE]领袖：诺艾尔[NEWLINE][NEWLINE]支持的语言：[NEWLINE]English，简体中文，繁體中文[NEWLINE][NEWLINE]游戏愉快！[NEWLINE]v1.3</zh_Hans_CN>
+      <zh_Hant_HK>--- “原神·蒙德”文明 ---[NEWLINE]領袖：菲謝爾[NEWLINE]領袖：芭芭拉[NEWLINE]領袖：諾艾爾[NEWLINE][NEWLINE]支援的語言：[NEWLINE]English，简体中文，繁體中文[NEWLINE][NEWLINE]遊戲愉快！[NEWLINE]v1.3</zh_Hant_HK>
     </Text>
   </LocalizedText>

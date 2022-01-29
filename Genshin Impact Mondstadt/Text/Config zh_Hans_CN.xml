@@ -1,7 +1,7 @@
 <GameData>
 	<LocalizedText>
 		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_NAME"
-			Text="原神·蒙德"/>
+			Text="蒙德"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_DESCRIPTION"
 			Text="蒙德"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_GENSHIN_MONDSTADT_ADJECTIVE"
@@ -27,7 +27,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_STATUE_OF_THE_SEVEN_DESCRIPTION"
 			Text="替代纪念碑的原神特色建筑。额外提供 +2 [ICON_Faith] 信仰值。使此城市每回合 +1 忠诚度。如城市已拥有最高忠诚度，则额外 +1 [ICON_Culture] 文化值。[NEWLINE][NEWLINE]移动至七天神像的单位立即回复生命值（每回合最多25点）。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TOOLTIP_STATUE_OF_THE_SEVEN"
-			Text="神像的恩泽："/>
+			Text="已用神像恩泽："/>
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_STATUE_OF_THE_SEVEN_CHAPTER_HISTORY_PARA_1"
 			Text="七天神像是镇驻在提瓦特各处的巨大石像，据说它们的形象来自于七位神明。它们可以在提瓦特大陆的各处找到，七国中每个国家的神像都与它们的神所对应，分别诉说着各自的长久历史——在蒙德有5座，璃月有5座，稻妻则有6座。一开始，旅行者只能点亮位于坠星山谷和风啸山坡的七天神像，而在可探索的区域扩展之后则可以前往其他神像处。当旅行者首次点亮一处七天神像时，可以获得额外的视野和新的探索派遣。它还可以切换旅行者的共鸣状态，并为旅行者提供治疗的恩泽。在雪山的七天神像附近时，还可以降低角色的寒冷值。"/>
 
