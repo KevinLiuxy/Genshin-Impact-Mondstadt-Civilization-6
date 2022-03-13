@@ -276,6 +276,7 @@
 			<consumerName text="Cultures"/>
 			<relativeArtDefPaths>
 				<Element text="Culture.artdef"/>
+				<Element text="Civilization.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies/>
 			<loadsLibraries>false</loadsLibraries>

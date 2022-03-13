@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
     <Name>MOD_GENSHIN_IMPACT_MONDSTADT</Name>
     <Guid>440d0a84-d27e-40db-90b6-797d0e820aaa</Guid>
     <ProjectGuid>9fbc91d4-b2f5-433f-a1e3-f62275c55c75</ProjectGuid>
-    <ModVersion>1.3</ModVersion>
+    <ModVersion>1.4</ModVersion>
     <Teaser>LOC_MOD_GENSHIN_IMPACT_MONDSTADT_TEASER</Teaser>
     <Description>LOC_MOD_GENSHIN_IMPACT_MONDSTADT_DESCRIPTION</Description>
     <Authors>Kevin Liu</Authors>
-    <SpecialThanks>Hemmelfort, Dwughjsd</SpecialThanks>
+    <SpecialThanks>LOC_MOD_GENSHIN_IMPACT_MONDSTADT_SPECIAL_THANKS</SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
@@ -18,8 +18,8 @@
     <AssemblyName>Genshin Impact Mondstadt</AssemblyName>
     <RootNamespace>Genshin Impact Mondstadt</RootNamespace>
     <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Config.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_FRONTEND"><File>Data/Civilization_Icon.xml</File><File>Data/Genshin_Shared_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_FRONTEND"><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File><File>Text/Config zh_Hant_HK.xml</File></UpdateText><UpdateArt id="GENSHIN_MONDSTADT_FRONTEND"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Civilization_Core.sql</File><File>Data/Civilization_Leader.sql</File><File>Data/Genshin_Shared_Data.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Civilization_Icon.xml</File><File>Data/Genshin_Shared_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File><File>Text/Config zh_Hant_HK.xml</File><File>Text/InGame en_US.xml</File><File>Text/InGame zh_Hans_CN.xml</File><File>Text/InGame zh_Hant_HK.xml</File></UpdateText><UpdateAudio id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Platforms/MacOS/Audio/SoundbanksInfo.xml</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/Windows/Audio/SoundbanksInfo.xml</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/MacOS/Audio/Mondstadt_Music_Bank.bnk</File><File>Platforms/Windows/Audio/Mondstadt_Music_Bank.bnk</File></UpdateAudio><UpdateArt id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="GENSHIN_MONDSTADT_EXP2"><Criteria>Expansion2</Criteria><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Expansion2_Data.sql</File><File>Data/Genshin_Shared_XP2.sql</File></UpdateDatabase><AddGameplayScripts id="GENSHIN_MONDSTADT_SCRIPT"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Genshin_Shared_Data.lua</File></AddGameplayScripts><AddUserInterfaces id="GENSHIN_MONDSTADT_SCRIPT"><Properties><Context>InGame</Context></Properties><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Genshin_Shared_UI.xml</File></AddUserInterfaces></InGameActions>]]></InGameActionData>
-    <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LEADER_PLAYABLE"><LeaderPlayable>Players:StandardPlayers::LEADER_GENSHIN_FISCHL,Players:Expansion1_Players::LEADER_GENSHIN_FISCHL,Players:Expansion2_Players::LEADER_GENSHIN_FISCHL</LeaderPlayable></Criteria><Criteria id="Expansion2"><GameCoreInUse>Expansion2</GameCoreInUse></Criteria></ActionCriteria>]]></ActionCriteriaData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Civilization_Core.sql</File><File>Data/Civilization_Leader.sql</File><File>Data/Genshin_Shared_Data.sql</File></UpdateDatabase><UpdateColors id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Civilization_Colour.sql</File></UpdateColors><UpdateIcons id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Civilization_Icon.xml</File><File>Data/Genshin_Shared_Icon.xml</File></UpdateIcons><UpdateText id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Text/Config en_US.xml</File><File>Text/Config zh_Hans_CN.xml</File><File>Text/Config zh_Hant_HK.xml</File><File>Text/InGame en_US.xml</File><File>Text/InGame zh_Hans_CN.xml</File><File>Text/InGame zh_Hant_HK.xml</File></UpdateText><UpdateAudio id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Platforms/MacOS/Audio/SoundbanksInfo.xml</File><File>Platforms/MacOS/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/Windows/Audio/SoundbanksInfo.xml</File><File>Platforms/Windows/Audio/GENSHIN_MONDSTADT_MUSIC.ini</File><File>Platforms/MacOS/Audio/Mondstadt_Music_Bank.bnk</File><File>Platforms/Windows/Audio/Mondstadt_Music_Bank.bnk</File></UpdateAudio><UpdateArt id="GENSHIN_MONDSTADT_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="GENSHIN_MONDSTADT_EXP2"><Criteria>Expansion2</Criteria><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Expansion2_Data.sql</File><File>Data/Genshin_Shared_XP2.sql</File></UpdateDatabase><AddGameplayScripts id="GENSHIN_MONDSTADT_SCRIPT"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Genshin_Shared_Data.lua</File></AddGameplayScripts><AddUserInterfaces id="GENSHIN_MONDSTADT_SCRIPT"><Properties><Context>InGame</Context></Properties><Criteria>LEADER_PLAYABLE</Criteria><File>Data/Genshin_Shared_UI.xml</File></AddUserInterfaces><ImportFiles id="UI_Vanilla"><Criteria>LEADER_PLAYABLE</Criteria><File>UI/CityBanners/CityBannerManager.lua</File></ImportFiles><ImportFiles id="UI_XP1"><Properties><LoadOrder>2</LoadOrder></Properties><Criteria>Expansion1</Criteria><Criteria>LEADER_PLAYABLE</Criteria><File>UI/CityBanners/Expansion1/CityBannerManager.lua</File></ImportFiles><ImportFiles id="UI_XP2"><Properties><LoadOrder>3</LoadOrder></Properties><Criteria>Expansion2</Criteria><Criteria>LEADER_PLAYABLE</Criteria><File>UI/CityBanners/Expansion2/CityBannerManager.lua</File></ImportFiles></InGameActions>]]></InGameActionData>
+    <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LEADER_PLAYABLE"><LeaderPlayable>Players:StandardPlayers::LEADER_GENSHIN_FISCHL,Players:Expansion1_Players::LEADER_GENSHIN_FISCHL,Players:Expansion2_Players::LEADER_GENSHIN_FISCHL</LeaderPlayable></Criteria><Criteria id="Expansion2"><GameCoreInUse>Expansion2</GameCoreInUse></Criteria><Criteria id="Expansion1"><GameCoreInUse>Expansion1</GameCoreInUse></Criteria></ActionCriteria>]]></ActionCriteriaData>
     <AssociationData><![CDATA[<Associations>
   <Dependency type="Dlc" title="Expansion: Rise and Fall" id="1B28771A-C749-434B-9053-D1380C553DE9" />
 </Associations>]]></AssociationData>
@@ -211,6 +211,15 @@
     <Content Include="Text\InGame zh_Hant_HK.xml">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="UI\CityBanners\CityBannerManager.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="UI\CityBanners\Expansion1\CityBannerManager.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="UI\CityBanners\Expansion2\CityBannerManager.lua">
+      <SubType>Content</SubType>
+    </Content>
     <XLP Include="XLPs\StrategicView_UILenses.xlp">
       <SubType>Content</SubType>
     </XLP>
@@ -237,6 +246,10 @@
     <Folder Include="Platforms\Windows\BLPs\" />
     <Folder Include="Platforms\Windows\BLPs\SHARED_DATA\" />
     <Folder Include="Text\" />
+    <Folder Include="UI\" />
+    <Folder Include="UI\CityBanners\" />
+    <Folder Include="UI\CityBanners\Expansion1\" />
+    <Folder Include="UI\CityBanners\Expansion2\" />
     <Folder Include="XLPs\" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
